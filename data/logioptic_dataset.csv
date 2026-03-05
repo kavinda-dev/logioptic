@@ -1,0 +1,2001 @@
+origin_id,origin_name,origin_lat,origin_lng,dest_id,dest_name,dest_lat,dest_lng,distance_km,osrm_base_duration_min,time_of_day,day_type,traffic_multiplier,travel_time_minutes
+52,Kiribathgoda,6.9822,79.9486,93,Gonawala,7.1539,79.9819,27.85,40.07,morning_peak,weekend,1.17,48.24
+83,Attanagalla,7.175,80.0706,87,Gothatuwa,6.9217,79.9856,36.57,45.27,morning_peak,weekend,1.17,54.57
+24,Hokandara,6.8494,79.9575,3,Maradana,6.92,79.8617,16.11,24.07,morning_peak,weekend,1.17,30.97
+38,Ja-Ela,7.0733,79.8917,2,Pettah,6.9354,79.8517,22.76,22.05,morning_peak,weekday,1.8,37.36
+22,Kottawa,6.8244,79.9628,89,Havelock Town,6.8856,79.8642,17.82,21.73,midday,weekday,1.2,23.26
+92,Ekala,7.0761,79.9283,60,Bandaragama,6.7167,79.9833,48.71,55.64,midday,weekday,1.2,72.48
+51,Kadawatha,7.0072,79.9508,55,Homagama,6.8444,80.0044,24.6,24.33,night,weekday,0.85,22.91
+7,Bambalapitiya,6.8867,79.8567,21,Ratmalana,6.82,79.8817,9.93,14.95,midday,weekday,1.2,20.32
+14,Dematagoda,6.9261,79.88,9,Dehiwala,6.8517,79.865,10.32,14.9,morning_peak,weekday,1.8,24.74
+60,Bandaragama,6.7167,79.9833,71,Colombo Port,6.95,79.8378,35.59,48.42,evening_peak,weekend,1.4,61.15
+81,Heiyanthuduwa,6.9444,80.0431,36,Ragama,7.0261,79.9181,24.18,33.41,morning_peak,weekend,1.17,38.21
+54,Liyanagemulla,7.1378,79.8853,4,Borella,6.9113,79.8778,33.01,31.12,morning_peak,weekend,1.17,39.42
+34,Peliyagoda,6.9711,79.8906,74,Orugodawatta,6.9486,79.8886,4.92,8.82,night,weekday,0.85,8.45
+72,Mutwal,6.9617,79.8522,78,Kadawatha Junction,7.0028,79.9556,15.1,21.56,morning_peak,weekday,1.8,36.77
+80,Udugampola,7.0717,80.0239,82,Pasyala,7.0911,80.1394,15.56,22.76,evening_peak,weekday,2,51.87
+60,Bandaragama,6.7167,79.9833,41,Negombo,7.2089,79.8353,70.27,62.41,midday,weekday,1.2,64.01
+9,Dehiwala,6.8517,79.865,88,Thimbirigasyaya,6.8839,79.8778,5.62,9.25,midday,weekday,1.2,9.48
+81,Heiyanthuduwa,6.9444,80.0431,8,Wellawatte,6.875,79.8617,29.54,42.45,evening_peak,weekend,1.4,51.84
+41,Negombo,7.2089,79.8353,28,Malabe,6.9061,79.9519,46.22,47.37,night,weekday,0.85,38.22
+48,Dompe,7.065,80.0969,23,Athurugiriya,6.8783,79.9917,37.93,40.01,evening_peak,weekday,2,82.21
+86,Pittugala,6.9133,79.9694,91,Pannala,7.2956,80.0394,54.16,72.45,evening_peak,weekday,2,165.41
+3,Maradana,6.92,79.8617,1,Colombo Fort,6.9344,79.8428,3.24,4.85,evening_peak,weekday,2,8.99
+27,Battaramulla,6.8994,79.9164,9,Dehiwala,6.8517,79.865,10.57,16.2,evening_peak,weekday,2,31.81
+51,Kadawatha,7.0072,79.9508,63,Kirulapone,6.8742,79.8825,20.42,27.7,night,weekday,0.85,23.99
+4,Borella,6.9113,79.8778,94,Welisara North,7.02,79.89,15.59,18.12,morning_peak,weekday,1.8,33.01
+29,Kaduwela,6.9358,79.9778,36,Ragama,7.0261,79.9181,15.55,18.2,night,weekday,0.85,16.37
+28,Malabe,6.9061,79.9519,66,Pannipitiya,6.8308,79.9661,11.12,17.38,evening_peak,weekday,2,30.65
+28,Malabe,6.9061,79.9519,44,Minuwangoda,7.1667,79.9506,40.85,51.61,midday,weekend,1.02,49.87
+92,Ekala,7.0761,79.9283,89,Havelock Town,6.8856,79.8642,32.62,39.08,midday,weekday,1.2,43.07
+62,Ingiriya,6.7344,80.1058,77,Kerawalapitiya,6.9883,79.8658,59.05,57.19,night,weekday,0.85,48.77
+9,Dehiwala,6.8517,79.865,62,Ingiriya,6.7344,80.1058,35.36,41.45,morning_peak,weekday,1.8,70.98
+79,Weboda,7.0364,79.9869,59,Kalutara,6.5854,79.9608,58.64,56,midday,weekday,1.2,71.29
+62,Ingiriya,6.7344,80.1058,58,Avissawella,6.9472,80.2108,34.74,58.33,night,weekday,0.85,49.54
+56,Padukka,6.8361,80.0872,81,Heiyanthuduwa,6.9444,80.0431,20.64,35.97,morning_peak,weekend,1.17,40.96
+87,Gothatuwa,6.9217,79.9856,96,Aluthgama,6.4333,79.9992,68.29,58.2,night,weekday,0.85,44.2
+44,Minuwangoda,7.1667,79.9506,90,Bloemendhal,6.96,79.8647,34.31,40.71,night,weekday,0.85,36.39
+75,Baseline Road,6.9067,79.8869,56,Padukka,6.8361,80.0872,27.4,37.7,morning_peak,weekend,1.17,42.36
+98,Kosgama,6.8856,80.1681,70,Koswatta,6.9194,79.9211,38.04,51.31,midday,weekend,1.02,57.02
+73,Modara,6.9714,79.8681,59,Kalutara,6.5854,79.9608,60.67,64.46,morning_peak,weekday,1.8,119.19
+59,Kalutara,6.5854,79.9608,36,Ragama,7.0261,79.9181,59.66,57.52,morning_peak,weekday,1.8,95.04
+96,Aluthgama,6.4333,79.9992,71,Colombo Port,6.95,79.8378,79.39,83.59,morning_peak,weekday,1.8,145.35
+82,Pasyala,7.0911,80.1394,1,Colombo Fort,6.9344,79.8428,43.25,53.93,evening_peak,weekend,1.4,68.91
+31,Thalawathugoda,6.8869,79.9331,94,Welisara North,7.02,79.89,22.62,27.7,evening_peak,weekday,2,50
+60,Bandaragama,6.7167,79.9833,2,Pettah,6.9354,79.8517,33.59,40.74,night,weekend,0.807,33.47
+32,Biyagama,6.9753,80.0008,9,Dehiwala,6.8517,79.865,26.21,36.21,morning_peak,weekday,1.8,71.96
+20,Moratuwa,6.7731,79.8817,24,Hokandara,6.8494,79.9575,17.74,25.53,midday,weekend,1.02,28.78
+72,Mutwal,6.9617,79.8522,36,Ragama,7.0261,79.9181,14.2,21.67,night,weekday,0.85,15.71
+89,Havelock Town,6.8856,79.8642,99,Bulathsinhala,6.665,80.1825,54.93,67.09,night,weekday,0.85,53.7
+66,Pannipitiya,6.8308,79.9661,54,Liyanagemulla,7.1378,79.8853,49.1,47.37,midday,weekend,1.02,43.62
+68,Sri Jayawardenepura,6.8886,79.9203,33,Kelaniya,7.0017,79.9219,19.18,25.75,midday,weekday,1.2,29.66
+8,Wellawatte,6.875,79.8617,7,Bambalapitiya,6.8867,79.8567,1.9,2.85,evening_peak,weekday,2,5.77
+59,Kalutara,6.5854,79.9608,86,Pittugala,6.9133,79.9694,45.12,44.3,morning_peak,weekday,1.8,91.06
+51,Kadawatha,7.0072,79.9508,54,Liyanagemulla,7.1378,79.8853,23.16,29.67,night,weekday,0.85,24.09
+97,Maththegoda,6.8103,80.0478,28,Malabe,6.9061,79.9519,18.31,30.88,evening_peak,weekend,1.4,39.73
+48,Dompe,7.065,80.0969,19,Panadura,6.7136,79.9042,68.08,67.81,evening_peak,weekend,1.4,81.94
+44,Minuwangoda,7.1667,79.9506,92,Ekala,7.0761,79.9283,15.73,27.19,midday,weekday,1.2,36.38
+37,Kandana,7.0508,79.9058,24,Hokandara,6.8494,79.9575,31.95,39.86,midday,weekday,1.2,48.87
+60,Bandaragama,6.7167,79.9833,97,Maththegoda,6.8103,80.0478,20.65,31.3,morning_peak,weekday,1.8,51.12
+33,Kelaniya,7.0017,79.9219,67,Kahathuduwa,6.7981,80.0133,37.28,39.67,morning_peak,weekday,1.8,80.75
+58,Avissawella,6.9472,80.2108,67,Kahathuduwa,6.7981,80.0133,42.89,58.31,evening_peak,weekday,2,120.64
+86,Pittugala,6.9133,79.9694,23,Athurugiriya,6.8783,79.9917,8.62,10.49,morning_peak,weekday,1.8,21.02
+17,Maharagama,6.8467,79.9283,33,Kelaniya,7.0017,79.9219,32.25,34.15,morning_peak,weekday,1.8,62.44
+42,Gampaha,7.0878,79.9992,26,Rajagiriya,6.9111,79.8989,31.58,40.55,evening_peak,weekend,1.4,63.81
+7,Bambalapitiya,6.8867,79.8567,57,Hanwella,6.9042,80.0842,32.42,40.37,evening_peak,weekday,2,70.35
+16,Nugegoda,6.8689,79.8889,14,Dematagoda,6.9261,79.88,7.49,10.93,night,weekday,0.85,8.94
+66,Pannipitiya,6.8308,79.9661,32,Biyagama,6.9753,80.0008,20.99,24.11,evening_peak,weekday,2,47.72
+63,Kirulapone,6.8742,79.8825,62,Ingiriya,6.7344,80.1058,35.87,42.11,midday,weekday,1.2,43.41
+52,Kiribathgoda,6.9822,79.9486,42,Gampaha,7.0878,79.9992,18.89,28.41,night,weekday,0.85,21.45
+97,Maththegoda,6.8103,80.0478,8,Wellawatte,6.875,79.8617,26.64,40.52,evening_peak,weekday,2,84.03
+68,Sri Jayawardenepura,6.8886,79.9203,6,Kollupitiya,6.8978,79.85,10.01,12.7,morning_peak,weekday,1.8,23.14
+55,Homagama,6.8444,80.0044,40,Katunayake,7.1697,79.8847,51.08,44.08,evening_peak,weekend,1.4,62.01
+30,Mulleriyawa,6.9317,79.9514,19,Panadura,6.7136,79.9042,42.5,43.34,evening_peak,weekday,2,85.09
+55,Homagama,6.8444,80.0044,90,Bloemendhal,6.96,79.8647,29.43,34.68,morning_peak,weekend,1.17,44.67
+9,Dehiwala,6.8517,79.865,12,Grandpass,6.9425,79.8706,13.09,18.2,midday,weekday,1.2,19.59
+34,Peliyagoda,6.9711,79.8906,96,Aluthgama,6.4333,79.9992,81.58,77.37,evening_peak,weekend,1.4,113.52
+1,Colombo Fort,6.9344,79.8428,16,Nugegoda,6.8689,79.8889,10.25,14.46,midday,weekday,1.2,17.02
+93,Gonawala,7.1539,79.9819,67,Kahathuduwa,6.7981,80.0133,52.17,57.76,morning_peak,weekday,1.8,112.01
+57,Hanwella,6.9042,80.0842,29,Kaduwela,6.9358,79.9778,14.04,17.14,morning_peak,weekday,1.8,26.6
+62,Ingiriya,6.7344,80.1058,69,Pelawatte,6.8908,79.9311,36.52,40.29,midday,weekday,1.2,48.23
+39,Seeduwa,7.1175,79.8928,100,Colombo 02,6.9178,79.8464,30.71,33.24,morning_peak,weekday,1.8,58.01
+10,Mount Lavinia,6.8311,79.865,69,Pelawatte,6.8908,79.9311,15.19,22.8,night,weekday,0.85,16.56
+19,Panadura,6.7136,79.9042,58,Avissawella,6.9472,80.2108,70.71,77.84,midday,weekday,1.2,98.56
+16,Nugegoda,6.8689,79.8889,24,Hokandara,6.8494,79.9575,9.11,15.2,night,weekend,0.807,13.63
+32,Biyagama,6.9753,80.0008,91,Pannala,7.2956,80.0394,44.02,62.87,evening_peak,weekday,2,128.51
+33,Kelaniya,7.0017,79.9219,61,Panadura South,6.695,79.905,54.47,55.23,evening_peak,weekend,1.4,74.68
+33,Kelaniya,7.0017,79.9219,40,Katunayake,7.1697,79.8847,32.39,31,night,weekday,0.85,22.95
+95,Beruwala,6.4781,79.9833,46,Mirigama,7.2453,80.1217,104.8,102.84,morning_peak,weekday,1.8,195.28
+81,Heiyanthuduwa,6.9444,80.0431,90,Bloemendhal,6.96,79.8647,24.78,37.15,midday,weekend,1.02,32.47
+34,Peliyagoda,6.9711,79.8906,7,Bambalapitiya,6.8867,79.8567,12.89,18.39,morning_peak,weekday,1.8,34.38
+29,Kaduwela,6.9358,79.9778,36,Ragama,7.0261,79.9181,15.55,18.2,midday,weekend,1.02,18.83
+73,Modara,6.9714,79.8681,24,Hokandara,6.8494,79.9575,21.64,32.73,evening_peak,weekend,1.4,44.62
+82,Pasyala,7.0911,80.1394,96,Aluthgama,6.4333,79.9992,103.59,96.38,midday,weekend,1.02,108.88
+55,Homagama,6.8444,80.0044,13,Mattakkuliya,6.9703,79.8778,27.99,35.18,evening_peak,weekday,2,67.78
+62,Ingiriya,6.7344,80.1058,84,Yakkala,7.1019,80.0767,63.31,66.44,night,weekday,0.85,63.18
+49,Kirindiwela,6.9928,80.0944,100,Colombo 02,6.9178,79.8464,36.1,55.21,morning_peak,weekend,1.17,56.68
+71,Colombo Port,6.95,79.8378,28,Malabe,6.9061,79.9519,17.77,28.9,night,weekend,0.807,23.85
+16,Nugegoda,6.8689,79.8889,69,Pelawatte,6.8908,79.9311,8.76,13.45,midday,weekday,1.2,16.98
+100,Colombo 02,6.9178,79.8464,53,Mahara,7.0547,80.0153,28.14,36.84,evening_peak,weekend,1.4,45.25
+42,Gampaha,7.0878,79.9992,58,Avissawella,6.9472,80.2108,40.2,54.73,morning_peak,weekday,1.8,96.79
+87,Gothatuwa,6.9217,79.9856,93,Gonawala,7.1539,79.9819,33.61,42.37,midday,weekday,1.2,45.4
+74,Orugodawatta,6.9486,79.8886,58,Avissawella,6.9472,80.2108,45.26,59.06,evening_peak,weekday,2,103.38
+13,Mattakkuliya,6.9703,79.8778,40,Katunayake,7.1697,79.8847,29.83,26.89,morning_peak,weekend,1.17,33.41
+5,Cinnamon Gardens,6.9011,79.8601,29,Kaduwela,6.9358,79.9778,16.92,23.32,morning_peak,weekend,1.17,26.26
+65,Pepiliyana,6.8528,79.9183,86,Pittugala,6.9133,79.9694,15.07,21.11,evening_peak,weekend,1.4,33.86
+4,Borella,6.9113,79.8778,36,Ragama,7.0261,79.9181,16.58,22.12,midday,weekday,1.2,28.75
+54,Liyanagemulla,7.1378,79.8853,39,Seeduwa,7.1175,79.8928,3.81,6.71,midday,weekend,1.02,6.05
+67,Kahathuduwa,6.7981,80.0133,45,Divulapitiya,7.2278,80.06,62.46,70.05,morning_peak,weekday,1.8,109.31
+92,Ekala,7.0761,79.9283,72,Mutwal,6.9617,79.8522,20.36,33.14,morning_peak,weekday,1.8,64.06
+77,Kerawalapitiya,6.9883,79.8658,92,Ekala,7.0761,79.9283,17.03,27.15,night,weekday,0.85,21.59
+56,Padukka,6.8361,80.0872,33,Kelaniya,7.0017,79.9219,35.61,42.89,morning_peak,weekend,1.17,42.84
+32,Biyagama,6.9753,80.0008,45,Divulapitiya,7.2278,80.06,34.69,46.25,morning_peak,weekend,1.17,54.56
+75,Baseline Road,6.9067,79.8869,36,Ragama,7.0261,79.9181,17.65,23.75,evening_peak,weekend,1.4,33.48
+49,Kirindiwela,6.9928,80.0944,14,Dematagoda,6.9261,79.88,29.96,48,midday,weekend,1.02,51.85
+3,Maradana,6.92,79.8617,16,Nugegoda,6.8689,79.8889,8.63,12.95,evening_peak,weekend,1.4,20.62
+16,Nugegoda,6.8689,79.8889,72,Mutwal,6.9617,79.8522,13.26,20.19,midday,weekday,1.2,23.03
+92,Ekala,7.0761,79.9283,36,Ragama,7.0261,79.9181,7.77,16.9,midday,weekday,1.2,20.79
+92,Ekala,7.0761,79.9283,41,Negombo,7.2089,79.8353,24.39,31.62,morning_peak,weekday,1.8,48.93
+73,Modara,6.9714,79.8681,33,Kelaniya,7.0017,79.9219,9.62,14.97,midday,weekday,1.2,16.73
+13,Mattakkuliya,6.9703,79.8778,46,Mirigama,7.2453,80.1217,51.37,61.04,morning_peak,weekend,1.17,69.63
+69,Pelawatte,6.8908,79.9311,47,Nittambuwa,7.1497,80.18,58.43,68.96,night,weekday,0.85,65.24
+5,Cinnamon Gardens,6.9011,79.8601,33,Kelaniya,7.0017,79.9219,16.11,23.36,evening_peak,weekday,2,53.52
+11,Kotahena,6.9531,79.8597,85,Hendala,6.9894,79.9019,10.63,16.18,evening_peak,weekday,2,35.56
+49,Kirindiwela,6.9928,80.0944,77,Kerawalapitiya,6.9883,79.8658,33.42,51.47,morning_peak,weekday,1.8,82.47
+21,Ratmalana,6.82,79.8817,55,Homagama,6.8444,80.0044,16.84,24.76,night,weekend,0.807,22.99
+3,Maradana,6.92,79.8617,53,Mahara,7.0547,80.0153,26.31,33.83,evening_peak,weekend,1.4,51.01
+83,Attanagalla,7.175,80.0706,17,Maharagama,6.8467,79.9283,51.93,57.78,morning_peak,weekday,1.8,96.25
+45,Divulapitiya,7.2278,80.06,77,Kerawalapitiya,6.9883,79.8658,47.36,58.06,morning_peak,weekend,1.17,73.17
+34,Peliyagoda,6.9711,79.8906,92,Ekala,7.0761,79.9283,15.61,24.93,morning_peak,weekday,1.8,44.85
+54,Liyanagemulla,7.1378,79.8853,3,Maradana,6.92,79.8617,33.59,32.47,evening_peak,weekend,1.4,46.17
+5,Cinnamon Gardens,6.9011,79.8601,94,Welisara North,7.02,79.89,18.24,21.98,night,weekday,0.85,16.63
+47,Nittambuwa,7.1497,80.18,23,Athurugiriya,6.8783,79.9917,53.81,63.17,evening_peak,weekday,2,134.08
+51,Kadawatha,7.0072,79.9508,38,Ja-Ela,7.0733,79.8917,14.89,18.52,evening_peak,weekend,1.4,26.77
+82,Pasyala,7.0911,80.1394,30,Mulleriyawa,6.9317,79.9514,38.83,48,evening_peak,weekday,2,102.52
+38,Ja-Ela,7.0733,79.8917,97,Maththegoda,6.8103,80.0478,50.89,53.05,evening_peak,weekday,2,109.99
+51,Kadawatha,7.0072,79.9508,81,Heiyanthuduwa,6.9444,80.0431,19.61,28.27,night,weekday,0.85,27.1
+74,Orugodawatta,6.9486,79.8886,17,Maharagama,6.8467,79.9283,16.63,24.54,morning_peak,weekday,1.8,50.53
+53,Mahara,7.0547,80.0153,66,Pannipitiya,6.8308,79.9661,32.6,33.84,midday,weekday,1.2,37.44
+23,Athurugiriya,6.8783,79.9917,55,Homagama,6.8444,80.0044,4.75,7.84,evening_peak,weekday,2,16.61
+4,Borella,6.9113,79.8778,56,Padukka,6.8361,80.0872,27.59,37.2,midday,weekend,1.02,38.12
+32,Biyagama,6.9753,80.0008,50,Ganemulla,7.0922,80.0225,15.9,21.91,evening_peak,weekday,2,48.05
+82,Pasyala,7.0911,80.1394,92,Ekala,7.0761,79.9283,29.19,43.29,midday,weekday,1.2,52.71
+5,Cinnamon Gardens,6.9011,79.8601,12,Grandpass,6.9425,79.8706,6.4,10.37,morning_peak,weekday,1.8,18.69
+45,Divulapitiya,7.2278,80.06,27,Battaramulla,6.8994,79.9164,50.55,64.6,morning_peak,weekend,1.17,78.48
+56,Padukka,6.8361,80.0872,94,Welisara North,7.02,79.89,39.66,41.86,morning_peak,weekday,1.8,64.1
+36,Ragama,7.0261,79.9181,1,Colombo Fort,6.9344,79.8428,16.2,21.5,morning_peak,weekday,1.8,44.35
+47,Nittambuwa,7.1497,80.18,56,Padukka,6.8361,80.0872,45.22,69.84,midday,weekday,1.2,80.51
+88,Thimbirigasyaya,6.8839,79.8778,2,Pettah,6.9354,79.8517,8.72,12.63,evening_peak,weekday,2,23.38
+7,Bambalapitiya,6.8867,79.8567,3,Maradana,6.92,79.8617,5.36,7.52,night,weekday,0.85,6.45
+18,Piliyandala,6.8017,79.9247,38,Ja-Ela,7.0733,79.8917,38.72,43.23,evening_peak,weekday,2,80.47
+28,Malabe,6.9061,79.9519,74,Orugodawatta,6.9486,79.8886,12.69,20.71,evening_peak,weekend,1.4,25.42
+44,Minuwangoda,7.1667,79.9506,25,Boralesgamuwa,6.8372,79.9111,47.07,58.15,night,weekday,0.85,52.08
+67,Kahathuduwa,6.7981,80.0133,18,Piliyandala,6.8017,79.9247,11.86,16.84,morning_peak,weekday,1.8,31.1
+8,Wellawatte,6.875,79.8617,40,Katunayake,7.1697,79.8847,38.18,36.73,midday,weekday,1.2,41.22
+6,Kollupitiya,6.8978,79.85,52,Kiribathgoda,6.9822,79.9486,18.87,27.4,evening_peak,weekday,2,52.43
+70,Koswatta,6.9194,79.9211,33,Kelaniya,7.0017,79.9219,13.25,22.9,morning_peak,weekday,1.8,39.56
+4,Borella,6.9113,79.8778,94,Welisara North,7.02,79.89,15.59,18.12,morning_peak,weekday,1.8,29.42
+55,Homagama,6.8444,80.0044,9,Dehiwala,6.8517,79.865,16.93,23.18,morning_peak,weekday,1.8,40.6
+36,Ragama,7.0261,79.9181,24,Hokandara,6.8494,79.9575,28.43,33.99,morning_peak,weekday,1.8,69.8
+4,Borella,6.9113,79.8778,79,Weboda,7.0364,79.9869,21.73,27.76,evening_peak,weekday,2,50.04
+51,Kadawatha,7.0072,79.9508,62,Ingiriya,6.7344,80.1058,46.68,45.93,night,weekday,0.85,39.88
+51,Kadawatha,7.0072,79.9508,45,Divulapitiya,7.2278,80.06,33.31,43.27,evening_peak,weekday,2,81.96
+19,Panadura,6.7136,79.9042,84,Yakkala,7.1019,80.0767,64.83,67.24,midday,weekday,1.2,71.36
+90,Bloemendhal,6.96,79.8647,14,Dematagoda,6.9261,79.88,5.84,8.96,midday,weekday,1.2,9.64
+100,Colombo 02,6.9178,79.8464,77,Kerawalapitiya,6.9883,79.8658,10.48,15.84,evening_peak,weekday,2,30.13
+10,Mount Lavinia,6.8311,79.865,5,Cinnamon Gardens,6.9011,79.8601,8.57,11.63,morning_peak,weekend,1.17,12.88
+2,Pettah,6.9354,79.8517,84,Yakkala,7.1019,80.0767,34.42,44.91,morning_peak,weekday,1.8,87.15
+75,Baseline Road,6.9067,79.8869,15,Narahenpita,6.8981,79.8742,3.63,5.66,midday,weekday,1.2,6.48
+49,Kirindiwela,6.9928,80.0944,69,Pelawatte,6.8908,79.9311,26.57,44.47,night,weekend,0.807,31.86
+75,Baseline Road,6.9067,79.8869,9,Dehiwala,6.8517,79.865,9.96,14.44,morning_peak,weekday,1.8,29.32
+64,Gangodawila,6.8567,79.8994,22,Kottawa,6.8244,79.9628,12.79,15.51,morning_peak,weekend,1.17,19.93
+14,Dematagoda,6.9261,79.88,60,Bandaragama,6.7167,79.9833,30.05,37.67,morning_peak,weekday,1.8,74.21
+78,Kadawatha Junction,7.0028,79.9556,26,Rajagiriya,6.9111,79.8989,17.6,22.88,night,weekday,0.85,19.96
+18,Piliyandala,6.8017,79.9247,40,Katunayake,7.1697,79.8847,46.97,48.39,midday,weekend,1.02,55.28
+38,Ja-Ela,7.0733,79.8917,97,Maththegoda,6.8103,80.0478,50.89,53.05,evening_peak,weekday,2,97.58
+97,Maththegoda,6.8103,80.0478,66,Pannipitiya,6.8308,79.9661,14.67,23.76,evening_peak,weekend,1.4,34.5
+51,Kadawatha,7.0072,79.9508,70,Koswatta,6.9194,79.9211,14.2,23.19,night,weekday,0.85,18.74
+64,Gangodawila,6.8567,79.8994,15,Narahenpita,6.8981,79.8742,6.97,10.94,night,weekday,0.85,9.97
+27,Battaramulla,6.8994,79.9164,36,Ragama,7.0261,79.9181,20.93,27.09,night,weekend,0.807,23.23
+27,Battaramulla,6.8994,79.9164,55,Homagama,6.8444,80.0044,15.07,22.16,morning_peak,weekday,1.8,42.45
+5,Cinnamon Gardens,6.9011,79.8601,74,Orugodawatta,6.9486,79.8886,8.74,15.32,midday,weekend,1.02,13.8
+100,Colombo 02,6.9178,79.8464,88,Thimbirigasyaya,6.8839,79.8778,7.75,11.28,evening_peak,weekday,2,22.83
+29,Kaduwela,6.9358,79.9778,47,Nittambuwa,7.1497,80.18,46.49,57.16,midday,weekend,1.02,49.77
+36,Ragama,7.0261,79.9181,26,Rajagiriya,6.9111,79.8989,18.68,25.13,morning_peak,weekday,1.8,40.91
+74,Orugodawatta,6.9486,79.8886,38,Ja-Ela,7.0733,79.8917,21.35,21.31,morning_peak,weekday,1.8,35.92
+12,Grandpass,6.9425,79.8706,90,Bloemendhal,6.96,79.8647,3.49,6,evening_peak,weekday,2,12.4
+60,Bandaragama,6.7167,79.9833,43,Veyangoda,7.1522,80.1128,62.74,60.99,night,weekday,0.85,54.9
+37,Kandana,7.0508,79.9058,72,Mutwal,6.9617,79.8522,15.37,23.55,evening_peak,weekend,1.4,31.73
+9,Dehiwala,6.8517,79.865,51,Kadawatha,7.0072,79.9508,24.4,32.77,evening_peak,weekend,1.4,51.74
+23,Athurugiriya,6.8783,79.9917,1,Colombo Fort,6.9344,79.8428,20.05,26.26,morning_peak,weekend,1.17,33.85
+54,Liyanagemulla,7.1378,79.8853,87,Gothatuwa,6.9217,79.9856,41.24,39.99,night,weekend,0.807,32.47
+40,Katunayake,7.1697,79.8847,15,Narahenpita,6.8981,79.8742,33.73,30.54,midday,weekday,1.2,34.84
+52,Kiribathgoda,6.9822,79.9486,57,Hanwella,6.9042,80.0842,21.71,29.59,morning_peak,weekday,1.8,51.63
+25,Boralesgamuwa,6.8372,79.9111,90,Bloemendhal,6.96,79.8647,19.12,26.29,night,weekday,0.85,21.32
+34,Peliyagoda,6.9711,79.8906,91,Pannala,7.2956,80.0394,49.6,67.17,midday,weekday,1.2,79.45
+51,Kadawatha,7.0072,79.9508,54,Liyanagemulla,7.1378,79.8853,23.16,29.67,morning_peak,weekday,1.8,52.11
+88,Thimbirigasyaya,6.8839,79.8778,33,Kelaniya,7.0017,79.9219,16.4,23.71,midday,weekday,1.2,29.58
+28,Malabe,6.9061,79.9519,85,Hendala,6.9894,79.9019,15.41,25.4,midday,weekend,1.02,25.59
+20,Moratuwa,6.7731,79.8817,86,Pittugala,6.9133,79.9694,31.77,34.73,morning_peak,weekend,1.17,40.66
+1,Colombo Fort,6.9344,79.8428,96,Aluthgama,6.4333,79.9992,76.52,74.59,morning_peak,weekend,1.17,79.68
+83,Attanagalla,7.175,80.0706,62,Ingiriya,6.7344,80.1058,69.45,73.73,morning_peak,weekday,1.8,114.26
+30,Mulleriyawa,6.9317,79.9514,16,Nugegoda,6.8689,79.8889,12.38,22.85,evening_peak,weekday,2,49.48
+47,Nittambuwa,7.1497,80.18,66,Pannipitiya,6.8308,79.9661,60.76,70.05,evening_peak,weekday,2,139.97
+51,Kadawatha,7.0072,79.9508,63,Kirulapone,6.8742,79.8825,20.42,27.7,morning_peak,weekday,1.8,43.51
+3,Maradana,6.92,79.8617,32,Biyagama,6.9753,80.0008,21.18,28.85,morning_peak,weekend,1.17,34.02
+97,Maththegoda,6.8103,80.0478,87,Gothatuwa,6.9217,79.9856,23.2,31.81,night,weekend,0.807,28.51
+8,Wellawatte,6.875,79.8617,65,Pepiliyana,6.8528,79.9183,8.02,12.55,evening_peak,weekday,2,22.81
+72,Mutwal,6.9617,79.8522,54,Liyanagemulla,7.1378,79.8853,28.78,32.2,midday,weekday,1.2,43.13
+92,Ekala,7.0761,79.9283,8,Wellawatte,6.875,79.8617,34.47,41.23,morning_peak,weekday,1.8,79.16
+46,Mirigama,7.2453,80.1217,16,Nugegoda,6.8689,79.8889,58.61,71.89,midday,weekday,1.2,78.63
+95,Beruwala,6.4781,79.9833,55,Homagama,6.8444,80.0044,52.15,50.73,night,weekday,0.85,37.76
+23,Athurugiriya,6.8783,79.9917,85,Hendala,6.9894,79.9019,25.66,26.8,morning_peak,weekday,1.8,49.44
+60,Bandaragama,6.7167,79.9833,82,Pasyala,7.0911,80.1394,64.3,65.91,night,weekend,0.807,50.7
+2,Pettah,6.9354,79.8517,67,Kahathuduwa,6.7981,80.0133,31.15,40.68,evening_peak,weekday,2,84.39
+38,Ja-Ela,7.0733,79.8917,94,Welisara North,7.02,79.89,8.78,12.49,midday,weekend,1.02,11.67
+86,Pittugala,6.9133,79.9694,24,Hokandara,6.8494,79.9575,10.41,17.25,morning_peak,weekday,1.8,35.57
+87,Gothatuwa,6.9217,79.9856,96,Aluthgama,6.4333,79.9992,68.29,58.2,midday,weekday,1.2,64.99
+40,Katunayake,7.1697,79.8847,66,Pannipitiya,6.8308,79.9661,51.57,44.45,evening_peak,weekday,2,79.28
+4,Borella,6.9113,79.8778,26,Rajagiriya,6.9111,79.8989,2.58,3.73,evening_peak,weekday,2,6.95
+75,Baseline Road,6.9067,79.8869,70,Koswatta,6.9194,79.9211,5.57,10.1,night,weekday,0.85,8.78
+38,Ja-Ela,7.0733,79.8917,34,Peliyagoda,6.9711,79.8906,17.7,17.43,evening_peak,weekday,2,38.31
+87,Gothatuwa,6.9217,79.9856,86,Pittugala,6.9133,79.9694,2.97,5.71,morning_peak,weekend,1.17,7.43
+40,Katunayake,7.1697,79.8847,98,Kosgama,6.8856,80.1681,66.12,69.76,evening_peak,weekday,2,125.93
+45,Divulapitiya,7.2278,80.06,17,Maharagama,6.8467,79.9283,58.76,66.89,midday,weekday,1.2,80.72
+64,Gangodawila,6.8567,79.8994,2,Pettah,6.9354,79.8517,13.69,19.06,morning_peak,weekend,1.17,19.51
+36,Ragama,7.0261,79.9181,26,Rajagiriya,6.9111,79.8989,18.68,25.13,morning_peak,weekend,1.17,28.85
+36,Ragama,7.0261,79.9181,59,Kalutara,6.5854,79.9608,61.06,59.5,midday,weekday,1.2,70.89
+24,Hokandara,6.8494,79.9575,22,Kottawa,6.8244,79.9628,4.92,8.98,evening_peak,weekday,2,15.43
+20,Moratuwa,6.7731,79.8817,83,Attanagalla,7.175,80.0706,64.78,71.21,evening_peak,weekday,2,142.26
+98,Kosgama,6.8856,80.1681,73,Modara,6.9714,79.8681,44.95,60.37,evening_peak,weekday,2,105.35
+17,Maharagama,6.8467,79.9283,1,Colombo Fort,6.9344,79.8428,15.7,21.93,midday,weekday,1.2,25.8
+39,Seeduwa,7.1175,79.8928,35,Wattala,6.9939,79.8781,17.43,24.28,evening_peak,weekend,1.4,35.98
+94,Welisara North,7.02,79.89,98,Kosgama,6.8856,80.1681,48.13,55.33,morning_peak,weekday,1.8,108.78
+49,Kirindiwela,6.9928,80.0944,61,Panadura South,6.695,79.905,56.68,69.67,evening_peak,weekday,2,140.23
+12,Grandpass,6.9425,79.8706,62,Ingiriya,6.7344,80.1058,48.59,52.07,night,weekend,0.807,43.8
+81,Heiyanthuduwa,6.9444,80.0431,87,Gothatuwa,6.9217,79.9856,11.08,19.93,evening_peak,weekday,2,45.61
+82,Pasyala,7.0911,80.1394,89,Havelock Town,6.8856,79.8642,46.81,59.41,evening_peak,weekday,2,102.84
+26,Rajagiriya,6.9111,79.8989,47,Nittambuwa,7.1497,80.18,57.01,71.64,morning_peak,weekday,1.8,148.27
+26,Rajagiriya,6.9111,79.8989,85,Hendala,6.9894,79.9019,14.38,20.68,midday,weekday,1.2,21.99
+7,Bambalapitiya,6.8867,79.8567,9,Dehiwala,6.8517,79.865,5.25,8.28,morning_peak,weekday,1.8,14.55
+93,Gonawala,7.1539,79.9819,82,Pasyala,7.0911,80.1394,23.48,35.75,evening_peak,weekday,2,70.54
+59,Kalutara,6.5854,79.9608,17,Maharagama,6.8467,79.9283,38.41,43.34,evening_peak,weekday,2,88.26
+45,Divulapitiya,7.2278,80.06,98,Kosgama,6.8856,80.1681,53.06,71.18,night,weekday,0.85,59.43
+87,Gothatuwa,6.9217,79.9856,39,Seeduwa,7.1175,79.8928,35.19,36.8,midday,weekday,1.2,48.01
+25,Boralesgamuwa,6.8372,79.9111,13,Mattakkuliya,6.9703,79.8778,18.06,27.33,evening_peak,weekend,1.4,39.59
+66,Pannipitiya,6.8308,79.9661,55,Homagama,6.8444,80.0044,6.37,9.2,midday,weekend,1.02,7.98
+13,Mattakkuliya,6.9703,79.8778,18,Piliyandala,6.8017,79.9247,22.17,31.07,night,weekend,0.807,28.84
+29,Kaduwela,6.9358,79.9778,62,Ingiriya,6.7344,80.1058,37.3,37.43,morning_peak,weekday,1.8,66.97
+16,Nugegoda,6.8689,79.8889,56,Padukka,6.8361,80.0872,24.96,35.58,morning_peak,weekday,1.8,56.2
+84,Yakkala,7.1019,80.0767,5,Cinnamon Gardens,6.9011,79.8601,37.63,48.61,evening_peak,weekday,2,96.27
+30,Mulleriyawa,6.9317,79.9514,68,Sri Jayawardenepura,6.8886,79.9203,8.27,15.76,evening_peak,weekday,2,29.41
+53,Mahara,7.0547,80.0153,79,Weboda,7.0364,79.9869,5.12,7.98,midday,weekday,1.2,10.09
+12,Grandpass,6.9425,79.8706,59,Kalutara,6.5854,79.9608,57.75,59.61,night,weekend,0.807,42.21
+70,Koswatta,6.9194,79.9211,39,Seeduwa,7.1175,79.8928,32.55,37.07,night,weekend,0.807,29.64
+77,Kerawalapitiya,6.9883,79.8658,98,Kosgama,6.8856,80.1681,52.37,62.02,morning_peak,weekend,1.17,66.72
+20,Moratuwa,6.7731,79.8817,93,Gonawala,7.1539,79.9819,61.57,68,evening_peak,weekday,2,136.52
+74,Orugodawatta,6.9486,79.8886,98,Kosgama,6.8856,80.1681,41.17,56.42,midday,weekday,1.2,76.99
+6,Kollupitiya,6.8978,79.85,5,Cinnamon Gardens,6.9011,79.8601,1.21,2.62,morning_peak,weekend,1.17,3.42
+99,Bulathsinhala,6.665,80.1825,20,Moratuwa,6.7731,79.8817,49.98,62.93,night,weekday,0.85,51.83
+50,Ganemulla,7.0922,80.0225,82,Pasyala,7.0911,80.1394,16.27,22.17,evening_peak,weekday,2,48.54
+13,Mattakkuliya,6.9703,79.8778,89,Havelock Town,6.8856,79.8642,10.92,16.5,evening_peak,weekday,2,28.96
+56,Padukka,6.8361,80.0872,67,Kahathuduwa,6.7981,80.0133,15.58,25.06,morning_peak,weekday,1.8,38.94
+98,Kosgama,6.8856,80.1681,76,Welisara,7.0097,79.8939,50.51,59.88,morning_peak,weekday,1.8,121.74
+11,Kotahena,6.9531,79.8597,59,Kalutara,6.5854,79.9608,45.37,61.59,midday,weekday,1.2,62.93
+5,Cinnamon Gardens,6.9011,79.8601,48,Dompe,7.065,80.0969,40.95,50.25,midday,weekday,1.2,55.24
+77,Kerawalapitiya,6.9883,79.8658,28,Malabe,6.9061,79.9519,19.12,26.62,morning_peak,weekend,1.17,31.1
+96,Aluthgama,6.4333,79.9992,62,Ingiriya,6.7344,80.1058,56.65,54.32,evening_peak,weekend,1.4,72.58
+98,Kosgama,6.8856,80.1681,40,Katunayake,7.1697,79.8847,65.99,69.56,evening_peak,weekday,2,154.92
+19,Panadura,6.7136,79.9042,80,Udugampola,7.0717,80.0239,57.42,55.95,evening_peak,weekend,1.4,86.96
+41,Negombo,7.2089,79.8353,13,Mattakkuliya,6.9703,79.8778,34.94,34.78,night,weekday,0.85,31.16
+63,Kirulapone,6.8742,79.8825,27,Battaramulla,6.8994,79.9164,7.34,11.68,evening_peak,weekday,2,26.03
+58,Avissawella,6.9472,80.2108,31,Thalawathugoda,6.8869,79.9331,42.48,55.77,night,weekday,0.85,45.06
+30,Mulleriyawa,6.9317,79.9514,39,Seeduwa,7.1175,79.8928,32.91,37.46,morning_peak,weekend,1.17,48.2
+93,Gonawala,7.1539,79.9819,12,Grandpass,6.9425,79.8706,34.97,42.07,morning_peak,weekday,1.8,78.38
+17,Maharagama,6.8467,79.9283,95,Beruwala,6.4781,79.9833,61.42,58.57,midday,weekday,1.2,77
+70,Koswatta,6.9194,79.9211,83,Attanagalla,7.175,80.0706,41.27,51.71,evening_peak,weekday,2,117.78
+63,Kirulapone,6.8742,79.8825,28,Malabe,6.9061,79.9519,11.6,17.2,evening_peak,weekend,1.4,21.21
+68,Sri Jayawardenepura,6.8886,79.9203,20,Moratuwa,6.7731,79.8817,20.13,28.88,evening_peak,weekday,2,54.31
+17,Maharagama,6.8467,79.9283,12,Grandpass,6.9425,79.8706,15.75,23.46,morning_peak,weekday,1.8,40.28
+90,Bloemendhal,6.96,79.8647,82,Pasyala,7.0911,80.1394,40.87,51.45,night,weekend,0.807,47.39
+36,Ragama,7.0261,79.9181,99,Bulathsinhala,6.665,80.1825,68.86,74.62,evening_peak,weekday,2,129.79
+33,Kelaniya,7.0017,79.9219,6,Kollupitiya,6.8978,79.85,17.38,23.2,midday,weekend,1.02,21.91
+87,Gothatuwa,6.9217,79.9856,26,Rajagiriya,6.9111,79.8989,13.17,18.47,morning_peak,weekday,1.8,37.68
+99,Bulathsinhala,6.665,80.1825,13,Mattakkuliya,6.9703,79.8778,66.53,78.32,night,weekday,0.85,73.08
+75,Baseline Road,6.9067,79.8869,32,Biyagama,6.9753,80.0008,20.39,26.39,morning_peak,weekday,1.8,49.7
+27,Battaramulla,6.8994,79.9164,67,Kahathuduwa,6.7981,80.0133,19.9,29.97,night,weekday,0.85,24.96
+21,Ratmalana,6.82,79.8817,47,Nittambuwa,7.1497,80.18,71.48,85.12,midday,weekday,1.2,99.01
+57,Hanwella,6.9042,80.0842,69,Pelawatte,6.8908,79.9311,22.55,29.18,night,weekday,0.85,27.74
+15,Narahenpita,6.8981,79.8742,34,Peliyagoda,6.9711,79.8906,9.56,14.15,morning_peak,weekday,1.8,26.63
+12,Grandpass,6.9425,79.8706,18,Piliyandala,6.8017,79.9247,19.57,27.31,night,weekday,0.85,26.47
+46,Mirigama,7.2453,80.1217,89,Havelock Town,6.8856,79.8642,56.8,69.71,night,weekend,0.807,60.87
+46,Mirigama,7.2453,80.1217,50,Ganemulla,7.0922,80.0225,26.26,32.49,evening_peak,weekday,2,57.79
+53,Mahara,7.0547,80.0153,24,Hokandara,6.8494,79.9575,30.28,36.15,night,weekday,0.85,33.46
+25,Boralesgamuwa,6.8372,79.9111,94,Welisara North,7.02,79.89,25.97,33.48,morning_peak,weekday,1.8,63.62
+100,Colombo 02,6.9178,79.8464,9,Dehiwala,6.8517,79.865,9.13,12.68,morning_peak,weekday,1.8,19.84
+2,Pettah,6.9354,79.8517,88,Thimbirigasyaya,6.8839,79.8778,8.28,11.84,midday,weekend,1.02,10.81
+21,Ratmalana,6.82,79.8817,18,Piliyandala,6.8017,79.9247,8.01,12.98,evening_peak,weekday,2,29.66
+38,Ja-Ela,7.0733,79.8917,32,Biyagama,6.9753,80.0008,23.47,31.97,evening_peak,weekend,1.4,50.84
+41,Negombo,7.2089,79.8353,8,Wellawatte,6.875,79.8617,43.02,44.21,evening_peak,weekend,1.4,55.32
+76,Welisara,7.0097,79.8939,46,Mirigama,7.2453,80.1217,47.87,56.06,morning_peak,weekday,1.8,104.48
+20,Moratuwa,6.7731,79.8817,33,Kelaniya,7.0017,79.9219,31.13,43.23,evening_peak,weekday,2,81.96
+2,Pettah,6.9354,79.8517,97,Maththegoda,6.8103,80.0478,31.61,47.23,morning_peak,weekday,1.8,73.11
+26,Rajagiriya,6.9111,79.8989,22,Kottawa,6.8244,79.9628,15.17,21.72,midday,weekend,1.02,20.17
+15,Narahenpita,6.8981,79.8742,98,Kosgama,6.8856,80.1681,45.15,58.73,morning_peak,weekday,1.8,120.03
+61,Panadura South,6.695,79.905,67,Kahathuduwa,6.7981,80.0133,26.52,33.63,night,weekday,0.85,29.59
+95,Beruwala,6.4781,79.9833,32,Biyagama,6.9753,80.0008,65.36,62.05,midday,weekend,1.02,71.78
+92,Ekala,7.0761,79.9283,62,Ingiriya,6.7344,80.1058,57.91,64.49,evening_peak,weekday,2,128.38
+75,Baseline Road,6.9067,79.8869,84,Yakkala,7.1019,80.0767,36.34,47.01,evening_peak,weekday,2,102.03
+3,Maradana,6.92,79.8617,41,Negombo,7.2089,79.8353,37.86,37.22,morning_peak,weekday,1.8,71.51
+12,Grandpass,6.9425,79.8706,87,Gothatuwa,6.9217,79.9856,15.72,21.99,evening_peak,weekday,2,45.51
+19,Panadura,6.7136,79.9042,55,Homagama,6.8444,80.0044,30.49,33.87,midday,weekend,1.02,38.4
+53,Mahara,7.0547,80.0153,55,Homagama,6.8444,80.0044,31.67,32.52,morning_peak,weekday,1.8,50.12
+83,Attanagalla,7.175,80.0706,22,Kottawa,6.8244,79.9628,49.32,54.58,midday,weekday,1.2,65.36
+28,Malabe,6.9061,79.9519,74,Orugodawatta,6.9486,79.8886,12.69,20.71,midday,weekday,1.2,24.24
+79,Weboda,7.0364,79.9869,97,Maththegoda,6.8103,80.0478,35.94,41.72,night,weekday,0.85,40.36
+58,Avissawella,6.9472,80.2108,61,Panadura South,6.695,79.905,72.15,79.26,night,weekday,0.85,72.13
+20,Moratuwa,6.7731,79.8817,60,Bandaragama,6.7167,79.9833,19.47,27.08,morning_peak,weekend,1.17,32.43
+36,Ragama,7.0261,79.9181,98,Kosgama,6.8856,80.1681,45.3,56.98,midday,weekend,1.02,65.11
+6,Kollupitiya,6.8978,79.85,39,Seeduwa,7.1175,79.8928,31.62,35.41,morning_peak,weekday,1.8,71.62
+12,Grandpass,6.9425,79.8706,3,Maradana,6.92,79.8617,3.83,6.62,evening_peak,weekday,2,14.17
+99,Bulathsinhala,6.665,80.1825,26,Rajagiriya,6.9111,79.8989,58.63,69.23,evening_peak,weekend,1.4,87.61
+44,Minuwangoda,7.1667,79.9506,14,Dematagoda,6.9261,79.88,34.85,40.52,night,weekday,0.85,38.1
+41,Negombo,7.2089,79.8353,62,Ingiriya,6.7344,80.1058,78.39,73.51,morning_peak,weekday,1.8,136.01
+89,Havelock Town,6.8856,79.8642,84,Yakkala,7.1019,80.0767,38.8,50.66,evening_peak,weekday,2,98.01
+28,Malabe,6.9061,79.9519,66,Pannipitiya,6.8308,79.9661,11.12,17.38,night,weekday,0.85,15.16
+76,Welisara,7.0097,79.8939,56,Padukka,6.8361,80.0872,41.62,45.77,midday,weekday,1.2,50.55
+10,Mount Lavinia,6.8311,79.865,67,Kahathuduwa,6.7981,80.0133,21.31,29.79,midday,weekday,1.2,35.2
+76,Welisara,7.0097,79.8939,94,Welisara North,7.02,79.89,2.86,5.89,morning_peak,weekday,1.8,10.88
+76,Welisara,7.0097,79.8939,1,Colombo Fort,6.9344,79.8428,12.07,16.32,morning_peak,weekday,1.8,28.31
+37,Kandana,7.0508,79.9058,47,Nittambuwa,7.1497,80.18,48.04,62.33,evening_peak,weekday,2,137.53
+44,Minuwangoda,7.1667,79.9506,56,Padukka,6.8361,80.0872,53.63,65.66,evening_peak,weekend,1.4,83.81
+61,Panadura South,6.695,79.905,20,Moratuwa,6.7731,79.8817,10.14,15.69,morning_peak,weekday,1.8,28.51
+20,Moratuwa,6.7731,79.8817,26,Rajagiriya,6.9111,79.8989,20.48,28.14,morning_peak,weekday,1.8,49.93
+59,Kalutara,6.5854,79.9608,69,Pelawatte,6.8908,79.9311,44.92,46.96,morning_peak,weekday,1.8,89.3
+20,Moratuwa,6.7731,79.8817,53,Mahara,7.0547,80.0153,49.09,51.41,midday,weekday,1.2,52.76
+89,Havelock Town,6.8856,79.8642,50,Ganemulla,7.0922,80.0225,33.24,42.99,night,weekday,0.85,33.85
+43,Veyangoda,7.1522,80.1128,50,Ganemulla,7.0922,80.0225,14.74,18.04,midday,weekday,1.2,19.22
+45,Divulapitiya,7.2278,80.06,52,Kiribathgoda,6.9822,79.9486,37.88,52.38,evening_peak,weekday,2,110.21
+85,Hendala,6.9894,79.9019,1,Colombo Fort,6.9344,79.8428,9.94,10.82,evening_peak,weekday,2,19.92
+86,Pittugala,6.9133,79.9694,47,Nittambuwa,7.1497,80.18,50.49,62.54,evening_peak,weekend,1.4,99.23
+74,Orugodawatta,6.9486,79.8886,30,Mulleriyawa,6.9317,79.9514,9.39,16.61,midday,weekday,1.2,22.14
+76,Welisara,7.0097,79.8939,91,Pannala,7.2956,80.0394,41.71,63.15,night,weekday,0.85,56.52
+19,Panadura,6.7136,79.9042,31,Thalawathugoda,6.8869,79.9331,27.31,42.28,evening_peak,weekday,2,88.4
+90,Bloemendhal,6.96,79.8647,62,Ingiriya,6.7344,80.1058,50.89,54.99,evening_peak,weekend,1.4,66.55
+73,Modara,6.9714,79.8681,33,Kelaniya,7.0017,79.9219,9.62,14.97,midday,weekend,1.02,16.56
+77,Kerawalapitiya,6.9883,79.8658,31,Thalawathugoda,6.8869,79.9331,17.45,25.45,evening_peak,weekend,1.4,34.61
+4,Borella,6.9113,79.8778,19,Panadura,6.7136,79.9042,26.31,37.36,evening_peak,weekend,1.4,56.98
+83,Attanagalla,7.175,80.0706,75,Baseline Road,6.9067,79.8869,42.43,54.11,midday,weekday,1.2,67.84
+85,Hendala,6.9894,79.9019,15,Narahenpita,6.8981,79.8742,11.73,13.55,evening_peak,weekday,2,27.62
+19,Panadura,6.7136,79.9042,60,Bandaragama,6.7167,79.9833,12.33,16.85,evening_peak,weekday,2,34.16
+35,Wattala,6.9939,79.8781,44,Minuwangoda,7.1667,79.9506,26.2,37.33,morning_peak,weekday,1.8,60.51
+78,Kadawatha Junction,7.0028,79.9556,74,Orugodawatta,6.9486,79.8886,11.84,16.39,evening_peak,weekday,2,33.2
+72,Mutwal,6.9617,79.8522,48,Dompe,7.065,80.0969,36.86,46.41,night,weekend,0.807,41
+25,Boralesgamuwa,6.8372,79.9111,12,Grandpass,6.9425,79.8706,15.39,23.35,morning_peak,weekday,1.8,38.83
+100,Colombo 02,6.9178,79.8464,15,Narahenpita,6.8981,79.8742,5.57,8.34,midday,weekday,1.2,10.75
+43,Veyangoda,7.1522,80.1128,21,Ratmalana,6.82,79.8817,59.33,66.81,morning_peak,weekday,1.8,125.58
+15,Narahenpita,6.8981,79.8742,25,Boralesgamuwa,6.8372,79.9111,9.69,15.28,evening_peak,weekday,2,27.78
+13,Mattakkuliya,6.9703,79.8778,86,Pittugala,6.9133,79.9694,16.56,25.29,morning_peak,weekday,1.8,47.12
+52,Kiribathgoda,6.9822,79.9486,27,Battaramulla,6.8994,79.9164,19.25,26.2,night,weekday,0.85,22.81
+36,Ragama,7.0261,79.9181,30,Mulleriyawa,6.9317,79.9514,19.37,24.65,evening_peak,weekday,2,48.02
+89,Havelock Town,6.8856,79.8642,94,Welisara North,7.02,79.89,19.11,23.4,morning_peak,weekday,1.8,38.09
+13,Mattakkuliya,6.9703,79.8778,31,Thalawathugoda,6.8869,79.9331,14.55,21.09,evening_peak,weekday,2,43.03
+42,Gampaha,7.0878,79.9992,56,Padukka,6.8361,80.0872,42.21,49.81,night,weekday,0.85,46.23
+1,Colombo Fort,6.9344,79.8428,44,Minuwangoda,7.1667,79.9506,37.3,44.15,morning_peak,weekday,1.8,90.23
+22,Kottawa,6.8244,79.9628,21,Ratmalana,6.82,79.8817,13.65,18.78,night,weekday,0.85,14.58
+10,Mount Lavinia,6.8311,79.865,88,Thimbirigasyaya,6.8839,79.8778,8.02,12.56,midday,weekend,1.02,14.35
+80,Udugampola,7.0717,80.0239,49,Kirindiwela,6.9928,80.0944,16.01,28.22,morning_peak,weekend,1.17,30.79
+19,Panadura,6.7136,79.9042,100,Colombo 02,6.9178,79.8464,24.81,34,midday,weekday,1.2,35.85
+36,Ragama,7.0261,79.9181,74,Orugodawatta,6.9486,79.8886,12.92,18.63,midday,weekday,1.2,20.13
+99,Bulathsinhala,6.665,80.1825,98,Kosgama,6.8856,80.1681,35.56,56.48,midday,weekday,1.2,61.24
+37,Kandana,7.0508,79.9058,15,Narahenpita,6.8981,79.8742,19.76,26.76,morning_peak,weekday,1.8,50.16
+73,Modara,6.9714,79.8681,78,Kadawatha Junction,7.0028,79.9556,14.7,19.5,evening_peak,weekday,2,34.81
+64,Gangodawila,6.8567,79.8994,35,Wattala,6.9939,79.8781,19.01,27.5,evening_peak,weekday,2,54.05
+39,Seeduwa,7.1175,79.8928,41,Negombo,7.2089,79.8353,15.03,21.08,evening_peak,weekend,1.4,26.22
+19,Panadura,6.7136,79.9042,68,Sri Jayawardenepura,6.8886,79.9203,26.81,39.66,evening_peak,weekday,2,73.95
+36,Ragama,7.0261,79.9181,97,Maththegoda,6.8103,80.0478,38.35,45.23,evening_peak,weekday,2,86.85
+70,Koswatta,6.9194,79.9211,41,Negombo,7.2089,79.8353,42.08,43.85,evening_peak,weekday,2,96.43
+60,Bandaragama,6.7167,79.9833,5,Cinnamon Gardens,6.9011,79.8601,27.87,33.3,morning_peak,weekday,1.8,55.82
+72,Mutwal,6.9617,79.8522,50,Ganemulla,7.0922,80.0225,28.27,37.73,evening_peak,weekday,2,74.48
+86,Pittugala,6.9133,79.9694,70,Koswatta,6.9194,79.9211,8.23,12.79,morning_peak,weekday,1.8,22.08
+35,Wattala,6.9939,79.8781,98,Kosgama,6.8856,80.1681,51.17,60.72,midday,weekday,1.2,74.62
+58,Avissawella,6.9472,80.2108,36,Ragama,7.0261,79.9181,48.7,58.55,night,weekday,0.85,53.57
+55,Homagama,6.8444,80.0044,80,Udugampola,7.0717,80.0239,34.35,34.6,midday,weekday,1.2,45.53
+12,Grandpass,6.9425,79.8706,17,Maharagama,6.8467,79.9283,15.24,22.47,midday,weekend,1.02,22.75
+30,Mulleriyawa,6.9317,79.9514,23,Athurugiriya,6.8783,79.9917,12.35,15.54,midday,weekday,1.2,21.4
+65,Pepiliyana,6.8528,79.9183,30,Mulleriyawa,6.9317,79.9514,13.15,23.14,evening_peak,weekday,2,40.58
+32,Biyagama,6.9753,80.0008,33,Kelaniya,7.0017,79.9219,13.8,22.25,evening_peak,weekday,2,39.95
+14,Dematagoda,6.9261,79.88,36,Ragama,7.0261,79.9181,14.89,20.06,midday,weekday,1.2,23.06
+85,Hendala,6.9894,79.9019,2,Pettah,6.9354,79.8517,9.05,10.01,night,weekday,0.85,8.01
+52,Kiribathgoda,6.9822,79.9486,62,Ingiriya,6.7344,80.1058,43.72,48.26,midday,weekday,1.2,58.18
+35,Wattala,6.9939,79.8781,22,Kottawa,6.8244,79.9628,37.64,36.55,midday,weekend,1.02,41.21
+12,Grandpass,6.9425,79.8706,49,Kirindiwela,6.9928,80.0944,30.59,48.57,morning_peak,weekend,1.17,54.79
+88,Thimbirigasyaya,6.8839,79.8778,30,Mulleriyawa,6.9317,79.9514,14.5,21.55,evening_peak,weekday,2,39.38
+14,Dematagoda,6.9261,79.88,73,Modara,6.9714,79.8681,6.61,10.93,midday,weekday,1.2,11.75
+35,Wattala,6.9939,79.8781,82,Pasyala,7.0911,80.1394,39.21,48.07,night,weekday,0.85,46.16
+66,Pannipitiya,6.8308,79.9661,25,Boralesgamuwa,6.8372,79.9111,8.48,12.44,midday,weekday,1.2,15.4
+65,Pepiliyana,6.8528,79.9183,80,Udugampola,7.0717,80.0239,38.78,39.92,evening_peak,weekday,2,79.9
+41,Negombo,7.2089,79.8353,6,Kollupitiya,6.8978,79.85,41.12,41.71,morning_peak,weekday,1.8,65.35
+98,Kosgama,6.8856,80.1681,68,Sri Jayawardenepura,6.8886,79.9203,40.93,53.37,morning_peak,weekend,1.17,63.37
+32,Biyagama,6.9753,80.0008,96,Aluthgama,6.4333,79.9992,74.24,65.02,evening_peak,weekend,1.4,101.3
+93,Gonawala,7.1539,79.9819,60,Bandaragama,6.7167,79.9833,57.04,61.98,night,weekday,0.85,45.06
+2,Pettah,6.9354,79.8517,60,Bandaragama,6.7167,79.9833,33.52,40.84,midday,weekday,1.2,49.96
+34,Peliyagoda,6.9711,79.8906,10,Mount Lavinia,6.8311,79.865,19.26,27.55,morning_peak,weekday,1.8,53.37
+31,Thalawathugoda,6.8869,79.9331,56,Padukka,6.8361,80.0872,20.88,31.93,midday,weekday,1.2,34.53
+21,Ratmalana,6.82,79.8817,73,Modara,6.9714,79.8681,20.74,29.36,evening_peak,weekday,2,53.04
+16,Nugegoda,6.8689,79.8889,97,Maththegoda,6.8103,80.0478,23.09,35.44,midday,weekend,1.02,39.55
+52,Kiribathgoda,6.9822,79.9486,93,Gonawala,7.1539,79.9819,27.85,40.07,evening_peak,weekday,2,78.36
+63,Kirulapone,6.8742,79.8825,62,Ingiriya,6.7344,80.1058,35.87,42.11,evening_peak,weekday,2,84.86
+86,Pittugala,6.9133,79.9694,14,Dematagoda,6.9261,79.88,14.38,18.98,morning_peak,weekday,1.8,38.92
+55,Homagama,6.8444,80.0044,2,Pettah,6.9354,79.8517,24.5,33.28,morning_peak,weekday,1.8,65.12
+21,Ratmalana,6.82,79.8817,10,Mount Lavinia,6.8311,79.865,3,5.29,evening_peak,weekday,2,10.96
+13,Mattakkuliya,6.9703,79.8778,85,Hendala,6.9894,79.9019,8.15,12.12,night,weekday,0.85,9.37
+45,Divulapitiya,7.2278,80.06,32,Biyagama,6.9753,80.0008,34.68,46.19,midday,weekday,1.2,56.23
+63,Kirulapone,6.8742,79.8825,21,Ratmalana,6.82,79.8817,7.78,12.54,night,weekday,0.85,10.62
+68,Sri Jayawardenepura,6.8886,79.9203,34,Peliyagoda,6.9711,79.8906,13.87,18.27,midday,weekend,1.02,18.5
+93,Gonawala,7.1539,79.9819,52,Kiribathgoda,6.9822,79.9486,24.15,40.16,night,weekday,0.85,38.81
+64,Gangodawila,6.8567,79.8994,17,Maharagama,6.8467,79.9283,3.91,7.2,evening_peak,weekend,1.4,11.01
+48,Dompe,7.065,80.0969,29,Kaduwela,6.9358,79.9778,25.06,34.24,morning_peak,weekend,1.17,37.09
+21,Ratmalana,6.82,79.8817,28,Malabe,6.9061,79.9519,16.83,25.26,evening_peak,weekday,2,56.51
+72,Mutwal,6.9617,79.8522,49,Kirindiwela,6.9928,80.0944,33.52,53.73,evening_peak,weekday,2,108.05
+83,Attanagalla,7.175,80.0706,69,Pelawatte,6.8908,79.9311,46.29,53.83,evening_peak,weekday,2,113.48
+77,Kerawalapitiya,6.9883,79.8658,72,Mutwal,6.9617,79.8522,5.97,10.85,morning_peak,weekend,1.17,11.06
+24,Hokandara,6.8494,79.9575,99,Bulathsinhala,6.665,80.1825,47.08,58.6,morning_peak,weekend,1.17,73.45
+58,Avissawella,6.9472,80.2108,31,Thalawathugoda,6.8869,79.9331,42.48,55.77,midday,weekday,1.2,72.44
+7,Bambalapitiya,6.8867,79.8567,28,Malabe,6.9061,79.9519,13.51,18.13,midday,weekday,1.2,22.08
+96,Aluthgama,6.4333,79.9992,8,Wellawatte,6.875,79.8617,69.74,66.3,morning_peak,weekday,1.8,104.38
+92,Ekala,7.0761,79.9283,81,Heiyanthuduwa,6.9444,80.0431,28.78,46.02,midday,weekend,1.02,48.7
+66,Pannipitiya,6.8308,79.9661,79,Weboda,7.0364,79.9869,28.57,28.55,morning_peak,weekday,1.8,53.16
+78,Kadawatha Junction,7.0028,79.9556,41,Negombo,7.2089,79.8353,34.79,33.29,night,weekday,0.85,31.66
+10,Mount Lavinia,6.8311,79.865,21,Ratmalana,6.82,79.8817,3.14,5.53,morning_peak,weekday,1.8,8.8
+13,Mattakkuliya,6.9703,79.8778,53,Mahara,7.0547,80.0153,23.79,30.19,night,weekday,0.85,26.56
+98,Kosgama,6.8856,80.1681,11,Kotahena,6.9531,79.8597,43.93,58.47,morning_peak,weekday,1.8,108.36
+73,Modara,6.9714,79.8681,25,Boralesgamuwa,6.8372,79.9111,18.68,28.52,midday,weekday,1.2,33.08
+22,Kottawa,6.8244,79.9628,30,Mulleriyawa,6.9317,79.9514,20.32,23.69,night,weekday,0.85,20.11
+21,Ratmalana,6.82,79.8817,99,Bulathsinhala,6.665,80.1825,50.31,63.5,evening_peak,weekday,2,141.45
+12,Grandpass,6.9425,79.8706,47,Nittambuwa,7.1497,80.18,51.15,65.48,morning_peak,weekend,1.17,75.7
+8,Wellawatte,6.875,79.8617,46,Mirigama,7.2453,80.1217,59.2,71.69,evening_peak,weekend,1.4,105.07
+75,Baseline Road,6.9067,79.8869,86,Pittugala,6.9133,79.9694,12.55,16.73,evening_peak,weekday,2,33.86
+13,Mattakkuliya,6.9703,79.8778,82,Pasyala,7.0911,80.1394,41.41,51.49,morning_peak,weekday,1.8,81.33
+50,Ganemulla,7.0922,80.0225,95,Beruwala,6.4781,79.9833,87,81.14,midday,weekday,1.2,92.76
+22,Kottawa,6.8244,79.9628,43,Veyangoda,7.1522,80.1128,49.93,51.53,evening_peak,weekend,1.4,74.56
+19,Panadura,6.7136,79.9042,23,Athurugiriya,6.8783,79.9917,34.19,35.55,evening_peak,weekend,1.4,51.8
+8,Wellawatte,6.875,79.8617,58,Avissawella,6.9472,80.2108,53.42,66.8,morning_peak,weekday,1.8,128.41
+65,Pepiliyana,6.8528,79.9183,4,Borella,6.9113,79.8778,9.96,14.71,morning_peak,weekday,1.8,28.86
+89,Havelock Town,6.8856,79.8642,10,Mount Lavinia,6.8311,79.865,6.99,10.82,evening_peak,weekend,1.4,15.67
+66,Pannipitiya,6.8308,79.9661,41,Negombo,7.2089,79.8353,56.44,51.85,midday,weekday,1.2,62.67
+90,Bloemendhal,6.96,79.8647,58,Avissawella,6.9472,80.2108,48.37,61.03,morning_peak,weekend,1.17,65.03
+34,Peliyagoda,6.9711,79.8906,53,Mahara,7.0547,80.0153,19.74,26.07,midday,weekday,1.2,27.99
+70,Koswatta,6.9194,79.9211,56,Padukka,6.8361,80.0872,23.06,33.7,midday,weekday,1.2,39.05
+4,Borella,6.9113,79.8778,20,Moratuwa,6.7731,79.8817,18.87,25.88,evening_peak,weekday,2,46.14
+85,Hendala,6.9894,79.9019,54,Liyanagemulla,7.1378,79.8853,26.11,26.77,evening_peak,weekday,2,55.46
+4,Borella,6.9113,79.8778,60,Bandaragama,6.7167,79.9833,28.94,36.09,evening_peak,weekday,2,74.09
+4,Borella,6.9113,79.8778,93,Gonawala,7.1539,79.9819,38.23,45.67,evening_peak,weekday,2,93.53
+55,Homagama,6.8444,80.0044,4,Borella,6.9113,79.8778,19.63,26.75,morning_peak,weekday,1.8,49.59
+19,Panadura,6.7136,79.9042,31,Thalawathugoda,6.8869,79.9331,27.31,42.28,morning_peak,weekday,1.8,79.22
+83,Attanagalla,7.175,80.0706,22,Kottawa,6.8244,79.9628,49.32,54.58,evening_peak,weekend,1.4,87.46
+31,Thalawathugoda,6.8869,79.9331,100,Colombo 02,6.9178,79.8464,11.59,16.57,midday,weekday,1.2,17.78
+55,Homagama,6.8444,80.0044,97,Maththegoda,6.8103,80.0478,9.01,17.05,morning_peak,weekday,1.8,31.59
+47,Nittambuwa,7.1497,80.18,75,Baseline Road,6.9067,79.8869,54.89,70.71,evening_peak,weekday,2,127.57
+70,Koswatta,6.9194,79.9211,4,Borella,6.9113,79.8778,6.25,10.72,midday,weekday,1.2,13.58
+47,Nittambuwa,7.1497,80.18,78,Kadawatha Junction,7.0028,79.9556,38.18,49,evening_peak,weekend,1.4,77.87
+69,Pelawatte,6.8908,79.9311,61,Panadura South,6.695,79.905,40.15,43.39,night,weekday,0.85,39.1
+94,Welisara North,7.02,79.89,70,Koswatta,6.9194,79.9211,20.68,26.03,midday,weekday,1.2,35.37
+42,Gampaha,7.0878,79.9992,35,Wattala,6.9939,79.8781,25.9,32.33,midday,weekend,1.02,36.36
+37,Kandana,7.0508,79.9058,84,Yakkala,7.1019,80.0767,29.16,38.95,evening_peak,weekday,2,77.5
+70,Koswatta,6.9194,79.9211,90,Bloemendhal,6.96,79.8647,12.2,18.35,morning_peak,weekend,1.17,21.45
+1,Colombo Fort,6.9344,79.8428,24,Hokandara,6.8494,79.9575,18.8,28.35,evening_peak,weekend,1.4,35.63
+60,Bandaragama,6.7167,79.9833,57,Hanwella,6.9042,80.0842,42.34,42.46,evening_peak,weekday,2,96.55
+30,Mulleriyawa,6.9317,79.9514,24,Hokandara,6.8494,79.9575,11.89,21.02,morning_peak,weekday,1.8,35.13
+35,Wattala,6.9939,79.8781,55,Homagama,6.8444,80.0044,35.69,34.1,night,weekday,0.85,27
+54,Liyanagemulla,7.1378,79.8853,95,Beruwala,6.4781,79.9833,103.64,91.14,midday,weekend,1.02,80.84
+45,Divulapitiya,7.2278,80.06,100,Colombo 02,6.9178,79.8464,51,65.31,morning_peak,weekday,1.8,131.89
+57,Hanwella,6.9042,80.0842,21,Ratmalana,6.82,79.8817,30.83,45.3,evening_peak,weekday,2,86.45
+15,Narahenpita,6.8981,79.8742,82,Pasyala,7.0911,80.1394,45.05,56.71,evening_peak,weekday,2,100.76
+48,Dompe,7.065,80.0969,71,Colombo Port,6.95,79.8378,40.35,54.46,midday,weekend,1.02,60.34
+14,Dematagoda,6.9261,79.88,57,Hanwella,6.9042,80.0842,26.24,32.85,midday,weekend,1.02,29.94
+87,Gothatuwa,6.9217,79.9856,90,Bloemendhal,6.96,79.8647,18.08,25.05,morning_peak,weekday,1.8,42.5
+85,Hendala,6.9894,79.9019,12,Grandpass,6.9425,79.8706,6.95,7.88,midday,weekday,1.2,8.47
+68,Sri Jayawardenepura,6.8886,79.9203,71,Colombo Port,6.95,79.8378,14.74,24.05,evening_peak,weekday,2,55.03
+61,Panadura South,6.695,79.905,98,Kosgama,6.8856,80.1681,47.85,70.28,midday,weekday,1.2,91.72
+49,Kirindiwela,6.9928,80.0944,17,Maharagama,6.8467,79.9283,36.04,51.23,evening_peak,weekday,2,113.12
+74,Orugodawatta,6.9486,79.8886,85,Hendala,6.9894,79.9019,8.92,14.41,morning_peak,weekday,1.8,23.73
+74,Orugodawatta,6.9486,79.8886,98,Kosgama,6.8856,80.1681,41.17,56.42,night,weekday,0.85,51.54
+76,Welisara,7.0097,79.8939,88,Thimbirigasyaya,6.8839,79.8778,15.49,21.21,evening_peak,weekday,2,40.59
+99,Bulathsinhala,6.665,80.1825,64,Gangodawila,6.8567,79.8994,49.94,60.94,evening_peak,weekday,2,116.02
+21,Ratmalana,6.82,79.8817,20,Moratuwa,6.7731,79.8817,6.09,9.4,evening_peak,weekend,1.4,14.16
+15,Narahenpita,6.8981,79.8742,85,Hendala,6.9894,79.9019,13.78,19.83,evening_peak,weekday,2,36.75
+40,Katunayake,7.1697,79.8847,58,Avissawella,6.9472,80.2108,70.2,72.4,evening_peak,weekday,2,147.08
+3,Maradana,6.92,79.8617,72,Mutwal,6.9617,79.8522,6.59,11.07,midday,weekday,1.2,14.47
+39,Seeduwa,7.1175,79.8928,52,Kiribathgoda,6.9822,79.9486,25.61,31.48,midday,weekday,1.2,33.17
+69,Pelawatte,6.8908,79.9311,51,Kadawatha,7.0072,79.9508,22.4,24.13,morning_peak,weekday,1.8,38.14
+92,Ekala,7.0761,79.9283,41,Negombo,7.2089,79.8353,24.39,31.62,evening_peak,weekday,2,68.89
+47,Nittambuwa,7.1497,80.18,15,Narahenpita,6.8981,79.8742,55.6,71.69,night,weekday,0.85,54.68
+84,Yakkala,7.1019,80.0767,70,Koswatta,6.9194,79.9211,34.7,43.98,evening_peak,weekday,2,97.39
+3,Maradana,6.92,79.8617,27,Battaramulla,6.8994,79.9164,7.7,10.46,morning_peak,weekend,1.17,10.92
+1,Colombo Fort,6.9344,79.8428,8,Wellawatte,6.875,79.8617,7.51,9.96,night,weekday,0.85,7.58
+4,Borella,6.9113,79.8778,94,Welisara North,7.02,79.89,15.59,18.12,evening_peak,weekday,2,40.4
+12,Grandpass,6.9425,79.8706,11,Kotahena,6.9531,79.8597,2.48,5.22,midday,weekend,1.02,5.19
+21,Ratmalana,6.82,79.8817,30,Mulleriyawa,6.9317,79.9514,18.46,32.08,evening_peak,weekday,2,71.51
+95,Beruwala,6.4781,79.9833,59,Kalutara,6.5854,79.9608,12.43,15.54,morning_peak,weekday,1.8,28.47
+97,Maththegoda,6.8103,80.0478,68,Sri Jayawardenepura,6.8886,79.9203,21.68,33.71,evening_peak,weekend,1.4,41.24
+5,Cinnamon Gardens,6.9011,79.8601,99,Bulathsinhala,6.665,80.1825,57.81,71.14,morning_peak,weekend,1.17,91.2
+50,Ganemulla,7.0922,80.0225,6,Kollupitiya,6.8978,79.85,32.89,42.2,evening_peak,weekday,2,83.67
+47,Nittambuwa,7.1497,80.18,73,Modara,6.9714,79.8681,52.12,67.11,midday,weekday,1.2,88.46
+92,Ekala,7.0761,79.9283,30,Mulleriyawa,6.9317,79.9514,25.38,37.18,morning_peak,weekend,1.17,47.75
+62,Ingiriya,6.7344,80.1058,33,Kelaniya,7.0017,79.9219,50.7,51.41,morning_peak,weekday,1.8,88.32
+47,Nittambuwa,7.1497,80.18,82,Pasyala,7.0911,80.1394,12.7,21.24,evening_peak,weekday,2,44.02
+22,Kottawa,6.8244,79.9628,17,Maharagama,6.8467,79.9283,7.32,9.82,night,weekday,0.85,9.55
+35,Wattala,6.9939,79.8781,33,Kelaniya,7.0017,79.9219,7.06,10.51,morning_peak,weekday,1.8,17.93
+40,Katunayake,7.1697,79.8847,28,Malabe,6.9061,79.9519,40.56,38.6,evening_peak,weekday,2,80.8
+1,Colombo Fort,6.9344,79.8428,72,Mutwal,6.9617,79.8522,5.1,9.02,morning_peak,weekday,1.8,15.46
+58,Avissawella,6.9472,80.2108,25,Boralesgamuwa,6.8372,79.9111,45.48,62.3,morning_peak,weekday,1.8,97.62
+57,Hanwella,6.9042,80.0842,53,Mahara,7.0547,80.0153,28.93,35.67,evening_peak,weekend,1.4,55.5
+39,Seeduwa,7.1175,79.8928,9,Dehiwala,6.8517,79.865,36,40.88,evening_peak,weekday,2,75.88
+97,Maththegoda,6.8103,80.0478,6,Kollupitiya,6.8978,79.85,28.79,43.66,evening_peak,weekday,2,77.13
+46,Mirigama,7.2453,80.1217,38,Ja-Ela,7.0733,79.8917,36.36,53.94,morning_peak,weekday,1.8,86.28
+19,Panadura,6.7136,79.9042,30,Mulleriyawa,6.9317,79.9514,42.01,43.66,evening_peak,weekday,2,74.69
+40,Katunayake,7.1697,79.8847,88,Thimbirigasyaya,6.8839,79.8778,34.86,31.99,morning_peak,weekend,1.17,33.25
+83,Attanagalla,7.175,80.0706,51,Kadawatha,7.0072,79.9508,26.54,34.23,night,weekday,0.85,32.06
+45,Divulapitiya,7.2278,80.06,71,Colombo Port,6.95,79.8378,50.59,70.13,evening_peak,weekday,2,145.66
+19,Panadura,6.7136,79.9042,47,Nittambuwa,7.1497,80.18,83.71,90.63,midday,weekday,1.2,96.37
+36,Ragama,7.0261,79.9181,40,Katunayake,7.1697,79.8847,22.96,25.23,morning_peak,weekday,1.8,46.33
+52,Kiribathgoda,6.9822,79.9486,89,Havelock Town,6.8856,79.8642,18.45,26.41,night,weekday,0.85,20.61
+78,Kadawatha Junction,7.0028,79.9556,94,Welisara North,7.02,79.89,11.91,11.55,evening_peak,weekday,2,25.71
+2,Pettah,6.9354,79.8517,86,Pittugala,6.9133,79.9694,17.52,23.11,night,weekday,0.85,17.16
+93,Gonawala,7.1539,79.9819,62,Ingiriya,6.7344,80.1058,66.25,70.83,evening_peak,weekday,2,145.18
+64,Gangodawila,6.8567,79.8994,50,Ganemulla,7.0922,80.0225,39.19,47.43,evening_peak,weekday,2,87.81
+67,Kahathuduwa,6.7981,80.0133,44,Minuwangoda,7.1667,79.9506,55.32,62.01,morning_peak,weekday,1.8,125.33
+68,Sri Jayawardenepura,6.8886,79.9203,35,Wattala,6.9939,79.8781,17.1,22.44,night,weekend,0.807,18.51
+45,Divulapitiya,7.2278,80.06,87,Gothatuwa,6.9217,79.9856,43.39,54.38,midday,weekday,1.2,63.98
+47,Nittambuwa,7.1497,80.18,15,Narahenpita,6.8981,79.8742,55.6,71.69,evening_peak,weekend,1.4,98.66
+21,Ratmalana,6.82,79.8817,51,Kadawatha,7.0072,79.9508,27.91,39.39,midday,weekend,1.02,41.86
+55,Homagama,6.8444,80.0044,71,Colombo Port,6.95,79.8378,27.74,42.69,morning_peak,weekday,1.8,83.45
+67,Kahathuduwa,6.7981,80.0133,86,Pittugala,6.9133,79.9694,22.63,24.57,morning_peak,weekday,1.8,43.87
+1,Colombo Fort,6.9344,79.8428,72,Mutwal,6.9617,79.8522,5.1,9.02,evening_peak,weekday,2,16.71
+17,Maharagama,6.8467,79.9283,61,Panadura South,6.695,79.905,23.72,34.75,midday,weekday,1.2,37.2
+65,Pepiliyana,6.8528,79.9183,57,Hanwella,6.9042,80.0842,24.4,34.46,midday,weekday,1.2,37.58
+35,Wattala,6.9939,79.8781,48,Dompe,7.065,80.0969,33.89,39.89,midday,weekday,1.2,48.11
+49,Kirindiwela,6.9928,80.0944,46,Mirigama,7.2453,80.1217,35.77,50.02,morning_peak,weekend,1.17,64.56
+97,Maththegoda,6.8103,80.0478,90,Bloemendhal,6.96,79.8647,37.97,49.57,midday,weekday,1.2,54.46
+54,Liyanagemulla,7.1378,79.8853,9,Dehiwala,6.8517,79.865,41.46,43.03,evening_peak,weekday,2,94.28
+21,Ratmalana,6.82,79.8817,51,Kadawatha,7.0072,79.9508,27.91,39.39,night,weekday,0.85,28.76
+64,Gangodawila,6.8567,79.8994,11,Kotahena,6.9531,79.8597,14.33,21.59,morning_peak,weekday,1.8,43.87
+45,Divulapitiya,7.2278,80.06,1,Colombo Fort,6.9344,79.8428,48.17,61.45,midday,weekend,1.02,69.87
+61,Panadura South,6.695,79.905,12,Grandpass,6.9425,79.8706,32.43,45.63,evening_peak,weekday,2,97.24
+92,Ekala,7.0761,79.9283,69,Pelawatte,6.8908,79.9311,35.55,41.73,morning_peak,weekday,1.8,65
+47,Nittambuwa,7.1497,80.18,87,Gothatuwa,6.9217,79.9856,49.04,61.88,morning_peak,weekend,1.17,67.12
+68,Sri Jayawardenepura,6.8886,79.9203,94,Welisara North,7.02,79.89,21.31,24.38,evening_peak,weekday,2,42.8
+28,Malabe,6.9061,79.9519,40,Katunayake,7.1697,79.8847,41.19,39.76,evening_peak,weekday,2,69.5
+15,Narahenpita,6.8981,79.8742,41,Negombo,7.2089,79.8353,38.98,38.8,night,weekday,0.85,34.75
+66,Pannipitiya,6.8308,79.9661,51,Kadawatha,7.0072,79.9508,24.97,24.73,evening_peak,weekday,2,51.48
+73,Modara,6.9714,79.8681,39,Seeduwa,7.1175,79.8928,25.95,28.84,night,weekend,0.807,20.64
+2,Pettah,6.9354,79.8517,93,Gonawala,7.1539,79.9819,37.37,45.21,morning_peak,weekday,1.8,72.64
+81,Heiyanthuduwa,6.9444,80.0431,41,Negombo,7.2089,79.8353,50.56,54.68,midday,weekday,1.2,65.34
+45,Divulapitiya,7.2278,80.06,79,Weboda,7.0364,79.9869,27.64,36.69,morning_peak,weekday,1.8,67.2
+95,Beruwala,6.4781,79.9833,25,Boralesgamuwa,6.8372,79.9111,53.94,54.57,evening_peak,weekday,2,120.46
+54,Liyanagemulla,7.1378,79.8853,18,Piliyandala,6.8017,79.9247,47.9,51.12,midday,weekday,1.2,62.13
+30,Mulleriyawa,6.9317,79.9514,60,Bandaragama,6.7167,79.9833,31.24,33.85,morning_peak,weekday,1.8,60.02
+44,Minuwangoda,7.1667,79.9506,79,Weboda,7.0364,79.9869,20.51,28.7,evening_peak,weekday,2,64.11
+32,Biyagama,6.9753,80.0008,57,Hanwella,6.9042,80.0842,18.55,22.69,morning_peak,weekday,1.8,41.16
+34,Peliyagoda,6.9711,79.8906,56,Padukka,6.8361,80.0872,33.84,47.11,morning_peak,weekday,1.8,73.22
+65,Pepiliyana,6.8528,79.9183,47,Nittambuwa,7.1497,80.18,65.07,74.6,morning_peak,weekday,1.8,140.15
+92,Ekala,7.0761,79.9283,35,Wattala,6.9939,79.8781,14.46,23.63,midday,weekday,1.2,27.59
+49,Kirindiwela,6.9928,80.0944,38,Ja-Ela,7.0733,79.8917,36.7,52.22,night,weekday,0.85,48.94
+56,Padukka,6.8361,80.0872,76,Welisara,7.0097,79.8939,42.07,46.41,evening_peak,weekday,2,83.56
+50,Ganemulla,7.0922,80.0225,69,Pelawatte,6.8908,79.9311,34.32,38.56,morning_peak,weekend,1.17,45.55
+45,Divulapitiya,7.2278,80.06,4,Borella,6.9113,79.8778,47.84,61.06,morning_peak,weekday,1.8,123.94
+91,Pannala,7.2956,80.0394,51,Kadawatha,7.0072,79.9508,42.69,59.94,morning_peak,weekend,1.17,69.26
+30,Mulleriyawa,6.9317,79.9514,42,Gampaha,7.0878,79.9992,24.89,31.57,night,weekday,0.85,30.5
+35,Wattala,6.9939,79.8781,87,Gothatuwa,6.9217,79.9856,24.9,27.24,midday,weekend,1.02,28.16
+29,Kaduwela,6.9358,79.9778,77,Kerawalapitiya,6.9883,79.8658,23.34,24.53,evening_peak,weekday,2,42.16
+96,Aluthgama,6.4333,79.9992,22,Kottawa,6.8244,79.9628,58.15,54.34,evening_peak,weekday,2,110.43
+34,Peliyagoda,6.9711,79.8906,86,Pittugala,6.9133,79.9694,15.12,26.15,morning_peak,weekend,1.17,29.28
+98,Kosgama,6.8856,80.1681,32,Biyagama,6.9753,80.0008,33.98,44.95,evening_peak,weekday,2,90.1
+21,Ratmalana,6.82,79.8817,44,Minuwangoda,7.1667,79.9506,48.43,60.35,night,weekday,0.85,46.15
+63,Kirulapone,6.8742,79.8825,24,Hokandara,6.8494,79.9575,9.89,16.4,night,weekday,0.85,15.26
+100,Colombo 02,6.9178,79.8464,51,Kadawatha,7.0072,79.9508,18.55,25.67,evening_peak,weekend,1.4,33.79
+86,Pittugala,6.9133,79.9694,24,Hokandara,6.8494,79.9575,10.41,17.25,evening_peak,weekday,2,33.41
+28,Malabe,6.9061,79.9519,5,Cinnamon Gardens,6.9011,79.8601,12.1,15.75,midday,weekday,1.2,17.36
+64,Gangodawila,6.8567,79.8994,91,Pannala,7.2956,80.0394,63.46,84.5,night,weekend,0.807,68.92
+12,Grandpass,6.9425,79.8706,21,Ratmalana,6.82,79.8817,16.6,24.48,evening_peak,weekday,2,42.46
+56,Padukka,6.8361,80.0872,20,Moratuwa,6.7731,79.8817,30.38,41.77,midday,weekday,1.2,57.19
+19,Panadura,6.7136,79.9042,26,Rajagiriya,6.9111,79.8989,27.78,38.97,night,weekday,0.85,36.74
+55,Homagama,6.8444,80.0044,100,Colombo 02,6.9178,79.8464,22.33,30.93,midday,weekday,1.2,40.03
+15,Narahenpita,6.8981,79.8742,27,Battaramulla,6.8994,79.9164,6.59,8.75,midday,weekday,1.2,10.74
+51,Kadawatha,7.0072,79.9508,53,Mahara,7.0547,80.0153,10.81,14.48,night,weekday,0.85,13.52
+4,Borella,6.9113,79.8778,7,Bambalapitiya,6.8867,79.8567,5.26,7.81,night,weekday,0.85,5.86
+45,Divulapitiya,7.2278,80.06,81,Heiyanthuduwa,6.9444,80.0431,40.84,57.03,evening_peak,weekday,2,105.18
+63,Kirulapone,6.8742,79.8825,38,Ja-Ela,7.0733,79.8917,28.7,30.17,morning_peak,weekday,1.8,61.99
+61,Panadura South,6.695,79.905,31,Thalawathugoda,6.8869,79.9331,39.56,44.27,evening_peak,weekend,1.4,69.96
+86,Pittugala,6.9133,79.9694,43,Veyangoda,7.1522,80.1128,38.4,43.42,night,weekday,0.85,38.37
+21,Ratmalana,6.82,79.8817,80,Udugampola,7.0717,80.0239,45.19,50.44,evening_peak,weekday,2,107.93
+30,Mulleriyawa,6.9317,79.9514,57,Hanwella,6.9042,80.0842,18.44,23.87,evening_peak,weekend,1.4,30.42
+26,Rajagiriya,6.9111,79.8989,71,Colombo Port,6.95,79.8378,11.04,20.79,morning_peak,weekday,1.8,35.65
+37,Kandana,7.0508,79.9058,1,Colombo Fort,6.9344,79.8428,17.46,23.33,morning_peak,weekday,1.8,47.5
+60,Bandaragama,6.7167,79.9833,73,Modara,6.9714,79.8681,36.17,46.92,evening_peak,weekend,1.4,67.93
+23,Athurugiriya,6.8783,79.9917,9,Dehiwala,6.8517,79.865,18.75,26.76,evening_peak,weekday,2,56.53
+95,Beruwala,6.4781,79.9833,75,Baseline Road,6.9067,79.8869,65.39,64.33,midday,weekday,1.2,84.33
+45,Divulapitiya,7.2278,80.06,96,Aluthgama,6.4333,79.9992,108.5,103.91,morning_peak,weekend,1.17,122.4
+16,Nugegoda,6.8689,79.8889,66,Pannipitiya,6.8308,79.9661,11.11,16.17,morning_peak,weekday,1.8,31.68
+16,Nugegoda,6.8689,79.8889,60,Bandaragama,6.7167,79.9833,23.42,27.9,morning_peak,weekend,1.17,34.28
+31,Thalawathugoda,6.8869,79.9331,34,Peliyagoda,6.9711,79.8906,15.18,21.58,midday,weekend,1.02,24.85
+55,Homagama,6.8444,80.0044,27,Battaramulla,6.8994,79.9164,15.05,22.14,morning_peak,weekday,1.8,43.94
+17,Maharagama,6.8467,79.9283,30,Mulleriyawa,6.9317,79.9514,14.8,23.66,night,weekday,0.85,19.25
+57,Hanwella,6.9042,80.0842,25,Boralesgamuwa,6.8372,79.9111,25.98,37.43,morning_peak,weekend,1.17,43.83
+62,Ingiriya,6.7344,80.1058,74,Orugodawatta,6.9486,79.8886,47.81,53.17,evening_peak,weekday,2,92.68
+32,Biyagama,6.9753,80.0008,14,Dematagoda,6.9261,79.88,18.41,24.78,midday,weekday,1.2,27.98
+79,Weboda,7.0364,79.9869,22,Kottawa,6.8244,79.9628,29.35,29.3,evening_peak,weekday,2,65.93
+8,Wellawatte,6.875,79.8617,82,Pasyala,7.0911,80.1394,49.23,62.14,midday,weekday,1.2,83.11
+98,Kosgama,6.8856,80.1681,75,Baseline Road,6.9067,79.8869,42.6,55.39,morning_peak,weekday,1.8,87.82
+93,Gonawala,7.1539,79.9819,26,Rajagiriya,6.9111,79.8989,39.94,47.94,evening_peak,weekday,2,107.26
+88,Thimbirigasyaya,6.8839,79.8778,50,Ganemulla,7.0922,80.0225,32.65,41.93,midday,weekday,1.2,56.96
+64,Gangodawila,6.8567,79.8994,29,Kaduwela,6.9358,79.9778,18.9,26.28,night,weekend,0.807,18.87
+9,Dehiwala,6.8517,79.865,27,Battaramulla,6.8994,79.9164,10.66,16.63,night,weekday,0.85,15.86
+51,Kadawatha,7.0072,79.9508,13,Mattakkuliya,6.9703,79.8778,14.01,18.66,midday,weekday,1.2,25.32
+51,Kadawatha,7.0072,79.9508,37,Kandana,7.0508,79.9058,10.18,15.49,morning_peak,weekday,1.8,28.42
+60,Bandaragama,6.7167,79.9833,91,Pannala,7.2956,80.0394,78.51,90.03,night,weekday,0.85,68.24
+85,Hendala,6.9894,79.9019,21,Ratmalana,6.82,79.8817,21.41,28.44,night,weekday,0.85,22.57
+11,Kotahena,6.9531,79.8597,17,Maharagama,6.8467,79.9283,16.38,24.05,evening_peak,weekend,1.4,31.34
+84,Yakkala,7.1019,80.0767,83,Attanagalla,7.175,80.0706,10.64,17.72,evening_peak,weekend,1.4,21.87
+48,Dompe,7.065,80.0969,28,Malabe,6.9061,79.9519,30.62,41.21,night,weekday,0.85,30.94
+78,Kadawatha Junction,7.0028,79.9556,99,Bulathsinhala,6.665,80.1825,62.96,66.95,midday,weekday,1.2,86.79
+82,Pasyala,7.0911,80.1394,13,Mattakkuliya,6.9703,79.8778,41.19,51.14,midday,weekend,1.02,50.15
+38,Ja-Ela,7.0733,79.8917,75,Baseline Road,6.9067,79.8869,24.73,24.61,evening_peak,weekday,2,53.59
+87,Gothatuwa,6.9217,79.9856,45,Divulapitiya,7.2278,80.06,43.63,54.57,morning_peak,weekday,1.8,110.92
+36,Ragama,7.0261,79.9181,18,Piliyandala,6.8017,79.9247,40.06,38.85,evening_peak,weekend,1.4,47.08
+28,Malabe,6.9061,79.9519,54,Liyanagemulla,7.1378,79.8853,38.83,42.78,morning_peak,weekend,1.17,46.86
+99,Bulathsinhala,6.665,80.1825,13,Mattakkuliya,6.9703,79.8778,66.53,78.32,morning_peak,weekday,1.8,141.65
+44,Minuwangoda,7.1667,79.9506,47,Nittambuwa,7.1497,80.18,32,50.6,night,weekday,0.85,41.45
+24,Hokandara,6.8494,79.9575,2,Pettah,6.9354,79.8517,19.06,27.75,morning_peak,weekday,1.8,48.66
+25,Boralesgamuwa,6.8372,79.9111,3,Maradana,6.92,79.8617,13.21,19.38,midday,weekday,1.2,23.92
+24,Hokandara,6.8494,79.9575,29,Kaduwela,6.9358,79.9778,13.33,18.64,midday,weekend,1.02,19.12
+65,Pepiliyana,6.8528,79.9183,84,Yakkala,7.1019,80.0767,46.18,51.22,midday,weekday,1.2,56.3
+92,Ekala,7.0761,79.9283,58,Avissawella,6.9472,80.2108,50.13,71.74,night,weekday,0.85,53.23
+47,Nittambuwa,7.1497,80.18,94,Welisara North,7.02,79.89,48.7,58.75,midday,weekday,1.2,69.14
+96,Aluthgama,6.4333,79.9992,25,Boralesgamuwa,6.8372,79.9111,62.82,57.82,evening_peak,weekday,2,110.37
+12,Grandpass,6.9425,79.8706,16,Nugegoda,6.8689,79.8889,10.37,15.37,evening_peak,weekday,2,31.19
+100,Colombo 02,6.9178,79.8464,51,Kadawatha,7.0072,79.9508,18.55,25.67,morning_peak,weekend,1.17,32.59
+89,Havelock Town,6.8856,79.8642,72,Mutwal,6.9617,79.8522,11.5,17.34,morning_peak,weekday,1.8,34.95
+29,Kaduwela,6.9358,79.9778,98,Kosgama,6.8856,80.1681,29.45,39.27,evening_peak,weekday,2,68.17
+44,Minuwangoda,7.1667,79.9506,90,Bloemendhal,6.96,79.8647,34.31,40.71,evening_peak,weekend,1.4,52.53
+56,Padukka,6.8361,80.0872,96,Aluthgama,6.4333,79.9992,71.42,68.67,evening_peak,weekday,2,139.87
+22,Kottawa,6.8244,79.9628,17,Maharagama,6.8467,79.9283,7.32,9.82,morning_peak,weekday,1.8,15.77
+26,Rajagiriya,6.9111,79.8989,25,Boralesgamuwa,6.8372,79.9111,11.01,17.1,evening_peak,weekday,2,30.58
+53,Mahara,7.0547,80.0153,72,Mutwal,6.9617,79.8522,24.65,33.39,evening_peak,weekday,2,70.27
+65,Pepiliyana,6.8528,79.9183,49,Kirindiwela,6.9928,80.0944,36.6,52.2,night,weekday,0.85,47.36
+57,Hanwella,6.9042,80.0842,47,Nittambuwa,7.1497,80.18,36.69,57.51,morning_peak,weekday,1.8,109.42
+5,Cinnamon Gardens,6.9011,79.8601,84,Yakkala,7.1019,80.0767,37.93,49.25,evening_peak,weekday,2,87.69
+50,Ganemulla,7.0922,80.0225,38,Ja-Ela,7.0733,79.8917,18.16,24.65,evening_peak,weekday,2,49.31
+21,Ratmalana,6.82,79.8817,46,Mirigama,7.2453,80.1217,70.91,80.47,morning_peak,weekday,1.8,158.18
+82,Pasyala,7.0911,80.1394,78,Kadawatha Junction,7.0028,79.9556,27.62,33.98,evening_peak,weekday,2,58.66
+94,Welisara North,7.02,79.89,6,Kollupitiya,6.8978,79.85,19.75,24.15,midday,weekday,1.2,25.07
+33,Kelaniya,7.0017,79.9219,81,Heiyanthuduwa,6.9444,80.0431,24.28,35.08,night,weekend,0.807,31.33
+28,Malabe,6.9061,79.9519,70,Koswatta,6.9194,79.9211,4.68,8.05,morning_peak,weekday,1.8,14.48
+56,Padukka,6.8361,80.0872,64,Gangodawila,6.8567,79.8994,23.4,34.2,night,weekday,0.85,26.62
+89,Havelock Town,6.8856,79.8642,18,Piliyandala,6.8017,79.9247,12.97,16.83,evening_peak,weekday,2,34.9
+26,Rajagiriya,6.9111,79.8989,6,Kollupitiya,6.8978,79.85,6.41,9.44,morning_peak,weekend,1.17,12.4
+98,Kosgama,6.8856,80.1681,17,Maharagama,6.8467,79.9283,36.15,54.34,night,weekday,0.85,52.8
+8,Wellawatte,6.875,79.8617,13,Mattakkuliya,6.9703,79.8778,13.55,18.96,night,weekend,0.807,14.44
+94,Welisara North,7.02,79.89,65,Pepiliyana,6.8528,79.9183,26.02,32.55,midday,weekend,1.02,37.78
+86,Pittugala,6.9133,79.9694,93,Gonawala,7.1539,79.9819,34.81,43.63,midday,weekday,1.2,44.64
+92,Ekala,7.0761,79.9283,28,Malabe,6.9061,79.9519,29.39,40.96,morning_peak,weekday,1.8,67.58
+66,Pannipitiya,6.8308,79.9661,55,Homagama,6.8444,80.0044,6.37,9.2,evening_peak,weekday,2,18.01
+93,Gonawala,7.1539,79.9819,67,Kahathuduwa,6.7981,80.0133,52.17,57.76,night,weekday,0.85,55.01
+54,Liyanagemulla,7.1378,79.8853,27,Battaramulla,6.8994,79.9164,37.7,36.79,night,weekday,0.85,31.39
+71,Colombo Port,6.95,79.8378,67,Kahathuduwa,6.7981,80.0133,33.3,48.94,midday,weekend,1.02,56.19
+91,Pannala,7.2956,80.0394,90,Bloemendhal,6.96,79.8647,53.21,70.78,midday,weekend,1.02,66.8
+84,Yakkala,7.1019,80.0767,53,Mahara,7.0547,80.0153,10.83,16.19,midday,weekday,1.2,17.91
+58,Avissawella,6.9472,80.2108,26,Rajagiriya,6.9111,79.8989,45.39,58.02,night,weekday,0.85,49.41
+75,Baseline Road,6.9067,79.8869,41,Negombo,7.2089,79.8353,38.62,38.28,morning_peak,weekday,1.8,62.19
+98,Kosgama,6.8856,80.1681,41,Negombo,7.2089,79.8353,70.98,77.07,night,weekday,0.85,64.26
+51,Kadawatha,7.0072,79.9508,21,Ratmalana,6.82,79.8817,27.54,39.07,midday,weekend,1.02,37.25
+60,Bandaragama,6.7167,79.9833,71,Colombo Port,6.95,79.8378,35.59,48.42,night,weekend,0.807,43.7
+21,Ratmalana,6.82,79.8817,78,Kadawatha Junction,7.0028,79.9556,34.16,37.81,evening_peak,weekday,2,75.56
+93,Gonawala,7.1539,79.9819,8,Wellawatte,6.875,79.8617,43.38,52.64,morning_peak,weekday,1.8,104.84
+28,Malabe,6.9061,79.9519,91,Pannala,7.2956,80.0394,57.32,76.27,morning_peak,weekend,1.17,89.42
+67,Kahathuduwa,6.7981,80.0133,24,Hokandara,6.8494,79.9575,11.92,19.66,night,weekday,0.85,17.85
+93,Gonawala,7.1539,79.9819,24,Hokandara,6.8494,79.9575,42.78,52.86,midday,weekend,1.02,54.17
+49,Kirindiwela,6.9928,80.0944,87,Gothatuwa,6.9217,79.9856,19.27,34.63,morning_peak,weekday,1.8,70.39
+95,Beruwala,6.4781,79.9833,53,Mahara,7.0547,80.0153,77.21,71.99,evening_peak,weekday,2,140.38
+54,Liyanagemulla,7.1378,79.8853,70,Koswatta,6.9194,79.9211,37.78,38.53,morning_peak,weekend,1.17,41.38
+38,Ja-Ela,7.0733,79.8917,85,Hendala,6.9894,79.9019,13.71,12.03,midday,weekday,1.2,12.28
+47,Nittambuwa,7.1497,80.18,68,Sri Jayawardenepura,6.8886,79.9203,59.94,72.67,night,weekday,0.85,64.79
+41,Negombo,7.2089,79.8353,69,Pelawatte,6.8908,79.9311,44.09,44.71,evening_peak,weekday,2,100.04
+25,Boralesgamuwa,6.8372,79.9111,27,Battaramulla,6.8994,79.9164,11.06,17.23,morning_peak,weekday,1.8,29.5
+47,Nittambuwa,7.1497,80.18,100,Colombo 02,6.9178,79.8464,56.64,72.82,night,weekend,0.807,56.92
+21,Ratmalana,6.82,79.8817,72,Mutwal,6.9617,79.8522,19.32,27.85,evening_peak,weekday,2,56.44
+74,Orugodawatta,6.9486,79.8886,32,Biyagama,6.9753,80.0008,18.22,26.49,morning_peak,weekend,1.17,31.77
+11,Kotahena,6.9531,79.8597,96,Aluthgama,6.4333,79.9992,82.71,76.07,morning_peak,weekday,1.8,141.1
+52,Kiribathgoda,6.9822,79.9486,25,Boralesgamuwa,6.8372,79.9111,28.39,36.03,morning_peak,weekday,1.8,70.32
+63,Kirulapone,6.8742,79.8825,89,Havelock Town,6.8856,79.8642,2.89,4.92,morning_peak,weekend,1.17,5.67
+66,Pannipitiya,6.8308,79.9661,15,Narahenpita,6.8981,79.8742,15.23,21.98,evening_peak,weekday,2,49.51
+23,Athurugiriya,6.8783,79.9917,39,Seeduwa,7.1175,79.8928,40.41,38.84,night,weekday,0.85,28.37
+41,Negombo,7.2089,79.8353,93,Gonawala,7.1539,79.9819,20.53,32.35,morning_peak,weekday,1.8,61.11
+3,Maradana,6.92,79.8617,81,Heiyanthuduwa,6.9444,80.0431,24.54,37.19,evening_peak,weekend,1.4,53.04
+55,Homagama,6.8444,80.0044,64,Gangodawila,6.8567,79.8994,13,19.21,midday,weekday,1.2,20.72
+32,Biyagama,6.9753,80.0008,96,Aluthgama,6.4333,79.9992,74.24,65.02,evening_peak,weekday,2,111.52
+35,Wattala,6.9939,79.8781,78,Kadawatha Junction,7.0028,79.9556,12.13,15.04,evening_peak,weekend,1.4,20.66
+4,Borella,6.9113,79.8778,88,Thimbirigasyaya,6.8839,79.8778,4,5.99,evening_peak,weekend,1.4,8.5
+49,Kirindiwela,6.9928,80.0944,40,Katunayake,7.1697,79.8847,50.58,58.98,morning_peak,weekday,1.8,113.12
+6,Kollupitiya,6.8978,79.85,13,Mattakkuliya,6.9703,79.8778,10.6,15.68,night,weekend,0.807,14.38
+80,Udugampola,7.0717,80.0239,43,Veyangoda,7.1522,80.1128,16.15,18.75,night,weekday,0.85,15.03
+23,Athurugiriya,6.8783,79.9917,2,Pettah,6.9354,79.8517,20.18,26.64,night,weekday,0.85,24.66
+7,Bambalapitiya,6.8867,79.8567,78,Kadawatha Junction,7.0028,79.9556,20.64,27.54,evening_peak,weekday,2,60.58
+83,Attanagalla,7.175,80.0706,51,Kadawatha,7.0072,79.9508,26.54,34.23,morning_peak,weekday,1.8,53.33
+12,Grandpass,6.9425,79.8706,53,Mahara,7.0547,80.0153,23,29.98,midday,weekday,1.2,37.29
+97,Maththegoda,6.8103,80.0478,5,Cinnamon Gardens,6.9011,79.8601,28.08,42.51,evening_peak,weekday,2,74.01
+59,Kalutara,6.5854,79.9608,33,Kelaniya,7.0017,79.9219,59.1,58.08,midday,weekday,1.2,73.57
+69,Pelawatte,6.8908,79.9311,66,Pannipitiya,6.8308,79.9661,9.34,15.2,morning_peak,weekday,1.8,31.32
+84,Yakkala,7.1019,80.0767,54,Liyanagemulla,7.1378,79.8853,26.7,41.12,evening_peak,weekday,2,89.17
+54,Liyanagemulla,7.1378,79.8853,93,Gonawala,7.1539,79.9819,14.76,23.82,morning_peak,weekday,1.8,40
+74,Orugodawatta,6.9486,79.8886,57,Hanwella,6.9042,80.0842,25.76,34.2,morning_peak,weekday,1.8,70.37
+66,Pannipitiya,6.8308,79.9661,6,Kollupitiya,6.8978,79.85,16.78,24.28,evening_peak,weekend,1.4,34.56
+82,Pasyala,7.0911,80.1394,90,Bloemendhal,6.96,79.8647,40.67,51.41,evening_peak,weekday,2,103.43
+71,Colombo Port,6.95,79.8378,3,Maradana,6.92,79.8617,6.85,14.69,morning_peak,weekday,1.8,24.61
+24,Hokandara,6.8494,79.9575,74,Orugodawatta,6.9486,79.8886,19.37,30.83,evening_peak,weekday,2,63.42
+91,Pannala,7.2956,80.0394,29,Kaduwela,6.9358,79.9778,49.92,66.78,night,weekday,0.85,55.58
+20,Moratuwa,6.7731,79.8817,19,Panadura,6.7136,79.9042,7.96,12.78,evening_peak,weekday,2,23.78
+34,Peliyagoda,6.9711,79.8906,22,Kottawa,6.8244,79.9628,25.2,34.63,night,weekday,0.85,30.99
+97,Maththegoda,6.8103,80.0478,96,Aluthgama,6.4333,79.9992,62.09,63.83,evening_peak,weekday,2,118.89
+2,Pettah,6.9354,79.8517,29,Kaduwela,6.9358,79.9778,15.37,20.47,morning_peak,weekday,1.8,36.28
+53,Mahara,7.0547,80.0153,79,Weboda,7.0364,79.9869,5.12,7.98,morning_peak,weekend,1.17,7.95
+22,Kottawa,6.8244,79.9628,100,Colombo 02,6.9178,79.8464,22.26,27.07,evening_peak,weekday,2,52.65
+45,Divulapitiya,7.2278,80.06,68,Sri Jayawardenepura,6.8886,79.9203,54.3,65.17,night,weekday,0.85,62.7
+10,Mount Lavinia,6.8311,79.865,36,Ragama,7.0261,79.9181,26.97,36.11,evening_peak,weekday,2,77.41
+6,Kollupitiya,6.8978,79.85,48,Dompe,7.065,80.0969,41.9,51.93,evening_peak,weekday,2,111.43
+50,Ganemulla,7.0922,80.0225,35,Wattala,6.9939,79.8781,25.66,31.78,night,weekday,0.85,29.5
+15,Narahenpita,6.8981,79.8742,4,Borella,6.9113,79.8778,2.02,3.35,midday,weekend,1.02,2.91
+92,Ekala,7.0761,79.9283,17,Maharagama,6.8467,79.9283,39.31,48.36,evening_peak,weekday,2,102.55
+40,Katunayake,7.1697,79.8847,39,Seeduwa,7.1175,79.8928,7.32,11.67,morning_peak,weekend,1.17,14.63
+47,Nittambuwa,7.1497,80.18,63,Kirulapone,6.8742,79.8825,58.16,75.2,midday,weekday,1.2,78.79
+34,Peliyagoda,6.9711,79.8906,40,Katunayake,7.1697,79.8847,26.36,23.14,midday,weekday,1.2,25.4
+33,Kelaniya,7.0017,79.9219,75,Baseline Road,6.9067,79.8869,14.95,19.83,evening_peak,weekday,2,37.67
+82,Pasyala,7.0911,80.1394,38,Ja-Ela,7.0733,79.8917,34.01,45.65,midday,weekday,1.2,51.22
+46,Mirigama,7.2453,80.1217,3,Maradana,6.92,79.8617,53.49,65.18,evening_peak,weekend,1.4,97.77
+8,Wellawatte,6.875,79.8617,51,Kadawatha,7.0072,79.9508,22.03,29.67,evening_peak,weekday,2,54.11
+89,Havelock Town,6.8856,79.8642,39,Seeduwa,7.1175,79.8928,31.55,35.15,morning_peak,weekday,1.8,70.77
+9,Dehiwala,6.8517,79.865,82,Pasyala,7.0911,80.1394,51.61,65.24,evening_peak,weekday,2,135.58
+60,Bandaragama,6.7167,79.9833,40,Katunayake,7.1697,79.8847,65.28,54.91,midday,weekday,1.2,74.52
+92,Ekala,7.0761,79.9283,18,Piliyandala,6.8017,79.9247,46.07,51.39,night,weekday,0.85,42.95
+57,Hanwella,6.9042,80.0842,77,Kerawalapitiya,6.9883,79.8658,37,40.01,midday,weekday,1.2,41.62
+54,Liyanagemulla,7.1378,79.8853,88,Thimbirigasyaya,6.8839,79.8778,36.25,35.7,night,weekday,0.85,32.75
+78,Kadawatha Junction,7.0028,79.9556,38,Ja-Ela,7.0733,79.8917,14.61,17.26,evening_peak,weekday,2,30.99
+29,Kaduwela,6.9358,79.9778,5,Cinnamon Gardens,6.9011,79.8601,16.84,23,evening_peak,weekend,1.4,34.58
+67,Kahathuduwa,6.7981,80.0133,47,Nittambuwa,7.1497,80.18,68.11,76.76,evening_peak,weekday,2,143.81
+68,Sri Jayawardenepura,6.8886,79.9203,12,Grandpass,6.9425,79.8706,10.72,14.25,morning_peak,weekday,1.8,25.92
+21,Ratmalana,6.82,79.8817,61,Panadura South,6.695,79.905,15.74,23.75,midday,weekend,1.02,26.33
+55,Homagama,6.8444,80.0044,46,Mirigama,7.2453,80.1217,60.06,64.63,night,weekend,0.807,49.48
+49,Kirindiwela,6.9928,80.0944,58,Avissawella,6.9472,80.2108,20.33,34.88,night,weekend,0.807,24.81
+9,Dehiwala,6.8517,79.865,6,Kollupitiya,6.8978,79.85,5.76,7.96,evening_peak,weekday,2,14.46
+5,Cinnamon Gardens,6.9011,79.8601,42,Gampaha,7.0878,79.9992,32.18,42.06,night,weekday,0.85,35.34
+30,Mulleriyawa,6.9317,79.9514,57,Hanwella,6.9042,80.0842,18.44,23.87,morning_peak,weekday,1.8,42.44
+87,Gothatuwa,6.9217,79.9856,13,Mattakkuliya,6.9703,79.8778,16.64,25.55,evening_peak,weekday,2,50.94
+45,Divulapitiya,7.2278,80.06,17,Maharagama,6.8467,79.9283,58.76,66.89,evening_peak,weekend,1.4,94.54
+18,Piliyandala,6.8017,79.9247,94,Welisara North,7.02,79.89,42.68,36.93,morning_peak,weekday,1.8,56.88
+32,Biyagama,6.9753,80.0008,42,Gampaha,7.0878,79.9992,16.13,22.46,night,weekday,0.85,19.86
+36,Ragama,7.0261,79.9181,34,Peliyagoda,6.9711,79.8906,9.34,13.53,midday,weekday,1.2,15
+47,Nittambuwa,7.1497,80.18,19,Panadura,6.7136,79.9042,83.96,90.97,midday,weekend,1.02,94.79
+9,Dehiwala,6.8517,79.865,47,Nittambuwa,7.1497,80.18,62.14,79.44,evening_peak,weekend,1.4,117.19
+40,Katunayake,7.1697,79.8847,47,Nittambuwa,7.1497,80.18,41.82,63.31,evening_peak,weekday,2,120.07
+13,Mattakkuliya,6.9703,79.8778,1,Colombo Fort,6.9344,79.8428,6.28,9.88,evening_peak,weekday,2,17.48
+49,Kirindiwela,6.9928,80.0944,64,Gangodawila,6.8567,79.8994,34.61,55.09,night,weekday,0.85,53.58
+17,Maharagama,6.8467,79.9283,71,Colombo Port,6.95,79.8378,18.64,31.37,morning_peak,weekend,1.17,38.67
+58,Avissawella,6.9472,80.2108,49,Kirindiwela,6.9928,80.0944,20.33,34.95,night,weekend,0.807,29.16
+43,Veyangoda,7.1522,80.1128,25,Boralesgamuwa,6.8372,79.9111,54.48,58.93,evening_peak,weekday,2,131.49
+32,Biyagama,6.9753,80.0008,26,Rajagiriya,6.9111,79.8989,19.12,25.3,morning_peak,weekday,1.8,48.59
+56,Padukka,6.8361,80.0872,65,Pepiliyana,6.8528,79.9183,20.82,29.23,midday,weekend,1.02,27.16
+51,Kadawatha,7.0072,79.9508,71,Colombo Port,6.95,79.8378,18.49,30.13,midday,weekday,1.2,40.01
+45,Divulapitiya,7.2278,80.06,15,Narahenpita,6.8981,79.8742,49.96,64.18,midday,weekday,1.2,74.42
+18,Piliyandala,6.8017,79.9247,51,Kadawatha,7.0072,79.9508,34.1,31.54,midday,weekday,1.2,32.65
+6,Kollupitiya,6.8978,79.85,76,Welisara,7.0097,79.8939,16.02,22.65,morning_peak,weekend,1.17,29.27
+57,Hanwella,6.9042,80.0842,49,Kirindiwela,6.9928,80.0944,13.53,22.66,morning_peak,weekday,1.8,44.51
+79,Weboda,7.0364,79.9869,20,Moratuwa,6.7731,79.8817,44.71,45.77,night,weekday,0.85,36.82
+83,Attanagalla,7.175,80.0706,3,Maradana,6.92,79.8617,41.59,53.29,midday,weekday,1.2,55.67
+62,Ingiriya,6.7344,80.1058,4,Borella,6.9113,79.8778,43.44,48.15,midday,weekend,1.02,51.42
+96,Aluthgama,6.4333,79.9992,91,Pannala,7.2956,80.0394,117.92,120.65,midday,weekend,1.02,135.7
+9,Dehiwala,6.8517,79.865,92,Ekala,7.0761,79.9283,36.58,44.3,evening_peak,weekday,2,78.07
+48,Dompe,7.065,80.0969,25,Boralesgamuwa,6.8372,79.9111,50.69,54.94,evening_peak,weekday,2,111.46
+45,Divulapitiya,7.2278,80.06,62,Ingiriya,6.7344,80.1058,76.27,82.84,evening_peak,weekday,2,147.8
+83,Attanagalla,7.175,80.0706,64,Gangodawila,6.8567,79.8994,51.55,63.42,evening_peak,weekday,2,133.02
+92,Ekala,7.0761,79.9283,6,Kollupitiya,6.8978,79.85,32.57,38.73,evening_peak,weekend,1.4,58.43
+3,Maradana,6.92,79.8617,21,Ratmalana,6.82,79.8817,14.19,20.67,evening_peak,weekend,1.4,29.62
+86,Pittugala,6.9133,79.9694,62,Ingiriya,6.7344,80.1058,36.72,37.65,morning_peak,weekday,1.8,72.17
+54,Liyanagemulla,7.1378,79.8853,16,Nugegoda,6.8689,79.8889,38.71,39.18,morning_peak,weekday,1.8,65.05
+59,Kalutara,6.5854,79.9608,2,Pettah,6.9354,79.8517,43.33,57.17,midday,weekend,1.02,58.44
+79,Weboda,7.0364,79.9869,80,Udugampola,7.0717,80.0239,6.98,8.71,morning_peak,weekday,1.8,15.13
+90,Bloemendhal,6.96,79.8647,23,Athurugiriya,6.8783,79.9917,22.79,27.83,evening_peak,weekend,1.4,36.3
+38,Ja-Ela,7.0733,79.8917,67,Kahathuduwa,6.7981,80.0133,50.36,46.71,night,weekday,0.85,37.61
+45,Divulapitiya,7.2278,80.06,96,Aluthgama,6.4333,79.9992,108.5,103.91,morning_peak,weekday,1.8,171.25
+100,Colombo 02,6.9178,79.8464,7,Bambalapitiya,6.8867,79.8567,5.18,7.18,morning_peak,weekday,1.8,14.15
+4,Borella,6.9113,79.8778,96,Aluthgama,6.4333,79.9992,75.81,68.9,evening_peak,weekday,2,120.78
+84,Yakkala,7.1019,80.0767,76,Welisara,7.0097,79.8939,29.52,37.41,morning_peak,weekday,1.8,66.61
+22,Kottawa,6.8244,79.9628,70,Koswatta,6.9194,79.9211,15.09,22.43,midday,weekend,1.02,25.1
+60,Bandaragama,6.7167,79.9833,46,Mirigama,7.2453,80.1217,74.26,75.46,evening_peak,weekday,2,168.94
+59,Kalutara,6.5854,79.9608,29,Kaduwela,6.9358,79.9778,45.86,44.28,midday,weekday,1.2,46.67
+8,Wellawatte,6.875,79.8617,75,Baseline Road,6.9067,79.8869,7.5,10.67,evening_peak,weekday,2,24.33
+27,Battaramulla,6.8994,79.9164,20,Moratuwa,6.7731,79.8817,18.75,27.58,night,weekend,0.807,24.28
+61,Panadura South,6.695,79.905,74,Orugodawatta,6.9486,79.8886,33.41,49.57,morning_peak,weekday,1.8,91.13
+16,Nugegoda,6.8689,79.8889,13,Mattakkuliya,6.9703,79.8778,12.94,19.26,morning_peak,weekday,1.8,33.22
+54,Liyanagemulla,7.1378,79.8853,75,Baseline Road,6.9067,79.8869,34.42,33.28,morning_peak,weekday,1.8,56.53
+86,Pittugala,6.9133,79.9694,38,Ja-Ela,7.0733,79.8917,32.69,32.18,morning_peak,weekend,1.17,39.98
+100,Colombo 02,6.9178,79.8464,32,Biyagama,6.9753,80.0008,24.52,32.12,morning_peak,weekday,1.8,49.24
+3,Maradana,6.92,79.8617,80,Udugampola,7.0717,80.0239,28.18,34.65,midday,weekday,1.2,40.22
+68,Sri Jayawardenepura,6.8886,79.9203,61,Panadura South,6.695,79.905,29.78,43.23,evening_peak,weekend,1.4,63.72
+61,Panadura South,6.695,79.905,43,Veyangoda,7.1522,80.1128,72.7,72.95,evening_peak,weekday,2,162.03
+11,Kotahena,6.9531,79.8597,98,Kosgama,6.8856,80.1681,43.88,58.4,midday,weekday,1.2,64.02
+51,Kadawatha,7.0072,79.9508,21,Ratmalana,6.82,79.8817,27.54,39.07,night,weekday,0.85,36.24
+84,Yakkala,7.1019,80.0767,38,Ja-Ela,7.0733,79.8917,25.68,36.54,evening_peak,weekday,2,72.09
+18,Piliyandala,6.8017,79.9247,27,Battaramulla,6.8994,79.9164,15.06,21.1,evening_peak,weekday,2,47.79
+21,Ratmalana,6.82,79.8817,44,Minuwangoda,7.1667,79.9506,48.43,60.35,midday,weekday,1.2,76.7
+54,Liyanagemulla,7.1378,79.8853,74,Orugodawatta,6.9486,79.8886,29.54,27.95,evening_peak,weekend,1.4,42.77
+65,Pepiliyana,6.8528,79.9183,15,Narahenpita,6.8981,79.8742,8.69,13.14,morning_peak,weekday,1.8,24.22
+81,Heiyanthuduwa,6.9444,80.0431,93,Gonawala,7.1539,79.9819,30.83,44.83,night,weekday,0.85,40.22
+33,Kelaniya,7.0017,79.9219,59,Kalutara,6.5854,79.9608,60.51,60.28,evening_peak,weekend,1.4,92.06
+94,Welisara North,7.02,79.89,38,Ja-Ela,7.0733,79.8917,8.03,11.54,evening_peak,weekday,2,22.4
+77,Kerawalapitiya,6.9883,79.8658,66,Pannipitiya,6.8308,79.9661,37.82,36.71,evening_peak,weekday,2,82.7
+26,Rajagiriya,6.9111,79.8989,75,Baseline Road,6.9067,79.8869,1.82,3.35,evening_peak,weekday,2,5.8
+8,Wellawatte,6.875,79.8617,29,Kaduwela,6.9358,79.9778,19.87,27.04,midday,weekday,1.2,33.49
+55,Homagama,6.8444,80.0044,16,Nugegoda,6.8689,79.8889,14.3,20.23,evening_peak,weekday,2,40.48
+59,Kalutara,6.5854,79.9608,56,Padukka,6.8361,80.0872,47.79,54.73,morning_peak,weekend,1.17,59.93
+73,Modara,6.9714,79.8681,35,Wattala,6.9939,79.8781,3.94,6.98,morning_peak,weekday,1.8,13.28
+95,Beruwala,6.4781,79.9833,57,Hanwella,6.9042,80.0842,72.87,69.84,midday,weekend,1.02,61.88
+20,Moratuwa,6.7731,79.8817,53,Mahara,7.0547,80.0153,49.09,51.41,night,weekend,0.807,45.9
+94,Welisara North,7.02,79.89,29,Kaduwela,6.9358,79.9778,19.05,17.65,morning_peak,weekday,1.8,27.68
+58,Avissawella,6.9472,80.2108,34,Peliyagoda,6.9711,79.8906,48.89,62.13,midday,weekday,1.2,84.45
+32,Biyagama,6.9753,80.0008,52,Kiribathgoda,6.9822,79.9486,9.13,14.95,midday,weekday,1.2,20.55
+40,Katunayake,7.1697,79.8847,72,Mutwal,6.9617,79.8522,30.76,28.45,midday,weekday,1.2,37.2
+64,Gangodawila,6.8567,79.8994,8,Wellawatte,6.875,79.8617,6.03,9.44,morning_peak,weekday,1.8,18.66
+28,Malabe,6.9061,79.9519,49,Kirindiwela,6.9928,80.0944,23.63,39.51,midday,weekday,1.2,54.17
+26,Rajagiriya,6.9111,79.8989,86,Pittugala,6.9133,79.9694,10.84,15.05,night,weekend,0.807,10.61
+88,Thimbirigasyaya,6.8839,79.8778,87,Gothatuwa,6.9217,79.9856,17.79,23.87,morning_peak,weekend,1.17,29.66
+46,Mirigama,7.2453,80.1217,96,Aluthgama,6.4333,79.9992,113.58,106.68,morning_peak,weekday,1.8,208.19
+24,Hokandara,6.8494,79.9575,99,Bulathsinhala,6.665,80.1825,47.08,58.6,morning_peak,weekday,1.8,117.36
+65,Pepiliyana,6.8528,79.9183,95,Beruwala,6.4781,79.9833,51.48,59.98,midday,weekend,1.02,53.05
+56,Padukka,6.8361,80.0872,98,Kosgama,6.8856,80.1681,16.74,28.7,midday,weekend,1.02,29.93
+76,Welisara,7.0097,79.8939,40,Katunayake,7.1697,79.8847,21.79,23.86,evening_peak,weekday,2,41.21
+39,Seeduwa,7.1175,79.8928,13,Mattakkuliya,6.9703,79.8778,25.21,27.57,night,weekend,0.807,21.4
+91,Pannala,7.2956,80.0394,85,Hendala,6.9894,79.9019,45.67,61.84,midday,weekend,1.02,62.94
+44,Minuwangoda,7.1667,79.9506,38,Ja-Ela,7.0733,79.8917,15.52,23.29,night,weekday,0.85,21.93
+18,Piliyandala,6.8017,79.9247,16,Nugegoda,6.8689,79.8889,10.1,13.43,midday,weekday,1.2,17.38
+62,Ingiriya,6.7344,80.1058,13,Mattakkuliya,6.9703,79.8778,49.56,55.71,night,weekend,0.807,45.12
+77,Kerawalapitiya,6.9883,79.8658,60,Bandaragama,6.7167,79.9833,49.77,48.15,midday,weekday,1.2,53.1
+39,Seeduwa,7.1175,79.8928,72,Mutwal,6.9617,79.8522,26.7,30.01,midday,weekday,1.2,32.14
+38,Ja-Ela,7.0733,79.8917,92,Ekala,7.0761,79.9283,6.32,12.44,morning_peak,weekend,1.17,14.51
+98,Kosgama,6.8856,80.1681,80,Udugampola,7.0717,80.0239,49.26,60.09,midday,weekend,1.02,69.93
+72,Mutwal,6.9617,79.8522,62,Ingiriya,6.7344,80.1058,51.52,57.22,morning_peak,weekday,1.8,112.2
+3,Maradana,6.92,79.8617,59,Kalutara,6.5854,79.9608,42.03,56.54,midday,weekend,1.02,58.94
+69,Pelawatte,6.8908,79.9311,62,Ingiriya,6.7344,80.1058,37.03,40.9,night,weekday,0.85,32.19
+85,Hendala,6.9894,79.9019,84,Yakkala,7.1019,80.0767,30.34,37.8,morning_peak,weekday,1.8,57.85
+42,Gampaha,7.0878,79.9992,49,Kirindiwela,6.9928,80.0944,20.44,34,evening_peak,weekend,1.4,42.63
+97,Maththegoda,6.8103,80.0478,1,Colombo Fort,6.9344,79.8428,31.88,47.54,midday,weekday,1.2,56.81
+91,Pannala,7.2956,80.0394,23,Athurugiriya,6.8783,79.9917,57.49,72.28,midday,weekday,1.2,79.92
+59,Kalutara,6.5854,79.9608,13,Mattakkuliya,6.9703,79.8778,57.96,62.38,midday,weekday,1.2,80.71
+16,Nugegoda,6.8689,79.8889,2,Pettah,6.9354,79.8517,11.15,15.51,evening_peak,weekday,2,32.92
+13,Mattakkuliya,6.9703,79.8778,96,Aluthgama,6.4333,79.9992,83.02,76.51,midday,weekday,1.2,91.14
+43,Veyangoda,7.1522,80.1128,85,Hendala,6.9894,79.9019,34.55,40.61,evening_peak,weekday,2,84.79
+83,Attanagalla,7.175,80.0706,15,Narahenpita,6.8981,79.8742,43.14,55.08,night,weekday,0.85,46.84
+87,Gothatuwa,6.9217,79.9856,52,Kiribathgoda,6.9822,79.9486,10.83,18.25,morning_peak,weekend,1.17,24.1
+1,Colombo Fort,6.9344,79.8428,44,Minuwangoda,7.1667,79.9506,37.3,44.15,morning_peak,weekday,1.8,73.21
+15,Narahenpita,6.8981,79.8742,12,Grandpass,6.9425,79.8706,6.42,10.13,evening_peak,weekday,2,20.92
+72,Mutwal,6.9617,79.8522,27,Battaramulla,6.8994,79.9164,12.19,17.76,morning_peak,weekday,1.8,34.86
+62,Ingiriya,6.7344,80.1058,11,Kotahena,6.9531,79.8597,50.59,55.16,evening_peak,weekday,2,100.75
+93,Gonawala,7.1539,79.9819,85,Hendala,6.9894,79.9019,28.03,34.19,evening_peak,weekend,1.4,46.25
+50,Ganemulla,7.0922,80.0225,37,Kandana,7.0508,79.9058,17.04,30.21,evening_peak,weekday,2,52.94
+49,Kirindiwela,6.9928,80.0944,99,Bulathsinhala,6.665,80.1825,53.55,84.9,midday,weekday,1.2,96.75
+66,Pannipitiya,6.8308,79.9661,63,Kirulapone,6.8742,79.8825,11.84,17.26,morning_peak,weekday,1.8,31.97
+6,Kollupitiya,6.8978,79.85,19,Panadura,6.7136,79.9042,23.53,33.72,morning_peak,weekday,1.8,62.87
+37,Kandana,7.0508,79.9058,68,Sri Jayawardenepura,6.8886,79.9203,25.25,32.59,midday,weekend,1.02,31.64
+13,Mattakkuliya,6.9703,79.8778,52,Kiribathgoda,6.9822,79.9486,12.79,19,evening_peak,weekday,2,36.25
+60,Bandaragama,6.7167,79.9833,83,Attanagalla,7.175,80.0706,62.37,64.41,midday,weekday,1.2,67.53
+28,Malabe,6.9061,79.9519,1,Colombo Fort,6.9344,79.8428,14.26,18.6,morning_peak,weekend,1.17,22.03
+76,Welisara,7.0097,79.8939,72,Mutwal,6.9617,79.8522,9.98,16.55,night,weekday,0.85,12.8
+27,Battaramulla,6.8994,79.9164,9,Dehiwala,6.8517,79.865,10.57,16.2,morning_peak,weekend,1.17,17.66
+14,Dematagoda,6.9261,79.88,25,Boralesgamuwa,6.8372,79.9111,12.55,18.95,night,weekday,0.85,13.72
+73,Modara,6.9714,79.8681,26,Rajagiriya,6.9111,79.8989,10.29,15.89,evening_peak,weekday,2,28.7
+24,Hokandara,6.8494,79.9575,5,Cinnamon Gardens,6.9011,79.8601,14.13,22.33,morning_peak,weekend,1.17,28.35
+35,Wattala,6.9939,79.8781,76,Welisara,7.0097,79.8939,4.05,7.04,night,weekday,0.85,6.37
+87,Gothatuwa,6.9217,79.9856,95,Beruwala,6.4781,79.9833,65.57,59.82,midday,weekend,1.02,57.27
+48,Dompe,7.065,80.0969,55,Homagama,6.8444,80.0044,43.94,45.57,morning_peak,weekday,1.8,87.68
+3,Maradana,6.92,79.8617,21,Ratmalana,6.82,79.8817,14.19,20.67,midday,weekend,1.02,18.68
+62,Ingiriya,6.7344,80.1058,97,Maththegoda,6.8103,80.0478,17.51,27.15,morning_peak,weekday,1.8,55.47
+52,Kiribathgoda,6.9822,79.9486,79,Weboda,7.0364,79.9869,11.09,17.98,midday,weekday,1.2,19.09
+5,Cinnamon Gardens,6.9011,79.8601,70,Koswatta,6.9194,79.9211,8.87,14.34,night,weekday,0.85,13.04
+68,Sri Jayawardenepura,6.8886,79.9203,91,Pannala,7.2956,80.0394,61.55,79.44,night,weekend,0.807,65.43
+23,Athurugiriya,6.8783,79.9917,64,Gangodawila,6.8567,79.8994,13.65,21.83,night,weekday,0.85,17.59
+72,Mutwal,6.9617,79.8522,75,Baseline Road,6.9067,79.8869,8.91,14.25,evening_peak,weekday,2,29.16
+55,Homagama,6.8444,80.0044,37,Kandana,7.0508,79.9058,33.22,36.21,morning_peak,weekend,1.17,38.74
+73,Modara,6.9714,79.8681,59,Kalutara,6.5854,79.9608,60.67,64.46,evening_peak,weekend,1.4,77.59
+30,Mulleriyawa,6.9317,79.9514,11,Kotahena,6.9531,79.8597,12.16,18.68,evening_peak,weekday,2,33.69
+72,Mutwal,6.9617,79.8522,63,Kirulapone,6.8742,79.8825,12.18,18.86,evening_peak,weekday,2,36.85
+94,Welisara North,7.02,79.89,73,Modara,6.9714,79.8681,7.73,13.74,morning_peak,weekend,1.17,14.82
+34,Peliyagoda,6.9711,79.8906,31,Thalawathugoda,6.8869,79.9331,15.67,22.01,morning_peak,weekday,1.8,39.12
+40,Katunayake,7.1697,79.8847,1,Colombo Fort,6.9344,79.8428,31.94,27.81,morning_peak,weekday,1.8,47.94
+21,Ratmalana,6.82,79.8817,79,Weboda,7.0364,79.9869,39.04,44.11,night,weekday,0.85,35.82
+8,Wellawatte,6.875,79.8617,62,Ingiriya,6.7344,80.1058,37.56,44.27,evening_peak,weekday,2,80.81
+17,Maharagama,6.8467,79.9283,38,Ja-Ela,7.0733,79.8917,35.08,39.47,midday,weekday,1.2,52.21
+14,Dematagoda,6.9261,79.88,72,Mutwal,6.9617,79.8522,6.31,10.84,evening_peak,weekend,1.4,14.65
+31,Thalawathugoda,6.8869,79.9331,35,Wattala,6.9939,79.8781,18.41,25.75,morning_peak,weekday,1.8,40.46
+23,Athurugiriya,6.8783,79.9917,89,Havelock Town,6.8856,79.8642,18.74,25.05,evening_peak,weekend,1.4,33.09
+6,Kollupitiya,6.8978,79.85,70,Koswatta,6.9194,79.9211,9.63,15.96,evening_peak,weekday,2,30.31
+14,Dematagoda,6.9261,79.88,78,Kadawatha Junction,7.0028,79.9556,14.85,19.47,morning_peak,weekday,1.8,31.01
+19,Panadura,6.7136,79.9042,63,Kirulapone,6.8742,79.8825,21.38,31.66,night,weekday,0.85,23.49
+19,Panadura,6.7136,79.9042,20,Moratuwa,6.7731,79.8817,7.78,12.14,evening_peak,weekday,2,26.71
+24,Hokandara,6.8494,79.9575,61,Panadura South,6.695,79.905,33.24,38.43,midday,weekend,1.02,44.63
+99,Bulathsinhala,6.665,80.1825,32,Biyagama,6.9753,80.0008,59.15,66.98,evening_peak,weekday,2,135.48
+37,Kandana,7.0508,79.9058,79,Weboda,7.0364,79.9869,15.61,21.32,midday,weekday,1.2,22.95
+92,Ekala,7.0761,79.9283,16,Nugegoda,6.8689,79.8889,34.44,41.26,morning_peak,weekday,1.8,66.88
+66,Pannipitiya,6.8308,79.9661,31,Thalawathugoda,6.8869,79.9331,8.7,14.46,morning_peak,weekday,1.8,29.69
+31,Thalawathugoda,6.8869,79.9331,73,Modara,6.9714,79.8681,15.34,22.57,midday,weekend,1.02,19.91
+57,Hanwella,6.9042,80.0842,80,Udugampola,7.0717,80.0239,33.86,37.96,midday,weekend,1.02,39.08
+69,Pelawatte,6.8908,79.9311,93,Gonawala,7.1539,79.9819,42.75,50.04,midday,weekday,1.2,67.14
+23,Athurugiriya,6.8783,79.9917,69,Pelawatte,6.8908,79.9311,8.39,12.25,morning_peak,weekend,1.17,13.2
+4,Borella,6.9113,79.8778,93,Gonawala,7.1539,79.9819,38.23,45.67,night,weekday,0.85,42.83
+40,Katunayake,7.1697,79.8847,96,Aluthgama,6.4333,79.9992,104.96,85.81,morning_peak,weekend,1.17,91.82
+63,Kirulapone,6.8742,79.8825,67,Kahathuduwa,6.7981,80.0133,21.8,29.04,night,weekend,0.807,24.83
+63,Kirulapone,6.8742,79.8825,68,Sri Jayawardenepura,6.8886,79.9203,8.1,12.26,morning_peak,weekday,1.8,24.43
+70,Koswatta,6.9194,79.9211,35,Wattala,6.9939,79.8781,15.89,23.37,night,weekday,0.85,21.55
+11,Kotahena,6.9531,79.8597,77,Kerawalapitiya,6.9883,79.8658,6.61,11,night,weekday,0.85,9.64
+87,Gothatuwa,6.9217,79.9856,14,Dematagoda,6.9261,79.88,15.07,21.21,evening_peak,weekday,2,48
+23,Athurugiriya,6.8783,79.9917,74,Orugodawatta,6.9486,79.8886,20.12,26.68,evening_peak,weekday,2,50.27
+87,Gothatuwa,6.9217,79.9856,30,Mulleriyawa,6.9317,79.9514,7.58,12.69,evening_peak,weekday,2,25.88
+25,Boralesgamuwa,6.8372,79.9111,74,Orugodawatta,6.9486,79.8886,16.48,26.82,night,weekday,0.85,22.07
+41,Negombo,7.2089,79.8353,25,Boralesgamuwa,6.8372,79.9111,47.97,52.14,evening_peak,weekday,2,93.74
+99,Bulathsinhala,6.665,80.1825,75,Baseline Road,6.9067,79.8869,59.19,69.27,morning_peak,weekend,1.17,92.59
+81,Heiyanthuduwa,6.9444,80.0431,64,Gangodawila,6.8567,79.8994,26.43,40.39,morning_peak,weekday,1.8,62.58
+82,Pasyala,7.0911,80.1394,54,Liyanagemulla,7.1378,79.8853,35.03,50.23,morning_peak,weekday,1.8,77.11
+99,Bulathsinhala,6.665,80.1825,59,Kalutara,6.5854,79.9608,37.16,48.2,evening_peak,weekday,2,104.71
+47,Nittambuwa,7.1497,80.18,48,Dompe,7.065,80.0969,19.57,31.43,evening_peak,weekday,2,64.11
+2,Pettah,6.9354,79.8517,90,Bloemendhal,6.96,79.8647,3.32,5.56,morning_peak,weekday,1.8,9.32
+7,Bambalapitiya,6.8867,79.8567,63,Kirulapone,6.8742,79.8825,4.3,7.73,midday,weekday,1.2,8.03
+12,Grandpass,6.9425,79.8706,13,Mattakkuliya,6.9703,79.8778,3.73,7.35,night,weekend,0.807,5.44
+36,Ragama,7.0261,79.9181,85,Hendala,6.9894,79.9019,9.67,13.06,morning_peak,weekday,1.8,21.34
+93,Gonawala,7.1539,79.9819,47,Nittambuwa,7.1497,80.18,29.23,44.88,night,weekday,0.85,34.84
+74,Orugodawatta,6.9486,79.8886,71,Colombo Port,6.95,79.8378,8.81,18.45,morning_peak,weekday,1.8,32.63
+67,Kahathuduwa,6.7981,80.0133,15,Narahenpita,6.8981,79.8742,24.85,33.64,midday,weekday,1.2,36.27
+21,Ratmalana,6.82,79.8817,64,Gangodawila,6.8567,79.8994,6.3,10.89,midday,weekend,1.02,11.27
+25,Boralesgamuwa,6.8372,79.9111,70,Koswatta,6.9194,79.9211,14.39,22.07,midday,weekday,1.2,23.51
+18,Piliyandala,6.8017,79.9247,69,Pelawatte,6.8908,79.9311,16.11,22.64,night,weekday,0.85,18.31
+34,Peliyagoda,6.9711,79.8906,13,Mattakkuliya,6.9703,79.8778,4.34,7.83,morning_peak,weekend,1.17,8.73
+52,Kiribathgoda,6.9822,79.9486,36,Ragama,7.0261,79.9181,10.72,17.94,morning_peak,weekday,1.8,33.73
+79,Weboda,7.0364,79.9869,57,Hanwella,6.9042,80.0842,27.47,31.25,morning_peak,weekday,1.8,49.59
+5,Cinnamon Gardens,6.9011,79.8601,20,Moratuwa,6.7731,79.8817,16.43,22.44,evening_peak,weekday,2,39.25
+68,Sri Jayawardenepura,6.8886,79.9203,93,Gonawala,7.1539,79.9819,41.02,51.76,night,weekday,0.85,43.26
+95,Beruwala,6.4781,79.9833,7,Bambalapitiya,6.8867,79.8567,49.23,64.32,morning_peak,weekday,1.8,110.63
+35,Wattala,6.9939,79.8781,57,Hanwella,6.9042,80.0842,35.76,38.49,midday,weekday,1.2,52.91
+32,Biyagama,6.9753,80.0008,66,Pannipitiya,6.8308,79.9661,20.86,23.66,midday,weekday,1.2,29.4
+88,Thimbirigasyaya,6.8839,79.8778,17,Maharagama,6.8467,79.9283,7.82,12.46,midday,weekday,1.2,12.81
+31,Thalawathugoda,6.8869,79.9331,88,Thimbirigasyaya,6.8839,79.8778,10.72,15.06,night,weekday,0.85,13.87
+26,Rajagiriya,6.9111,79.8989,50,Ganemulla,7.0922,80.0225,32.56,40.58,morning_peak,weekday,1.8,72.87
+96,Aluthgama,6.4333,79.9992,65,Pepiliyana,6.8528,79.9183,66.24,60.66,evening_peak,weekend,1.4,92.35
+24,Hokandara,6.8494,79.9575,4,Borella,6.9113,79.8778,14.19,21.21,morning_peak,weekday,1.8,43.67
+43,Veyangoda,7.1522,80.1128,75,Baseline Road,6.9067,79.8869,42.8,51.54,night,weekday,0.85,46.13
+54,Liyanagemulla,7.1378,79.8853,66,Pannipitiya,6.8308,79.9661,52.97,48.16,evening_peak,weekday,2,81.91
+84,Yakkala,7.1019,80.0767,38,Ja-Ela,7.0733,79.8917,25.68,36.54,morning_peak,weekday,1.8,65.06
+42,Gampaha,7.0878,79.9992,40,Katunayake,7.1697,79.8847,20.86,29.96,midday,weekday,1.2,37.59
+47,Nittambuwa,7.1497,80.18,37,Kandana,7.0508,79.9058,48.01,63.2,evening_peak,weekday,2,112.07
+27,Battaramulla,6.8994,79.9164,41,Negombo,7.2089,79.8353,41.91,41.62,night,weekday,0.85,36.38
+12,Grandpass,6.9425,79.8706,40,Katunayake,7.1697,79.8847,29.57,25.87,morning_peak,weekday,1.8,48.28
+98,Kosgama,6.8856,80.1681,48,Dompe,7.065,80.0969,36.83,50.28,morning_peak,weekday,1.8,88.51
+36,Ragama,7.0261,79.9181,24,Hokandara,6.8494,79.9575,28.43,33.99,midday,weekday,1.2,44.53
+66,Pannipitiya,6.8308,79.9661,29,Kaduwela,6.9358,79.9778,16.27,17.35,evening_peak,weekday,2,31.22
+24,Hokandara,6.8494,79.9575,21,Ratmalana,6.82,79.8817,11.38,19.52,morning_peak,weekday,1.8,36.2
+14,Dematagoda,6.9261,79.88,34,Peliyagoda,6.9711,79.8906,6.45,9.94,night,weekday,0.85,7.54
+36,Ragama,7.0261,79.9181,45,Divulapitiya,7.2278,80.06,38.87,49.75,midday,weekday,1.2,63.24
+100,Colombo 02,6.9178,79.8464,56,Padukka,6.8361,80.0872,32.49,44.18,evening_peak,weekday,2,93.12
+18,Piliyandala,6.8017,79.9247,38,Ja-Ela,7.0733,79.8917,38.72,43.23,midday,weekday,1.2,48.33
+59,Kalutara,6.5854,79.9608,69,Pelawatte,6.8908,79.9311,44.92,46.96,evening_peak,weekday,2,96.55
+95,Beruwala,6.4781,79.9833,78,Kadawatha Junction,7.0028,79.9556,68.05,60.18,evening_peak,weekday,2,126.32
+14,Dematagoda,6.9261,79.88,61,Panadura South,6.695,79.905,29.63,41.81,midday,weekday,1.2,44.07
+41,Negombo,7.2089,79.8353,54,Liyanagemulla,7.1378,79.8853,11.31,15.84,night,weekday,0.85,11.86
+87,Gothatuwa,6.9217,79.9856,78,Kadawatha Junction,7.0028,79.9556,11.97,13.97,morning_peak,weekday,1.8,26.75
+17,Maharagama,6.8467,79.9283,92,Ekala,7.0761,79.9283,39.02,46.24,morning_peak,weekday,1.8,84.24
+40,Katunayake,7.1697,79.8847,13,Mattakkuliya,6.9703,79.8778,29.27,26.01,night,weekday,0.85,22.2
+70,Koswatta,6.9194,79.9211,25,Boralesgamuwa,6.8372,79.9111,13.29,21.61,midday,weekday,1.2,29.73
+91,Pannala,7.2956,80.0394,89,Havelock Town,6.8856,79.8642,59.17,78.14,midday,weekday,1.2,83.59
+96,Aluthgama,6.4333,79.9992,75,Baseline Road,6.9067,79.8869,74.27,67.58,night,weekend,0.807,53.01
+54,Liyanagemulla,7.1378,79.8853,90,Bloemendhal,6.96,79.8647,30.93,29.64,morning_peak,weekend,1.17,34.3
+58,Avissawella,6.9472,80.2108,53,Mahara,7.0547,80.0153,40.22,53.7,midday,weekday,1.2,67.77
+70,Koswatta,6.9194,79.9211,8,Wellawatte,6.875,79.8617,11.53,17.83,midday,weekday,1.2,22.25
+35,Wattala,6.9939,79.8781,69,Pelawatte,6.8908,79.9311,18,24.12,evening_peak,weekday,2,51.14
+73,Modara,6.9714,79.8681,39,Seeduwa,7.1175,79.8928,25.95,28.84,night,weekday,0.85,26.21
+45,Divulapitiya,7.2278,80.06,43,Veyangoda,7.1522,80.1128,15.14,22.63,morning_peak,weekday,1.8,38.1
+52,Kiribathgoda,6.9822,79.9486,53,Mahara,7.0547,80.0153,15.37,23.48,evening_peak,weekday,2,43.1
+72,Mutwal,6.9617,79.8522,42,Gampaha,7.0878,79.9992,28.09,38.22,evening_peak,weekday,2,71.81
+77,Kerawalapitiya,6.9883,79.8658,28,Malabe,6.9061,79.9519,19.12,26.62,evening_peak,weekday,2,58.55
+51,Kadawatha,7.0072,79.9508,12,Grandpass,6.9425,79.8706,13.08,18.51,midday,weekday,1.2,19.2
+42,Gampaha,7.0878,79.9992,27,Battaramulla,6.8994,79.9164,32,40.76,night,weekday,0.85,32.27
+6,Kollupitiya,6.8978,79.85,46,Mirigama,7.2453,80.1217,57.19,69.65,evening_peak,weekday,2,124.84
+99,Bulathsinhala,6.665,80.1825,72,Mutwal,6.9617,79.8522,68.28,79.57,evening_peak,weekend,1.4,106.88
+11,Kotahena,6.9531,79.8597,61,Panadura South,6.695,79.905,32.16,45.97,night,weekday,0.85,42.24
+12,Grandpass,6.9425,79.8706,43,Veyangoda,7.1522,80.1128,39.06,46.36,night,weekday,0.85,42.15
+80,Udugampola,7.0717,80.0239,13,Mattakkuliya,6.9703,79.8778,25.43,30.76,evening_peak,weekday,2,58.41
+4,Borella,6.9113,79.8778,75,Baseline Road,6.9067,79.8869,1.66,2.42,night,weekday,0.85,2
+92,Ekala,7.0761,79.9283,54,Liyanagemulla,7.1378,79.8853,12.52,22.05,evening_peak,weekend,1.4,29.18
+57,Hanwella,6.9042,80.0842,26,Rajagiriya,6.9111,79.8989,25.9,33.15,evening_peak,weekday,2,57.88
+14,Dematagoda,6.9261,79.88,78,Kadawatha Junction,7.0028,79.9556,14.85,19.47,morning_peak,weekday,1.8,30.91
+30,Mulleriyawa,6.9317,79.9514,93,Gonawala,7.1539,79.9819,33.84,43.23,night,weekday,0.85,42.1
+47,Nittambuwa,7.1497,80.18,53,Mahara,7.0547,80.0153,29.72,40.38,midday,weekday,1.2,42.08
+87,Gothatuwa,6.9217,79.9856,89,Havelock Town,6.8856,79.8642,18.37,24.95,night,weekday,0.85,24.1
+41,Negombo,7.2089,79.8353,74,Orugodawatta,6.9486,79.8886,33.82,33.02,midday,weekday,1.2,40.6
+91,Pannala,7.2956,80.0394,52,Kiribathgoda,6.9822,79.9486,47.21,68.99,midday,weekday,1.2,87.15
+4,Borella,6.9113,79.8778,17,Maharagama,6.8467,79.9283,11.5,15.79,evening_peak,weekday,2,28.88
+71,Colombo Port,6.95,79.8378,94,Welisara North,7.02,79.89,17.88,26.88,midday,weekday,1.2,28.54
+24,Hokandara,6.8494,79.9575,83,Attanagalla,7.175,80.0706,45.6,55.14,midday,weekday,1.2,69.71
+32,Biyagama,6.9753,80.0008,78,Kadawatha Junction,7.0028,79.9556,9.63,15.62,morning_peak,weekday,1.8,31.31
+99,Bulathsinhala,6.665,80.1825,47,Nittambuwa,7.1497,80.18,99.17,112.43,night,weekday,0.85,98.85
+39,Seeduwa,7.1175,79.8928,48,Dompe,7.065,80.0969,27.64,38.02,midday,weekday,1.2,45.66
+30,Mulleriyawa,6.9317,79.9514,22,Kottawa,6.8244,79.9628,20.32,23.55,midday,weekday,1.2,31.05
+18,Piliyandala,6.8017,79.9247,90,Bloemendhal,6.96,79.8647,23.12,30.16,morning_peak,weekend,1.17,31.31
+58,Avissawella,6.9472,80.2108,90,Bloemendhal,6.96,79.8647,48.43,61.28,night,weekday,0.85,55.56
+72,Mutwal,6.9617,79.8522,24,Hokandara,6.8494,79.9575,21.14,32.26,midday,weekday,1.2,39.65
+30,Mulleriyawa,6.9317,79.9514,42,Gampaha,7.0878,79.9992,24.89,31.57,midday,weekend,1.02,36.55
+27,Battaramulla,6.8994,79.9164,39,Seeduwa,7.1175,79.8928,32.37,34.84,night,weekday,0.85,32.41
+33,Kelaniya,7.0017,79.9219,62,Ingiriya,6.7344,80.1058,51.35,52.74,midday,weekday,1.2,54.25
+44,Minuwangoda,7.1667,79.9506,54,Liyanagemulla,7.1378,79.8853,12.68,20.25,morning_peak,weekday,1.8,36.01
+38,Ja-Ela,7.0733,79.8917,37,Kandana,7.0508,79.9058,5.17,8,night,weekend,0.807,5.87
+11,Kotahena,6.9531,79.8597,68,Sri Jayawardenepura,6.8886,79.9203,13.42,17.72,morning_peak,weekday,1.8,31.93
+88,Thimbirigasyaya,6.8839,79.8778,22,Kottawa,6.8244,79.9628,14.52,21.36,morning_peak,weekend,1.17,24.74
+57,Hanwella,6.9042,80.0842,85,Hendala,6.9894,79.9019,31.3,36.12,midday,weekend,1.02,37.3
+28,Malabe,6.9061,79.9519,96,Aluthgama,6.4333,79.9992,67.32,59.48,morning_peak,weekday,1.8,109.36
+45,Divulapitiya,7.2278,80.06,22,Kottawa,6.8244,79.9628,56.14,63.68,morning_peak,weekday,1.8,123.69
+96,Aluthgama,6.4333,79.9992,59,Kalutara,6.5854,79.9608,18.15,22.7,morning_peak,weekday,1.8,35.71
+29,Kaduwela,6.9358,79.9778,3,Maradana,6.92,79.8617,14.91,21.25,morning_peak,weekday,1.8,36.95
+6,Kollupitiya,6.8978,79.85,12,Grandpass,6.9425,79.8706,7.77,11.82,midday,weekday,1.2,14.11
+8,Wellawatte,6.875,79.8617,84,Yakkala,7.1019,80.0767,40.89,52.96,midday,weekday,1.2,54.51
+8,Wellawatte,6.875,79.8617,87,Gothatuwa,6.9217,79.9856,20.45,27.23,evening_peak,weekend,1.4,34.71
+78,Kadawatha Junction,7.0028,79.9556,77,Kerawalapitiya,6.9883,79.8658,13.23,16.61,morning_peak,weekend,1.17,21.05
+98,Kosgama,6.8856,80.1681,41,Negombo,7.2089,79.8353,70.98,77.07,night,weekday,0.85,64.55
+10,Mount Lavinia,6.8311,79.865,80,Udugampola,7.0717,80.0239,38.26,48.07,night,weekday,0.85,35.68
+12,Grandpass,6.9425,79.8706,89,Havelock Town,6.8856,79.8642,7.66,11.96,morning_peak,weekday,1.8,21.65
+41,Negombo,7.2089,79.8353,36,Ragama,7.0261,79.9181,27.88,32.87,midday,weekend,1.02,35.38
+43,Veyangoda,7.1522,80.1128,25,Boralesgamuwa,6.8372,79.9111,54.48,58.93,morning_peak,weekday,1.8,107.82
+18,Piliyandala,6.8017,79.9247,59,Kalutara,6.5854,79.9608,31.84,35.3,morning_peak,weekday,1.8,66.24
+27,Battaramulla,6.8994,79.9164,32,Biyagama,6.9753,80.0008,16.33,22.24,midday,weekday,1.2,22.88
+97,Maththegoda,6.8103,80.0478,68,Sri Jayawardenepura,6.8886,79.9203,21.68,33.71,morning_peak,weekday,1.8,68.99
+8,Wellawatte,6.875,79.8617,6,Kollupitiya,6.8978,79.85,3.38,4.86,evening_peak,weekday,2,9.41
+13,Mattakkuliya,6.9703,79.8778,69,Pelawatte,6.8908,79.9311,14.09,19.6,morning_peak,weekday,1.8,38.43
+66,Pannipitiya,6.8308,79.9661,74,Orugodawatta,6.9486,79.8886,21.49,32.06,evening_peak,weekday,2,72.25
+77,Kerawalapitiya,6.9883,79.8658,55,Homagama,6.8444,80.0044,36.89,35.4,evening_peak,weekend,1.4,45.7
+14,Dematagoda,6.9261,79.88,45,Divulapitiya,7.2278,80.06,46.82,59.99,morning_peak,weekday,1.8,105.06
+86,Pittugala,6.9133,79.9694,23,Athurugiriya,6.8783,79.9917,8.62,10.49,morning_peak,weekday,1.8,20.64
+92,Ekala,7.0761,79.9283,60,Bandaragama,6.7167,79.9833,48.71,55.64,evening_peak,weekend,1.4,85
+49,Kirindiwela,6.9928,80.0944,37,Kandana,7.0508,79.9058,31.99,49.2,evening_peak,weekday,2,95.91
+80,Udugampola,7.0717,80.0239,38,Ja-Ela,7.0733,79.8917,19.29,26.86,midday,weekday,1.2,37.03
+16,Nugegoda,6.8689,79.8889,28,Malabe,6.9061,79.9519,10.89,16.11,evening_peak,weekday,2,28.67
+55,Homagama,6.8444,80.0044,86,Pittugala,6.9133,79.9694,15.15,17.1,night,weekend,0.807,15.84
+65,Pepiliyana,6.8528,79.9183,6,Kollupitiya,6.8978,79.85,10.24,15.44,midday,weekday,1.2,18.44
+23,Athurugiriya,6.8783,79.9917,96,Aluthgama,6.4333,79.9992,64.24,54.67,midday,weekday,1.2,67.09
+97,Maththegoda,6.8103,80.0478,21,Ratmalana,6.82,79.8817,25.45,39.57,midday,weekday,1.2,48.49
+82,Pasyala,7.0911,80.1394,88,Thimbirigasyaya,6.8839,79.8778,46.16,58.11,evening_peak,weekday,2,111.16
+50,Ganemulla,7.0922,80.0225,48,Dompe,7.065,80.0969,10.95,14,evening_peak,weekday,2,29.64
+57,Hanwella,6.9042,80.0842,31,Thalawathugoda,6.8869,79.9331,22.99,30.9,morning_peak,weekday,1.8,49.45
+49,Kirindiwela,6.9928,80.0944,87,Gothatuwa,6.9217,79.9856,19.27,34.63,midday,weekend,1.02,30.67
+28,Malabe,6.9061,79.9519,41,Negombo,7.2089,79.8353,46.17,47.27,morning_peak,weekday,1.8,82.93
+75,Baseline Road,6.9067,79.8869,38,Ja-Ela,7.0733,79.8917,25.39,25.62,morning_peak,weekday,1.8,40.65
+3,Maradana,6.92,79.8617,99,Bulathsinhala,6.665,80.1825,59.76,73.94,morning_peak,weekday,1.8,141.65
+88,Thimbirigasyaya,6.8839,79.8778,35,Wattala,6.9939,79.8781,14.31,20.4,night,weekday,0.85,14.86
+98,Kosgama,6.8856,80.1681,89,Havelock Town,6.8856,79.8642,47.24,61.84,midday,weekday,1.2,81.07
+25,Boralesgamuwa,6.8372,79.9111,16,Nugegoda,6.8689,79.8889,6.09,9.56,midday,weekday,1.2,10.88
+97,Maththegoda,6.8103,80.0478,34,Peliyagoda,6.9711,79.8906,41.62,50.3,morning_peak,weekend,1.17,56.82
+89,Havelock Town,6.8856,79.8642,45,Divulapitiya,7.2278,80.06,52.03,67.33,evening_peak,weekday,2,139.32
+48,Dompe,7.065,80.0969,39,Seeduwa,7.1175,79.8928,27.68,37.89,evening_peak,weekend,1.4,56.47
+18,Piliyandala,6.8017,79.9247,60,Bandaragama,6.7167,79.9833,14.21,16.95,morning_peak,weekday,1.8,31.47
+4,Borella,6.9113,79.8778,63,Kirulapone,6.8742,79.8825,5.44,8.06,night,weekday,0.85,6.43
+81,Heiyanthuduwa,6.9444,80.0431,16,Nugegoda,6.8689,79.8889,25.49,38.91,midday,weekday,1.2,49.59
+5,Cinnamon Gardens,6.9011,79.8601,20,Moratuwa,6.7731,79.8817,16.43,22.44,evening_peak,weekend,1.4,34.39
+4,Borella,6.9113,79.8778,42,Gampaha,7.0878,79.9992,29.53,38.19,evening_peak,weekday,2,67.97
+67,Kahathuduwa,6.7981,80.0133,63,Kirulapone,6.8742,79.8825,21.8,29.1,morning_peak,weekend,1.17,31.56
+99,Bulathsinhala,6.665,80.1825,42,Gampaha,7.0878,79.9992,74.53,81.85,night,weekday,0.85,73.22
+74,Orugodawatta,6.9486,79.8886,73,Modara,6.9714,79.8681,4.32,8.9,evening_peak,weekday,2,17.32
+23,Athurugiriya,6.8783,79.9917,40,Katunayake,7.1697,79.8847,44.96,38.12,evening_peak,weekday,2,73.63
+90,Bloemendhal,6.96,79.8647,51,Kadawatha,7.0072,79.9508,13.67,18.98,night,weekday,0.85,14.45
+20,Moratuwa,6.7731,79.8817,55,Homagama,6.8444,80.0044,20.26,27.31,morning_peak,weekday,1.8,52.54
+92,Ekala,7.0761,79.9283,70,Koswatta,6.9194,79.9211,24.56,39.82,midday,weekday,1.2,43.58
+84,Yakkala,7.1019,80.0767,64,Gangodawila,6.8567,79.8994,45.12,55.84,evening_peak,weekday,2,95.16
+62,Ingiriya,6.7344,80.1058,16,Nugegoda,6.8689,79.8889,35.32,41.27,evening_peak,weekend,1.4,62.89
+55,Homagama,6.8444,80.0044,35,Wattala,6.9939,79.8781,36.41,35.55,night,weekday,0.85,34.35
+7,Bambalapitiya,6.8867,79.8567,30,Mulleriyawa,6.9317,79.9514,15.65,23.34,midday,weekday,1.2,27.89
+51,Kadawatha,7.0072,79.9508,72,Mutwal,6.9617,79.8522,15.08,22.1,morning_peak,weekday,1.8,39.61
+17,Maharagama,6.8467,79.9283,63,Kirulapone,6.8742,79.8825,6.7,10.38,night,weekend,0.807,9.1
+36,Ragama,7.0261,79.9181,25,Boralesgamuwa,6.8372,79.9111,27.07,37.76,night,weekday,0.85,35.5
+25,Boralesgamuwa,6.8372,79.9111,55,Homagama,6.8444,80.0044,12,16.98,midday,weekday,1.2,20.44
+98,Kosgama,6.8856,80.1681,28,Malabe,6.9061,79.9519,34.99,46.39,evening_peak,weekend,1.4,57.88
+90,Bloemendhal,6.96,79.8647,48,Dompe,7.065,80.0969,35.55,43.27,midday,weekday,1.2,55.85
+72,Mutwal,6.9617,79.8522,51,Kadawatha,7.0072,79.9508,14.98,22.11,night,weekday,0.85,20.81
+9,Dehiwala,6.8517,79.865,1,Colombo Fort,6.9344,79.8428,9.83,12.49,evening_peak,weekday,2,26.08
+35,Wattala,6.9939,79.8781,3,Maradana,6.92,79.8617,10.55,16.16,morning_peak,weekday,1.8,30.99
+91,Pannala,7.2956,80.0394,80,Udugampola,7.0717,80.0239,31.9,47.73,night,weekday,0.85,36.53
+75,Baseline Road,6.9067,79.8869,42,Gampaha,7.0878,79.9992,30.59,39.82,evening_peak,weekday,2,84.91
+59,Kalutara,6.5854,79.9608,81,Heiyanthuduwa,6.9444,80.0431,53.95,59.38,midday,weekend,1.02,66.56
+47,Nittambuwa,7.1497,80.18,62,Ingiriya,6.7344,80.1058,81.91,90.34,midday,weekday,1.2,115.1
+61,Panadura South,6.695,79.905,31,Thalawathugoda,6.8869,79.9331,39.56,44.27,morning_peak,weekday,1.8,71.06
+82,Pasyala,7.0911,80.1394,50,Ganemulla,7.0922,80.0225,16.27,22.13,midday,weekday,1.2,23.14
+27,Battaramulla,6.8994,79.9164,15,Narahenpita,6.8981,79.8742,6.92,9,night,weekday,0.85,8.1
+62,Ingiriya,6.7344,80.1058,47,Nittambuwa,7.1497,80.18,82.2,89.82,night,weekday,0.85,87.29
+61,Panadura South,6.695,79.905,32,Biyagama,6.9753,80.0008,44.78,46.63,night,weekend,0.807,34.51
+34,Peliyagoda,6.9711,79.8906,62,Ingiriya,6.7344,80.1058,49.35,56.3,morning_peak,weekday,1.8,91.36
+82,Pasyala,7.0911,80.1394,71,Colombo Port,6.95,79.8378,45.67,62.6,night,weekday,0.85,53.33
+38,Ja-Ela,7.0733,79.8917,14,Dematagoda,6.9261,79.88,21.79,20.78,night,weekday,0.85,15.4
+78,Kadawatha Junction,7.0028,79.9556,89,Havelock Town,6.8856,79.8642,19.19,25.44,evening_peak,weekday,2,49.69
+22,Kottawa,6.8244,79.9628,35,Wattala,6.9939,79.8781,37.8,36.92,night,weekend,0.807,31.37
+43,Veyangoda,7.1522,80.1128,17,Maharagama,6.8467,79.9283,52.31,55.21,morning_peak,weekday,1.8,112.22
+39,Seeduwa,7.1175,79.8928,98,Kosgama,6.8856,80.1681,62.06,71.33,evening_peak,weekday,2,157.45
+69,Pelawatte,6.8908,79.9311,20,Moratuwa,6.7731,79.8817,20.87,30.54,morning_peak,weekday,1.8,56.14
+73,Modara,6.9714,79.8681,69,Pelawatte,6.8908,79.9311,14.81,21.08,night,weekday,0.85,18.21
+86,Pittugala,6.9133,79.9694,64,Gangodawila,6.8567,79.8994,15.23,22.21,midday,weekend,1.02,24.37
+97,Maththegoda,6.8103,80.0478,18,Piliyandala,6.8017,79.9247,18.01,28.51,evening_peak,weekday,2,60.54
+4,Borella,6.9113,79.8778,82,Pasyala,7.0911,80.1394,43.63,54.56,morning_peak,weekend,1.17,67.88
+55,Homagama,6.8444,80.0044,100,Colombo 02,6.9178,79.8464,22.33,30.93,night,weekday,0.85,24.18
+88,Thimbirigasyaya,6.8839,79.8778,56,Padukka,6.8361,80.0872,27.34,39.63,evening_peak,weekday,2,78.12
+43,Veyangoda,7.1522,80.1128,39,Seeduwa,7.1175,79.8928,31.47,41.94,evening_peak,weekend,1.4,63.53
+54,Liyanagemulla,7.1378,79.8853,30,Mulleriyawa,6.9317,79.9514,38.14,39.07,evening_peak,weekday,2,89.6
+18,Piliyandala,6.8017,79.9247,7,Bambalapitiya,6.8867,79.8567,13.75,18.06,evening_peak,weekday,2,36.54
+49,Kirindiwela,6.9928,80.0944,52,Kiribathgoda,6.9822,79.9486,23.16,38.9,night,weekday,0.85,33.41
+9,Dehiwala,6.8517,79.865,47,Nittambuwa,7.1497,80.18,62.14,79.44,midday,weekday,1.2,104.45
+20,Moratuwa,6.7731,79.8817,88,Thimbirigasyaya,6.8839,79.8778,15.3,22.31,morning_peak,weekend,1.17,29.64
+24,Hokandara,6.8494,79.9575,47,Nittambuwa,7.1497,80.18,58.06,70.85,morning_peak,weekday,1.8,110.75
+60,Bandaragama,6.7167,79.9833,99,Bulathsinhala,6.665,80.1825,33.18,42.87,midday,weekday,1.2,58.81
+29,Kaduwela,6.9358,79.9778,41,Negombo,7.2089,79.8353,41.92,39.46,evening_peak,weekend,1.4,52.58
+18,Piliyandala,6.8017,79.9247,17,Maharagama,6.8467,79.9283,7.31,10.32,midday,weekday,1.2,13.66
+56,Padukka,6.8361,80.0872,22,Kottawa,6.8244,79.9628,17.56,25,evening_peak,weekday,2,47.39
+98,Kosgama,6.8856,80.1681,35,Wattala,6.9939,79.8781,51.32,61.03,evening_peak,weekday,2,135.41
+70,Koswatta,6.9194,79.9211,37,Kandana,7.0508,79.9058,19.94,31.04,morning_peak,weekday,1.8,59.86
+16,Nugegoda,6.8689,79.8889,61,Panadura South,6.695,79.905,23.16,33.86,midday,weekday,1.2,35.95
+100,Colombo 02,6.9178,79.8464,74,Orugodawatta,6.9486,79.8886,8.96,14.44,midday,weekday,1.2,18.9
+7,Bambalapitiya,6.8867,79.8567,44,Minuwangoda,7.1667,79.9506,41.03,49.06,evening_peak,weekday,2,109.26
+68,Sri Jayawardenepura,6.8886,79.9203,78,Kadawatha Junction,7.0028,79.9556,19.38,23.37,evening_peak,weekday,2,49.42
+10,Mount Lavinia,6.8311,79.865,50,Ganemulla,7.0922,80.0225,40.1,51.7,midday,weekday,1.2,67.56
+32,Biyagama,6.9753,80.0008,84,Yakkala,7.1019,80.0767,21.46,29.58,evening_peak,weekday,2,57.41
+83,Attanagalla,7.175,80.0706,18,Piliyandala,6.8017,79.9247,57.61,60.62,morning_peak,weekday,1.8,123.87
+77,Kerawalapitiya,6.9883,79.8658,7,Bambalapitiya,6.8867,79.8567,14.12,21.2,morning_peak,weekend,1.17,26.55
+36,Ragama,7.0261,79.9181,55,Homagama,6.8444,80.0044,29.82,30.36,midday,weekend,1.02,27.63
+55,Homagama,6.8444,80.0044,97,Maththegoda,6.8103,80.0478,9.01,17.05,midday,weekday,1.2,20.32
+29,Kaduwela,6.9358,79.9778,26,Rajagiriya,6.9111,79.8989,12.23,17.67,evening_peak,weekday,2,36.75
+97,Maththegoda,6.8103,80.0478,41,Negombo,7.2089,79.8353,64.61,66.47,evening_peak,weekend,1.4,102.16
+31,Thalawathugoda,6.8869,79.9331,82,Pasyala,7.0911,80.1394,47.73,56.41,night,weekend,0.807,46.4
+52,Kiribathgoda,6.9822,79.9486,96,Aluthgama,6.4333,79.9992,75.96,69.33,night,weekday,0.85,64.67
+30,Mulleriyawa,6.9317,79.9514,100,Colombo 02,6.9178,79.8464,14.41,22.21,evening_peak,weekday,2,43.43
+63,Kirulapone,6.8742,79.8825,42,Gampaha,7.0878,79.9992,33.89,44.38,evening_peak,weekend,1.4,63.74
+32,Biyagama,6.9753,80.0008,15,Narahenpita,6.8981,79.8742,22.56,29.02,evening_peak,weekend,1.4,36.89
+59,Kalutara,6.5854,79.9608,58,Avissawella,6.9472,80.2108,77.59,83.69,morning_peak,weekday,1.8,167.98
+15,Narahenpita,6.8981,79.8742,89,Havelock Town,6.8856,79.8642,2.31,4.03,evening_peak,weekday,2,8.52
+97,Maththegoda,6.8103,80.0478,75,Baseline Road,6.9067,79.8869,25.92,39.89,morning_peak,weekday,1.8,66.22
+38,Ja-Ela,7.0733,79.8917,41,Negombo,7.2089,79.8353,18.98,20.87,morning_peak,weekday,1.8,35.29
+17,Maharagama,6.8467,79.9283,88,Thimbirigasyaya,6.8839,79.8778,8.34,13.28,night,weekday,0.85,11.23
+62,Ingiriya,6.7344,80.1058,88,Thimbirigasyaya,6.8839,79.8778,37.19,44.88,midday,weekend,1.02,41.13
+94,Welisara North,7.02,79.89,40,Katunayake,7.1697,79.8847,21.52,20.38,evening_peak,weekday,2,40.07
+29,Kaduwela,6.9358,79.9778,24,Hokandara,6.8494,79.9575,13.83,19.46,morning_peak,weekend,1.17,24.33
+84,Yakkala,7.1019,80.0767,45,Divulapitiya,7.2278,80.06,17.44,27.73,midday,weekday,1.2,35.87
+95,Beruwala,6.4781,79.9833,4,Borella,6.9113,79.8778,66.61,65.82,night,weekend,0.807,54.7
+9,Dehiwala,6.8517,79.865,77,Kerawalapitiya,6.9883,79.8658,18.12,25.3,morning_peak,weekday,1.8,41.81
+19,Panadura,6.7136,79.9042,90,Bloemendhal,6.96,79.8647,30.75,42.25,night,weekday,0.85,34.21
+92,Ekala,7.0761,79.9283,49,Kirindiwela,6.9928,80.0944,26.92,46.82,midday,weekday,1.2,53.68
+42,Gampaha,7.0878,79.9992,19,Panadura,6.7136,79.9042,59.77,59.64,evening_peak,weekend,1.4,91.31
+63,Kirulapone,6.8742,79.8825,3,Maradana,6.92,79.8617,6.95,10.64,midday,weekend,1.02,10.41
+52,Kiribathgoda,6.9822,79.9486,100,Colombo 02,6.9178,79.8464,17.72,24.79,night,weekday,0.85,22.6
+16,Nugegoda,6.8689,79.8889,24,Hokandara,6.8494,79.9575,9.11,15.2,night,weekday,0.85,11.18
+10,Mount Lavinia,6.8311,79.865,80,Udugampola,7.0717,80.0239,38.26,48.07,midday,weekday,1.2,57.06
+6,Kollupitiya,6.8978,79.85,16,Nugegoda,6.8689,79.8889,6.47,10.31,midday,weekday,1.2,11.33
+26,Rajagiriya,6.9111,79.8989,90,Bloemendhal,6.96,79.8647,9.72,14.01,evening_peak,weekday,2,24.04
+84,Yakkala,7.1019,80.0767,63,Kirulapone,6.8742,79.8825,39.27,51.02,morning_peak,weekday,1.8,88.96
+2,Pettah,6.9354,79.8517,14,Dematagoda,6.9261,79.88,5.1,7.42,evening_peak,weekday,2,16.9
+33,Kelaniya,7.0017,79.9219,13,Mattakkuliya,6.9703,79.8778,9.03,13.63,evening_peak,weekday,2,28.62
+21,Ratmalana,6.82,79.8817,28,Malabe,6.9061,79.9519,16.83,25.26,midday,weekday,1.2,25.97
+87,Gothatuwa,6.9217,79.9856,79,Weboda,7.0364,79.9869,16.85,20.27,midday,weekday,1.2,21.69
+2,Pettah,6.9354,79.8517,84,Yakkala,7.1019,80.0767,34.42,44.91,night,weekend,0.807,36.18
+40,Katunayake,7.1697,79.8847,66,Pannipitiya,6.8308,79.9661,51.57,44.45,night,weekday,0.85,35.62
+44,Minuwangoda,7.1667,79.9506,6,Kollupitiya,6.8978,79.85,40.22,47.72,midday,weekday,1.2,50.53
+52,Kiribathgoda,6.9822,79.9486,94,Welisara North,7.02,79.89,13.38,19.51,midday,weekday,1.2,23.8
+19,Panadura,6.7136,79.9042,6,Kollupitiya,6.8978,79.85,22.74,31.84,morning_peak,weekend,1.17,32.61
+7,Bambalapitiya,6.8867,79.8567,59,Kalutara,6.5854,79.9608,37.77,50.82,evening_peak,weekday,2,111.63
+69,Pelawatte,6.8908,79.9311,23,Athurugiriya,6.8783,79.9917,8.44,12.3,evening_peak,weekday,2,21.95
+70,Koswatta,6.9194,79.9211,17,Maharagama,6.8467,79.9283,11.91,17.96,midday,weekend,1.02,20.17
+38,Ja-Ela,7.0733,79.8917,72,Mutwal,6.9617,79.8522,22.47,23.48,night,weekend,0.807,17.86
+14,Dematagoda,6.9261,79.88,10,Mount Lavinia,6.8311,79.865,12.74,18.55,night,weekday,0.85,14.63
+41,Negombo,7.2089,79.8353,10,Mount Lavinia,6.8311,79.865,48.15,51.74,evening_peak,weekday,2,97.36
+1,Colombo Fort,6.9344,79.8428,12,Grandpass,6.9425,79.8706,4.67,7.14,morning_peak,weekday,1.8,13.65
+85,Hendala,6.9894,79.9019,86,Pittugala,6.9133,79.9694,18.9,24.63,night,weekday,0.85,18.57
+12,Grandpass,6.9425,79.8706,81,Heiyanthuduwa,6.9444,80.0431,22.41,33.88,evening_peak,weekday,2,64.27
+11,Kotahena,6.9531,79.8597,63,Kirulapone,6.8742,79.8825,10.48,15.54,morning_peak,weekday,1.8,27.2
+11,Kotahena,6.9531,79.8597,53,Mahara,7.0547,80.0153,24.67,32.29,evening_peak,weekend,1.4,41.92
+36,Ragama,7.0261,79.9181,93,Gonawala,7.1539,79.9819,20.47,33.12,midday,weekday,1.2,43.99
+85,Hendala,6.9894,79.9019,86,Pittugala,6.9133,79.9694,18.9,24.63,evening_peak,weekday,2,55.66
+88,Thimbirigasyaya,6.8839,79.8778,87,Gothatuwa,6.9217,79.9856,17.79,23.87,midday,weekday,1.2,30.68
+61,Panadura South,6.695,79.905,44,Minuwangoda,7.1667,79.9506,72.01,77.33,midday,weekend,1.02,68.01
+6,Kollupitiya,6.8978,79.85,17,Maharagama,6.8467,79.9283,11.34,17.4,evening_peak,weekday,2,32.97
+72,Mutwal,6.9617,79.8522,21,Ratmalana,6.82,79.8817,19.23,29.04,midday,weekday,1.2,32.09
+88,Thimbirigasyaya,6.8839,79.8778,33,Kelaniya,7.0017,79.9219,16.4,23.71,midday,weekday,1.2,25.09
+96,Aluthgama,6.4333,79.9992,76,Welisara,7.0097,79.8939,89.21,75.85,morning_peak,weekday,1.8,136.73
+52,Kiribathgoda,6.9822,79.9486,42,Gampaha,7.0878,79.9992,18.89,28.41,morning_peak,weekday,1.8,45.3
+98,Kosgama,6.8856,80.1681,57,Hanwella,6.9042,80.0842,16.44,24.7,morning_peak,weekend,1.17,25.59
+64,Gangodawila,6.8567,79.8994,71,Colombo Port,6.95,79.8378,15.68,26.73,midday,weekend,1.02,25.32
+33,Kelaniya,7.0017,79.9219,98,Kosgama,6.8856,80.1681,44.74,57.76,evening_peak,weekend,1.4,77.13
+18,Piliyandala,6.8017,79.9247,88,Thimbirigasyaya,6.8839,79.8778,11.97,17.04,evening_peak,weekend,1.4,21.93
+87,Gothatuwa,6.9217,79.9856,52,Kiribathgoda,6.9822,79.9486,10.83,18.25,night,weekend,0.807,15.02
+33,Kelaniya,7.0017,79.9219,47,Nittambuwa,7.1497,80.18,43.97,57.24,midday,weekday,1.2,75.86
+82,Pasyala,7.0911,80.1394,94,Welisara North,7.02,79.89,38.14,43.73,midday,weekend,1.02,41.69
+65,Pepiliyana,6.8528,79.9183,12,Grandpass,6.9425,79.8706,14.6,21.13,night,weekday,0.85,17.88
+57,Hanwella,6.9042,80.0842,5,Cinnamon Gardens,6.9011,79.8601,31,38.07,morning_peak,weekday,1.8,64.77
+3,Maradana,6.92,79.8617,90,Bloemendhal,6.96,79.8647,5.85,8.49,midday,weekday,1.2,10.96
+2,Pettah,6.9354,79.8517,75,Baseline Road,6.9067,79.8869,6.45,9.29,evening_peak,weekday,2,20.59
+76,Welisara,7.0097,79.8939,2,Pettah,6.9354,79.8517,11.18,15.52,morning_peak,weekday,1.8,30.88
+76,Welisara,7.0097,79.8939,16,Nugegoda,6.8689,79.8889,17.95,24.69,morning_peak,weekend,1.17,31.5
+15,Narahenpita,6.8981,79.8742,13,Mattakkuliya,6.9703,79.8778,9.1,14.12,evening_peak,weekend,1.4,20.5
+53,Mahara,7.0547,80.0153,50,Ganemulla,7.0922,80.0225,5.3,8.54,night,weekday,0.85,7.63
+28,Malabe,6.9061,79.9519,32,Biyagama,6.9753,80.0008,12.08,16.47,midday,weekday,1.2,17.72
+70,Koswatta,6.9194,79.9211,65,Pepiliyana,6.8528,79.9183,10.75,16.35,morning_peak,weekday,1.8,33.35
+23,Athurugiriya,6.8783,79.9917,93,Gonawala,7.1539,79.9819,38.83,44.41,midday,weekday,1.2,52.38
+40,Katunayake,7.1697,79.8847,77,Kerawalapitiya,6.9883,79.8658,29.81,27.17,morning_peak,weekday,1.8,52.85
+68,Sri Jayawardenepura,6.8886,79.9203,80,Udugampola,7.0717,80.0239,30.41,36,evening_peak,weekday,2,61.39
+90,Bloemendhal,6.96,79.8647,97,Maththegoda,6.8103,80.0478,37.34,48.26,morning_peak,weekday,1.8,97.64
+54,Liyanagemulla,7.1378,79.8853,28,Malabe,6.9061,79.9519,41.95,42.31,night,weekday,0.85,40.66
+77,Kerawalapitiya,6.9883,79.8658,58,Avissawella,6.9472,80.2108,56.45,64.66,midday,weekend,1.02,61.51
+33,Kelaniya,7.0017,79.9219,71,Colombo Port,6.95,79.8378,16.29,26.74,evening_peak,weekend,1.4,42.26
+74,Orugodawatta,6.9486,79.8886,43,Veyangoda,7.1522,80.1128,39.09,46.96,evening_peak,weekend,1.4,57.14
+83,Attanagalla,7.175,80.0706,54,Liyanagemulla,7.1378,79.8853,25.19,40.19,midday,weekday,1.2,55.22
+18,Piliyandala,6.8017,79.9247,80,Udugampola,7.0717,80.0239,43.84,41.68,evening_peak,weekend,1.4,56.2
+36,Ragama,7.0261,79.9181,67,Kahathuduwa,6.7981,80.0133,37.83,38.89,evening_peak,weekend,1.4,58.38
+63,Kirulapone,6.8742,79.8825,98,Kosgama,6.8856,80.1681,45.91,61.66,evening_peak,weekday,2,127.32
+45,Divulapitiya,7.2278,80.06,50,Ganemulla,7.0922,80.0225,21.19,29.71,evening_peak,weekday,2,51.55
+69,Pelawatte,6.8908,79.9311,98,Kosgama,6.8856,80.1681,38.01,51.32,midday,weekday,1.2,58.9
+91,Pannala,7.2956,80.0394,88,Thimbirigasyaya,6.8839,79.8778,58.53,76.84,evening_peak,weekend,1.4,96.34
+49,Kirindiwela,6.9928,80.0944,62,Ingiriya,6.7344,80.1058,37.36,60.55,evening_peak,weekday,2,128.41
+73,Modara,6.9714,79.8681,68,Sri Jayawardenepura,6.8886,79.9203,15.61,21.51,midday,weekday,1.2,27.3
+95,Beruwala,6.4781,79.9833,31,Thalawathugoda,6.8869,79.9331,60.13,59.69,evening_peak,weekday,2,119.9
+55,Homagama,6.8444,80.0044,88,Thimbirigasyaya,6.8839,79.8778,16.95,24.65,midday,weekday,1.2,29.9
+77,Kerawalapitiya,6.9883,79.8658,15,Narahenpita,6.8981,79.8742,12.3,18.57,midday,weekend,1.02,17.78
+30,Mulleriyawa,6.9317,79.9514,36,Ragama,7.0261,79.9181,18.58,23.18,evening_peak,weekday,2,51.42
+49,Kirindiwela,6.9928,80.0944,76,Welisara,7.0097,79.8939,32.39,47.59,evening_peak,weekday,2,105.97
+31,Thalawathugoda,6.8869,79.9331,58,Avissawella,6.9472,80.2108,42.7,56.05,night,weekday,0.85,41.28
+28,Malabe,6.9061,79.9519,16,Nugegoda,6.8689,79.8889,10.75,16,midday,weekday,1.2,19.02
+77,Kerawalapitiya,6.9883,79.8658,19,Panadura,6.7136,79.9042,35.17,50.75,midday,weekday,1.2,54.12
+100,Colombo 02,6.9178,79.8464,84,Yakkala,7.1019,80.0767,37.41,48.96,evening_peak,weekday,2,89.91
+44,Minuwangoda,7.1667,79.9506,68,Sri Jayawardenepura,6.8886,79.9203,43.99,51.15,midday,weekend,1.02,44.46
+96,Aluthgama,6.4333,79.9992,42,Gampaha,7.0878,79.9992,89.61,80.17,midday,weekday,1.2,94.77
+10,Mount Lavinia,6.8311,79.865,91,Pannala,7.2956,80.0394,66.21,87.16,night,weekday,0.85,65.12
+92,Ekala,7.0761,79.9283,78,Kadawatha Junction,7.0028,79.9556,12.27,21.39,morning_peak,weekday,1.8,32.98
+69,Pelawatte,6.8908,79.9311,58,Avissawella,6.9472,80.2108,42.09,53.96,morning_peak,weekday,1.8,100.21
+38,Ja-Ela,7.0733,79.8917,43,Veyangoda,7.1522,80.1128,31.99,40.32,morning_peak,weekend,1.17,40.25
+78,Kadawatha Junction,7.0028,79.9556,97,Maththegoda,6.8103,80.0478,32.45,37.55,evening_peak,weekend,1.4,60.25
+10,Mount Lavinia,6.8311,79.865,95,Beruwala,6.4781,79.9833,43.38,56.8,night,weekend,0.807,43.61
+21,Ratmalana,6.82,79.8817,92,Ekala,7.0761,79.9283,40.08,50.93,night,weekend,0.807,41.24
+20,Moratuwa,6.7731,79.8817,54,Liyanagemulla,7.1378,79.8853,47.89,55.91,night,weekday,0.85,47.13
+47,Nittambuwa,7.1497,80.18,70,Koswatta,6.9194,79.9211,53.59,68.17,night,weekend,0.807,58.5
+3,Maradana,6.92,79.8617,42,Gampaha,7.0878,79.9992,29.83,38.76,evening_peak,weekday,2,69.49
+55,Homagama,6.8444,80.0044,84,Yakkala,7.1019,80.0767,41.75,45.9,midday,weekday,1.2,51.83
+55,Homagama,6.8444,80.0044,87,Gothatuwa,6.9217,79.9856,14.66,16.92,midday,weekday,1.2,19.37
+73,Modara,6.9714,79.8681,81,Heiyanthuduwa,6.9444,80.0431,25.32,38.73,evening_peak,weekend,1.4,57.15
+63,Kirulapone,6.8742,79.8825,42,Gampaha,7.0878,79.9992,33.89,44.38,night,weekday,0.85,32.23
+47,Nittambuwa,7.1497,80.18,2,Pettah,6.9354,79.8517,52.92,68.15,midday,weekday,1.2,87.5
+39,Seeduwa,7.1175,79.8928,82,Pasyala,7.0911,80.1394,32.96,46.19,midday,weekday,1.2,55.98
+36,Ragama,7.0261,79.9181,40,Katunayake,7.1697,79.8847,22.96,25.23,morning_peak,weekend,1.17,32.65
+76,Welisara,7.0097,79.8939,68,Sri Jayawardenepura,6.8886,79.9203,19.86,25.59,evening_peak,weekday,2,51.85
+14,Dematagoda,6.9261,79.88,69,Pelawatte,6.8908,79.9311,8.68,11.51,midday,weekend,1.02,12.13
+17,Maharagama,6.8467,79.9283,30,Mulleriyawa,6.9317,79.9514,14.8,23.66,evening_peak,weekday,2,45.68
+79,Weboda,7.0364,79.9869,32,Biyagama,6.9753,80.0008,12.94,18.38,midday,weekend,1.02,18.66
+35,Wattala,6.9939,79.8781,86,Pittugala,6.9133,79.9694,26.09,28.37,evening_peak,weekday,2,60.24
+85,Hendala,6.9894,79.9019,49,Kirindiwela,6.9928,80.0944,31.54,47.68,evening_peak,weekday,2,85.16
+96,Aluthgama,6.4333,79.9992,62,Ingiriya,6.7344,80.1058,56.65,54.32,morning_peak,weekday,1.8,107.89
+32,Biyagama,6.9753,80.0008,27,Battaramulla,6.8994,79.9164,16.31,22.21,evening_peak,weekday,2,49.38
+82,Pasyala,7.0911,80.1394,44,Minuwangoda,7.1667,79.9506,27.09,41.54,midday,weekend,1.02,44.4
+36,Ragama,7.0261,79.9181,18,Piliyandala,6.8017,79.9247,40.06,38.85,morning_peak,weekday,1.8,71.63
+73,Modara,6.9714,79.8681,72,Mutwal,6.9617,79.8522,3.43,7.89,night,weekend,0.807,5.89
+92,Ekala,7.0761,79.9283,30,Mulleriyawa,6.9317,79.9514,25.38,37.18,night,weekend,0.807,29.51
+76,Welisara,7.0097,79.8939,66,Pannipitiya,6.8308,79.9661,35.98,34.67,evening_peak,weekday,2,64.63
+20,Moratuwa,6.7731,79.8817,38,Ja-Ela,7.0733,79.8917,41.99,47.73,morning_peak,weekend,1.17,49.8
+7,Bambalapitiya,6.8867,79.8567,57,Hanwella,6.9042,80.0842,32.42,40.37,morning_peak,weekend,1.17,50.23
+42,Gampaha,7.0878,79.9992,12,Grandpass,6.9425,79.8706,26.62,34.68,midday,weekend,1.02,35.61
+17,Maharagama,6.8467,79.9283,68,Sri Jayawardenepura,6.8886,79.9203,7.99,11.72,midday,weekday,1.2,15.54
+34,Peliyagoda,6.9711,79.8906,70,Koswatta,6.9194,79.9211,11.02,19.29,midday,weekend,1.02,18.37
+34,Peliyagoda,6.9711,79.8906,44,Minuwangoda,7.1667,79.9506,30.72,37.04,evening_peak,weekend,1.4,50.57
+32,Biyagama,6.9753,80.0008,67,Kahathuduwa,6.7981,80.0133,27.94,30.88,night,weekday,0.85,23.25
+76,Welisara,7.0097,79.8939,93,Gonawala,7.1539,79.9819,24.12,35.65,midday,weekday,1.2,43.35
+4,Borella,6.9113,79.8778,10,Mount Lavinia,6.8311,79.865,11.63,16.98,midday,weekday,1.2,18.62
+69,Pelawatte,6.8908,79.9311,96,Aluthgama,6.4333,79.9992,69.26,61.97,evening_peak,weekday,2,118.98
+24,Hokandara,6.8494,79.9575,4,Borella,6.9113,79.8778,14.19,21.21,night,weekday,0.85,17.73
+40,Katunayake,7.1697,79.8847,48,Dompe,7.065,80.0969,34.27,46.39,midday,weekday,1.2,55.77
+40,Katunayake,7.1697,79.8847,77,Kerawalapitiya,6.9883,79.8658,29.81,27.17,night,weekend,0.807,21.02
+17,Maharagama,6.8467,79.9283,36,Ragama,7.0261,79.9181,32.82,33.6,midday,weekday,1.2,42.76
+77,Kerawalapitiya,6.9883,79.8658,52,Kiribathgoda,6.9822,79.9486,12.43,18.54,morning_peak,weekday,1.8,37.04
+22,Kottawa,6.8244,79.9628,55,Homagama,6.8444,80.0044,7.39,10.29,night,weekend,0.807,9.52
+69,Pelawatte,6.8908,79.9311,84,Yakkala,7.1019,80.0767,39.55,45.58,night,weekday,0.85,34.15
+12,Grandpass,6.9425,79.8706,13,Mattakkuliya,6.9703,79.8778,3.73,7.35,night,weekday,0.85,6.72
+80,Udugampola,7.0717,80.0239,45,Divulapitiya,7.2278,80.06,22.59,31.17,morning_peak,weekday,1.8,56.41
+71,Colombo Port,6.95,79.8378,56,Padukka,6.8361,80.0872,36.16,54.66,evening_peak,weekend,1.4,75.25
+31,Thalawathugoda,6.8869,79.9331,75,Baseline Road,6.9067,79.8869,6.73,9.92,midday,weekday,1.2,13.44
+63,Kirulapone,6.8742,79.8825,32,Biyagama,6.9753,80.0008,22.98,31.64,evening_peak,weekday,2,62.26
+12,Grandpass,6.9425,79.8706,71,Colombo Port,6.95,79.8378,6.14,14.63,midday,weekday,1.2,15.78
+23,Athurugiriya,6.8783,79.9917,91,Pannala,7.2956,80.0394,58.19,73.24,evening_peak,weekday,2,164.05
+84,Yakkala,7.1019,80.0767,89,Havelock Town,6.8856,79.8642,38.48,50.25,midday,weekday,1.2,60.29
+49,Kirindiwela,6.9928,80.0944,52,Kiribathgoda,6.9822,79.9486,23.16,38.9,morning_peak,weekend,1.17,42.12
+18,Piliyandala,6.8017,79.9247,38,Ja-Ela,7.0733,79.8917,38.72,43.23,morning_peak,weekend,1.17,50.57
+64,Gangodawila,6.8567,79.8994,10,Mount Lavinia,6.8311,79.865,6.95,11.56,morning_peak,weekday,1.8,23.92
+87,Gothatuwa,6.9217,79.9856,97,Maththegoda,6.8103,80.0478,22.51,30.39,morning_peak,weekday,1.8,54.51
+2,Pettah,6.9354,79.8517,94,Welisara North,7.02,79.89,14.73,17.65,evening_peak,weekday,2,39.65
+92,Ekala,7.0761,79.9283,53,Mahara,7.0547,80.0153,13.31,23.05,morning_peak,weekend,1.17,28.13
+94,Welisara North,7.02,79.89,58,Avissawella,6.9472,80.2108,52.21,57.97,evening_peak,weekday,2,114.02
+47,Nittambuwa,7.1497,80.18,53,Mahara,7.0547,80.0153,29.72,40.38,morning_peak,weekday,1.8,79.69
+53,Mahara,7.0547,80.0153,15,Narahenpita,6.8981,79.8742,27.44,35.47,midday,weekday,1.2,43.49
+64,Gangodawila,6.8567,79.8994,93,Gonawala,7.1539,79.9819,45.87,57,night,weekday,0.85,47.53
+3,Maradana,6.92,79.8617,64,Gangodawila,6.8567,79.8994,11.17,16.49,evening_peak,weekday,2,37.91
+75,Baseline Road,6.9067,79.8869,27,Battaramulla,6.8994,79.9164,4.75,6.42,morning_peak,weekday,1.8,11.03
+66,Pannipitiya,6.8308,79.9661,91,Pannala,7.2956,80.0394,64.68,79.46,morning_peak,weekday,1.8,159.3
+63,Kirulapone,6.8742,79.8825,99,Bulathsinhala,6.665,80.1825,52.84,64.77,evening_peak,weekday,2,139.95
+43,Veyangoda,7.1522,80.1128,84,Yakkala,7.1019,80.0767,9.61,13.07,morning_peak,weekday,1.8,25.83
+64,Gangodawila,6.8567,79.8994,74,Orugodawatta,6.9486,79.8886,13.73,22.78,morning_peak,weekday,1.8,40.62
+61,Panadura South,6.695,79.905,31,Thalawathugoda,6.8869,79.9331,39.56,44.27,evening_peak,weekday,2,89.21
+49,Kirindiwela,6.9928,80.0944,70,Koswatta,6.9194,79.9211,26.67,44.62,night,weekend,0.807,37.78
+90,Bloemendhal,6.96,79.8647,61,Panadura South,6.695,79.905,33.21,46.82,evening_peak,weekday,2,88.22
+26,Rajagiriya,6.9111,79.8989,72,Mutwal,6.9617,79.8522,10.02,15.9,midday,weekday,1.2,16.8
+16,Nugegoda,6.8689,79.8889,37,Kandana,7.0508,79.9058,23.1,31.47,morning_peak,weekend,1.17,42.04
+80,Udugampola,7.0717,80.0239,55,Homagama,6.8444,80.0044,33.52,33.34,midday,weekend,1.02,36.42
+90,Bloemendhal,6.96,79.8647,58,Avissawella,6.9472,80.2108,48.37,61.03,evening_peak,weekday,2,138.09
+72,Mutwal,6.9617,79.8522,8,Wellawatte,6.875,79.8617,11.84,18.5,midday,weekday,1.2,21.09
+72,Mutwal,6.9617,79.8522,63,Kirulapone,6.8742,79.8825,12.18,18.86,morning_peak,weekend,1.17,22.16
+46,Mirigama,7.2453,80.1217,31,Thalawathugoda,6.8869,79.9331,58.63,67.44,evening_peak,weekday,2,138.22
+94,Welisara North,7.02,79.89,26,Rajagiriya,6.9111,79.8989,18.2,21.95,evening_peak,weekend,1.4,34.14
+37,Kandana,7.0508,79.9058,86,Pittugala,6.9133,79.9694,23.74,30.5,night,weekday,0.85,23.01
+28,Malabe,6.9061,79.9519,48,Dompe,7.065,80.0969,30.62,41.22,evening_peak,weekend,1.4,54.71
+73,Modara,6.9714,79.8681,91,Pannala,7.2956,80.0394,53.74,72.15,morning_peak,weekday,1.8,139.03
+43,Veyangoda,7.1522,80.1128,92,Ekala,7.0761,79.9283,27.66,39.2,evening_peak,weekend,1.4,57.77
+7,Bambalapitiya,6.8867,79.8567,42,Gampaha,7.0878,79.9992,33.62,44.2,midday,weekday,1.2,47.15
+25,Boralesgamuwa,6.8372,79.9111,73,Modara,6.9714,79.8681,18.69,28.36,night,weekend,0.807,23.78
+52,Kiribathgoda,6.9822,79.9486,25,Boralesgamuwa,6.8372,79.9111,28.39,36.03,morning_peak,weekend,1.17,43.15
+70,Koswatta,6.9194,79.9211,53,Mahara,7.0547,80.0153,25.57,31.92,evening_peak,weekday,2,70.25
+76,Welisara,7.0097,79.8939,22,Kottawa,6.8244,79.9628,37,35.81,evening_peak,weekend,1.4,46.92
+65,Pepiliyana,6.8528,79.9183,81,Heiyanthuduwa,6.9444,80.0431,28.42,37.5,midday,weekday,1.2,51.13
+3,Maradana,6.92,79.8617,46,Mirigama,7.2453,80.1217,53.89,64.68,evening_peak,weekday,2,134.06
+45,Divulapitiya,7.2278,80.06,26,Rajagiriya,6.9111,79.8989,50.13,64.38,midday,weekday,1.2,87.02
+24,Hokandara,6.8494,79.9575,28,Malabe,6.9061,79.9519,8.08,14,morning_peak,weekday,1.8,27.12
+54,Liyanagemulla,7.1378,79.8853,79,Weboda,7.0364,79.9869,35.33,34.85,morning_peak,weekday,1.8,64.49
+79,Weboda,7.0364,79.9869,90,Bloemendhal,6.96,79.8647,18.8,24.56,midday,weekday,1.2,28.64
+10,Mount Lavinia,6.8311,79.865,75,Baseline Road,6.9067,79.8869,12.28,17.08,midday,weekday,1.2,19.6
+87,Gothatuwa,6.9217,79.9856,71,Colombo Port,6.95,79.8378,21.33,34.24,morning_peak,weekend,1.17,37.24
+26,Rajagiriya,6.9111,79.8989,33,Kelaniya,7.0017,79.9219,15.48,22.5,morning_peak,weekday,1.8,45.44
+71,Colombo Port,6.95,79.8378,32,Biyagama,6.9753,80.0008,24.57,38.2,night,weekday,0.85,36.81
+28,Malabe,6.9061,79.9519,77,Kerawalapitiya,6.9883,79.8658,19.1,26.44,midday,weekday,1.2,29.86
+54,Liyanagemulla,7.1378,79.8853,36,Ragama,7.0261,79.9181,17.4,23.55,morning_peak,weekday,1.8,41.41
+65,Pepiliyana,6.8528,79.9183,69,Pelawatte,6.8908,79.9311,7.87,11.98,morning_peak,weekday,1.8,22.49
+53,Mahara,7.0547,80.0153,100,Colombo 02,6.9178,79.8464,28.48,36.61,morning_peak,weekend,1.17,46.96
+50,Ganemulla,7.0922,80.0225,80,Udugampola,7.0717,80.0239,5.2,6.84,evening_peak,weekday,2,14.41
+44,Minuwangoda,7.1667,79.9506,47,Nittambuwa,7.1497,80.18,32,50.6,morning_peak,weekday,1.8,89.87
+80,Udugampola,7.0717,80.0239,60,Bandaragama,6.7167,79.9833,46.4,46.09,evening_peak,weekend,1.4,74.04
+2,Pettah,6.9354,79.8517,48,Dompe,7.065,80.0969,37.44,45.92,evening_peak,weekend,1.4,73.65
+58,Avissawella,6.9472,80.2108,51,Kadawatha,7.0072,79.9508,43.61,52.69,evening_peak,weekday,2,114.25
+82,Pasyala,7.0911,80.1394,16,Nugegoda,6.8689,79.8889,48.62,61.59,midday,weekday,1.2,67.65
+12,Grandpass,6.9425,79.8706,99,Bulathsinhala,6.665,80.1825,65.55,74.73,evening_peak,weekday,2,147.19
+43,Veyangoda,7.1522,80.1128,81,Heiyanthuduwa,6.9444,80.0431,34.4,45.35,night,weekday,0.85,39.98
+100,Colombo 02,6.9178,79.8464,18,Piliyandala,6.8017,79.9247,18.2,23.69,morning_peak,weekend,1.17,28.82
+78,Kadawatha Junction,7.0028,79.9556,25,Boralesgamuwa,6.8372,79.9111,30.66,32.05,morning_peak,weekend,1.17,32.19
+93,Gonawala,7.1539,79.9819,4,Borella,6.9113,79.8778,37.64,44.62,evening_peak,weekday,2,97.89
+80,Udugampola,7.0717,80.0239,75,Baseline Road,6.9067,79.8869,28.58,35.32,evening_peak,weekday,2,72.68
+64,Gangodawila,6.8567,79.8994,45,Divulapitiya,7.2278,80.06,57.99,71.77,evening_peak,weekend,1.4,90.75
+89,Havelock Town,6.8856,79.8642,57,Hanwella,6.9042,80.0842,31.85,39.64,morning_peak,weekday,1.8,74.84
+92,Ekala,7.0761,79.9283,52,Kiribathgoda,6.9822,79.9486,16.79,30.59,night,weekday,0.85,28.3
+69,Pelawatte,6.8908,79.9311,31,Thalawathugoda,6.8869,79.9331,1.09,2.59,midday,weekday,1.2,3.33
+67,Kahathuduwa,6.7981,80.0133,30,Mulleriyawa,6.9317,79.9514,26.41,29.79,morning_peak,weekend,1.17,31.76
+30,Mulleriyawa,6.9317,79.9514,9,Dehiwala,6.8517,79.865,19.55,28.48,midday,weekend,1.02,30.18
+25,Boralesgamuwa,6.8372,79.9111,51,Kadawatha,7.0072,79.9508,30.6,32.51,morning_peak,weekend,1.17,41.7
+9,Dehiwala,6.8517,79.865,2,Pettah,6.9354,79.8517,10.77,14.25,morning_peak,weekday,1.8,22.73
+47,Nittambuwa,7.1497,80.18,2,Pettah,6.9354,79.8517,52.92,68.15,morning_peak,weekday,1.8,122.05
+44,Minuwangoda,7.1667,79.9506,74,Orugodawatta,6.9486,79.8886,32.92,39.02,evening_peak,weekday,2,74.79
+30,Mulleriyawa,6.9317,79.9514,71,Colombo Port,6.95,79.8378,15.82,27.93,morning_peak,weekday,1.8,47.26
+3,Maradana,6.92,79.8617,26,Rajagiriya,6.9111,79.8989,5.31,8.12,evening_peak,weekend,1.4,10.84
+60,Bandaragama,6.7167,79.9833,58,Avissawella,6.9472,80.2108,61.83,67.33,night,weekend,0.807,57.88
+11,Kotahena,6.9531,79.8597,98,Kosgama,6.8856,80.1681,43.88,58.4,midday,weekday,1.2,61.53
+46,Mirigama,7.2453,80.1217,44,Minuwangoda,7.1667,79.9506,23.12,36.01,night,weekday,0.85,27.96
+30,Mulleriyawa,6.9317,79.9514,8,Wellawatte,6.875,79.8617,16.84,24.61,night,weekend,0.807,18.04
+25,Boralesgamuwa,6.8372,79.9111,19,Panadura,6.7136,79.9042,17.22,28.35,midday,weekend,1.02,25.83
+87,Gothatuwa,6.9217,79.9856,27,Battaramulla,6.8994,79.9164,10.36,15.39,morning_peak,weekday,1.8,27.33
+50,Ganemulla,7.0922,80.0225,42,Gampaha,7.0878,79.9992,3.41,5.52,evening_peak,weekend,1.4,6.91
+83,Attanagalla,7.175,80.0706,97,Maththegoda,6.8103,80.0478,55.9,66.99,morning_peak,weekend,1.17,80.46
+12,Grandpass,6.9425,79.8706,72,Mutwal,6.9617,79.8522,4.24,8.58,morning_peak,weekday,1.8,16.97
+26,Rajagiriya,6.9111,79.8989,5,Cinnamon Gardens,6.9011,79.8601,5.61,8.15,morning_peak,weekend,1.17,10.02
+23,Athurugiriya,6.8783,79.9917,97,Maththegoda,6.8103,80.0478,12.26,22.38,midday,weekday,1.2,27.88
+16,Nugegoda,6.8689,79.8889,77,Kerawalapitiya,6.9883,79.8658,15.75,23.12,night,weekday,0.85,19.57
+38,Ja-Ela,7.0733,79.8917,2,Pettah,6.9354,79.8517,22.76,22.05,night,weekend,0.807,17.54
+88,Thimbirigasyaya,6.8839,79.8778,18,Piliyandala,6.8017,79.9247,12.14,17.3,evening_peak,weekday,2,31.41
+62,Ingiriya,6.7344,80.1058,29,Kaduwela,6.9358,79.9778,37.46,37.61,morning_peak,weekend,1.17,43.52
+26,Rajagiriya,6.9111,79.8989,39,Seeduwa,7.1175,79.8928,30.05,32.88,night,weekday,0.85,31.29
+48,Dompe,7.065,80.0969,71,Colombo Port,6.95,79.8378,40.35,54.46,morning_peak,weekend,1.17,62.93
+10,Mount Lavinia,6.8311,79.865,55,Homagama,6.8444,80.0044,17.75,26.07,morning_peak,weekday,1.8,45.61
+13,Mattakkuliya,6.9703,79.8778,98,Kosgama,6.8856,80.1681,44.19,58.84,evening_peak,weekday,2,118.29
+59,Kalutara,6.5854,79.9608,70,Koswatta,6.9194,79.9211,47,50.42,midday,weekday,1.2,64.4
+82,Pasyala,7.0911,80.1394,73,Modara,6.9714,79.8681,41.56,52.08,morning_peak,weekday,1.8,86.59
+94,Welisara North,7.02,79.89,68,Sri Jayawardenepura,6.8886,79.9203,23.52,27.58,evening_peak,weekday,2,57.05
+82,Pasyala,7.0911,80.1394,12,Grandpass,6.9425,79.8706,40.26,50.99,morning_peak,weekday,1.8,84.85
+48,Dompe,7.065,80.0969,24,Hokandara,6.8494,79.9575,42.56,49.2,midday,weekend,1.02,52.97
+46,Mirigama,7.2453,80.1217,29,Kaduwela,6.9358,79.9778,45.66,52.95,morning_peak,weekday,1.8,92.77
+42,Gampaha,7.0878,79.9992,43,Veyangoda,7.1522,80.1128,17.69,21.63,midday,weekday,1.2,27.53
+2,Pettah,6.9354,79.8517,24,Hokandara,6.8494,79.9575,18.68,27.3,morning_peak,weekday,1.8,53.94
+26,Rajagiriya,6.9111,79.8989,29,Kaduwela,6.9358,79.9778,12.26,17.9,morning_peak,weekend,1.17,21.67
+65,Pepiliyana,6.8528,79.9183,53,Mahara,7.0547,80.0153,36.91,39.1,evening_peak,weekday,2,75.12
+87,Gothatuwa,6.9217,79.9856,21,Ratmalana,6.82,79.8817,21.98,32.51,evening_peak,weekday,2,73.74
+70,Koswatta,6.9194,79.9211,44,Minuwangoda,7.1667,79.9506,41.46,50.24,midday,weekend,1.02,57.51
+40,Katunayake,7.1697,79.8847,3,Maradana,6.92,79.8617,32.19,28.76,night,weekend,0.807,21.14
+86,Pittugala,6.9133,79.9694,87,Gothatuwa,6.9217,79.9856,2.97,5.74,night,weekday,0.85,5.54
+99,Bulathsinhala,6.665,80.1825,91,Pannala,7.2956,80.0394,102.84,122.34,morning_peak,weekday,1.8,225.22
+94,Welisara North,7.02,79.89,46,Mirigama,7.2453,80.1217,47.81,53.07,morning_peak,weekend,1.17,53.61
+87,Gothatuwa,6.9217,79.9856,2,Pettah,6.9354,79.8517,18.02,24.76,evening_peak,weekday,2,42.83
+21,Ratmalana,6.82,79.8817,58,Avissawella,6.9472,80.2108,50.3,69.84,morning_peak,weekday,1.8,124.19
+61,Panadura South,6.695,79.905,38,Ja-Ela,7.0733,79.8917,67,61.71,evening_peak,weekday,2,133.25
+26,Rajagiriya,6.9111,79.8989,70,Koswatta,6.9194,79.9211,3.91,7.91,midday,weekend,1.02,8.16
+5,Cinnamon Gardens,6.9011,79.8601,13,Mattakkuliya,6.9703,79.8778,9.75,15.33,morning_peak,weekday,1.8,24.15
+35,Wattala,6.9939,79.8781,76,Welisara,7.0097,79.8939,4.05,7.04,evening_peak,weekday,2,13.09
+57,Hanwella,6.9042,80.0842,47,Nittambuwa,7.1497,80.18,36.69,57.51,morning_peak,weekday,1.8,117.01
+69,Pelawatte,6.8908,79.9311,88,Thimbirigasyaya,6.8839,79.8778,10.16,13.41,evening_peak,weekend,1.4,18.89
+84,Yakkala,7.1019,80.0767,16,Nugegoda,6.8689,79.8889,40.29,52.43,morning_peak,weekday,1.8,104.38
+39,Seeduwa,7.1175,79.8928,89,Havelock Town,6.8856,79.8642,31.44,34.86,morning_peak,weekday,1.8,58.28
+47,Nittambuwa,7.1497,80.18,44,Minuwangoda,7.1667,79.9506,32.85,50.66,morning_peak,weekend,1.17,52.18
+77,Kerawalapitiya,6.9883,79.8658,60,Bandaragama,6.7167,79.9833,49.77,48.15,midday,weekend,1.02,45.19
+63,Kirulapone,6.8742,79.8825,69,Pelawatte,6.8908,79.9311,9.47,14.53,morning_peak,weekend,1.17,18.91
+49,Kirindiwela,6.9928,80.0944,18,Piliyandala,6.8017,79.9247,41.72,54.07,night,weekday,0.85,40.82
+16,Nugegoda,6.8689,79.8889,99,Bulathsinhala,6.665,80.1825,52.09,63.48,morning_peak,weekday,1.8,123.14
+14,Dematagoda,6.9261,79.88,79,Weboda,7.0364,79.9869,20.03,25.7,midday,weekend,1.02,29.64
+57,Hanwella,6.9042,80.0842,81,Heiyanthuduwa,6.9444,80.0431,10.93,19.16,midday,weekday,1.2,23.57
+53,Mahara,7.0547,80.0153,56,Padukka,6.8361,80.0872,38.24,44.93,midday,weekday,1.2,59.53
+18,Piliyandala,6.8017,79.9247,73,Modara,6.9714,79.8681,22.69,32.23,midday,weekday,1.2,39.52
+91,Pannala,7.2956,80.0394,70,Koswatta,6.9194,79.9211,57.28,77.27,evening_peak,weekday,2,146.85
+68,Sri Jayawardenepura,6.8886,79.9203,74,Orugodawatta,6.9486,79.8886,11.82,17.72,morning_peak,weekend,1.17,19.52
+90,Bloemendhal,6.96,79.8647,61,Panadura South,6.695,79.905,33.21,46.82,midday,weekday,1.2,48.35
+16,Nugegoda,6.8689,79.8889,99,Bulathsinhala,6.665,80.1825,52.09,63.48,evening_peak,weekday,2,121.5
+21,Ratmalana,6.82,79.8817,50,Ganemulla,7.0922,80.0225,47.03,54.07,midday,weekday,1.2,58.74
+6,Kollupitiya,6.8978,79.85,88,Thimbirigasyaya,6.8839,79.8778,5.05,8.28,morning_peak,weekend,1.17,8.46
+53,Mahara,7.0547,80.0153,61,Panadura South,6.695,79.905,56.87,56.62,morning_peak,weekday,1.8,95.38
+55,Homagama,6.8444,80.0044,1,Colombo Fort,6.9344,79.8428,24.37,32.9,night,weekend,0.807,27.23
+26,Rajagiriya,6.9111,79.8989,14,Dematagoda,6.9261,79.88,4.25,6.64,evening_peak,weekday,2,14.56
+31,Thalawathugoda,6.8869,79.9331,88,Thimbirigasyaya,6.8839,79.8778,10.72,15.06,morning_peak,weekday,1.8,25.22
+14,Dematagoda,6.9261,79.88,36,Ragama,7.0261,79.9181,14.89,20.06,morning_peak,weekday,1.8,40.92
+91,Pannala,7.2956,80.0394,25,Boralesgamuwa,6.8372,79.9111,70.26,87.21,midday,weekday,1.2,92.95
+37,Kandana,7.0508,79.9058,26,Rajagiriya,6.9111,79.8989,19.94,26.96,midday,weekday,1.2,27.87
+54,Liyanagemulla,7.1378,79.8853,86,Pittugala,6.9133,79.9694,42.44,41.12,morning_peak,weekday,1.8,63
+63,Kirulapone,6.8742,79.8825,11,Kotahena,6.9531,79.8597,11.06,16.45,evening_peak,weekend,1.4,23.1
+87,Gothatuwa,6.9217,79.9856,19,Panadura,6.7136,79.9042,38.11,37.77,morning_peak,weekday,1.8,65.46
+79,Weboda,7.0364,79.9869,29,Kaduwela,6.9358,79.9778,13.8,15.79,evening_peak,weekday,2,27.01
+15,Narahenpita,6.8981,79.8742,4,Borella,6.9113,79.8778,2.02,3.35,evening_peak,weekday,2,7.4
+75,Baseline Road,6.9067,79.8869,28,Malabe,6.9061,79.9519,9,11.94,midday,weekday,1.2,15.94
+18,Piliyandala,6.8017,79.9247,55,Homagama,6.8444,80.0044,13.14,16.76,morning_peak,weekday,1.8,29.3
+9,Dehiwala,6.8517,79.865,99,Bulathsinhala,6.665,80.1825,52.32,64.11,morning_peak,weekday,1.8,104.09
+39,Seeduwa,7.1175,79.8928,78,Kadawatha Junction,7.0028,79.9556,21.16,26.97,midday,weekday,1.2,29.48
+10,Mount Lavinia,6.8311,79.865,43,Veyangoda,7.1522,80.1128,52.45,63.63,night,weekday,0.85,53.98
+96,Aluthgama,6.4333,79.9992,50,Ganemulla,7.0922,80.0225,89.8,79.69,evening_peak,weekend,1.4,96.9
+72,Mutwal,6.9617,79.8522,9,Dehiwala,6.8517,79.865,14.55,22.37,morning_peak,weekday,1.8,42.07
+18,Piliyandala,6.8017,79.9247,97,Maththegoda,6.8103,80.0478,18,28.56,midday,weekday,1.2,32.93
+95,Beruwala,6.4781,79.9833,98,Kosgama,6.8856,80.1681,69.44,89.19,night,weekday,0.85,84.51
+12,Grandpass,6.9425,79.8706,66,Pannipitiya,6.8308,79.9661,20.46,28.81,midday,weekday,1.2,31.57
+7,Bambalapitiya,6.8867,79.8567,94,Welisara North,7.02,79.89,19.68,24.13,night,weekday,0.85,22.37
+70,Koswatta,6.9194,79.9211,88,Thimbirigasyaya,6.8839,79.8778,9.03,14.37,morning_peak,weekday,1.8,27.4
+24,Hokandara,6.8494,79.9575,34,Peliyagoda,6.9711,79.8906,21.42,31.38,night,weekday,0.85,27.78
+24,Hokandara,6.8494,79.9575,65,Pepiliyana,6.8528,79.9183,5,8.95,night,weekday,0.85,8.65
+71,Colombo Port,6.95,79.8378,23,Athurugiriya,6.8783,79.9917,23.57,36.69,night,weekday,0.85,28.97
+93,Gonawala,7.1539,79.9819,42,Gampaha,7.0878,79.9992,9.2,14.43,morning_peak,weekday,1.8,25.21
+24,Hokandara,6.8494,79.9575,8,Wellawatte,6.875,79.8617,12.69,20.34,midday,weekday,1.2,23.68
+91,Pannala,7.2956,80.0394,100,Colombo 02,6.9178,79.8464,58.45,76.52,evening_peak,weekend,1.4,95.99
+63,Kirulapone,6.8742,79.8825,47,Nittambuwa,7.1497,80.18,58.53,74.95,morning_peak,weekend,1.17,84.05
+40,Katunayake,7.1697,79.8847,92,Ekala,7.0761,79.9283,18.01,22.63,evening_peak,weekday,2,39.11
+53,Mahara,7.0547,80.0153,4,Borella,6.9113,79.8778,25.32,32.35,morning_peak,weekday,1.8,58.29
+28,Malabe,6.9061,79.9519,69,Pelawatte,6.8908,79.9311,5.22,7.57,evening_peak,weekday,2,14.59
+20,Moratuwa,6.7731,79.8817,83,Attanagalla,7.175,80.0706,64.78,71.21,evening_peak,weekday,2,158.09
+7,Bambalapitiya,6.8867,79.8567,23,Athurugiriya,6.8783,79.9917,19.32,25.91,night,weekday,0.85,22.32
+58,Avissawella,6.9472,80.2108,9,Dehiwala,6.8517,79.865,50.46,68.55,evening_peak,weekday,2,123.39
+25,Boralesgamuwa,6.8372,79.9111,78,Kadawatha Junction,7.0028,79.9556,29.32,30.03,morning_peak,weekday,1.8,48.77
+80,Udugampola,7.0717,80.0239,27,Battaramulla,6.8994,79.9164,29.89,36.7,morning_peak,weekday,1.8,67.05
+28,Malabe,6.9061,79.9519,85,Hendala,6.9894,79.9019,15.41,25.4,evening_peak,weekend,1.4,39.64
+83,Attanagalla,7.175,80.0706,30,Mulleriyawa,6.9317,79.9514,36.92,46.42,midday,weekday,1.2,55.07
+48,Dompe,7.065,80.0969,2,Pettah,6.9354,79.8517,37.04,44.98,morning_peak,weekend,1.17,50.12
+93,Gonawala,7.1539,79.9819,94,Welisara North,7.02,79.89,24.15,35.88,evening_peak,weekday,2,70.74
+74,Orugodawatta,6.9486,79.8886,98,Kosgama,6.8856,80.1681,41.17,56.42,night,weekend,0.807,47.23
+97,Maththegoda,6.8103,80.0478,6,Kollupitiya,6.8978,79.85,28.79,43.66,morning_peak,weekend,1.17,52.04
+27,Battaramulla,6.8994,79.9164,1,Colombo Fort,6.9344,79.8428,10,12.96,evening_peak,weekday,2,26.46
+69,Pelawatte,6.8908,79.9311,17,Maharagama,6.8467,79.9283,7.37,13.52,midday,weekend,1.02,13.59
+87,Gothatuwa,6.9217,79.9856,35,Wattala,6.9939,79.8781,25.07,27.55,night,weekend,0.807,25.53
+25,Boralesgamuwa,6.8372,79.9111,67,Kahathuduwa,6.7981,80.0133,16.65,22.7,midday,weekday,1.2,29.08
+46,Mirigama,7.2453,80.1217,22,Kottawa,6.8244,79.9628,61.21,66.46,evening_peak,weekday,2,132.33
+49,Kirindiwela,6.9928,80.0944,46,Mirigama,7.2453,80.1217,35.77,50.02,midday,weekday,1.2,57.79
+40,Katunayake,7.1697,79.8847,34,Peliyagoda,6.9711,79.8906,25.99,22.39,evening_peak,weekend,1.4,30.05
+47,Nittambuwa,7.1497,80.18,52,Kiribathgoda,6.9822,79.9486,43.52,59.88,evening_peak,weekday,2,114.09
+93,Gonawala,7.1539,79.9819,77,Kerawalapitiya,6.9883,79.8658,30.04,43.24,evening_peak,weekday,2,74.27
+13,Mattakkuliya,6.9703,79.8778,65,Pepiliyana,6.8528,79.9183,17.38,25,morning_peak,weekday,1.8,44.22
+73,Modara,6.9714,79.8681,67,Kahathuduwa,6.7981,80.0133,37.44,43.84,evening_peak,weekend,1.4,56.54
+89,Havelock Town,6.8856,79.8642,11,Kotahena,6.9531,79.8597,9.95,14.15,midday,weekday,1.2,16.58
+78,Kadawatha Junction,7.0028,79.9556,56,Padukka,6.8361,80.0872,30.49,35.09,morning_peak,weekday,1.8,62.42
+30,Mulleriyawa,6.9317,79.9514,12,Grandpass,6.9425,79.8706,10.2,15.73,morning_peak,weekday,1.8,29.6
+87,Gothatuwa,6.9217,79.9856,68,Sri Jayawardenepura,6.8886,79.9203,12.06,16.48,night,weekend,0.807,12.96
+56,Padukka,6.8361,80.0872,97,Maththegoda,6.8103,80.0478,9.56,20.36,morning_peak,weekend,1.17,21.5
+7,Bambalapitiya,6.8867,79.8567,55,Homagama,6.8444,80.0044,19.32,28.4,evening_peak,weekday,2,55.91
+73,Modara,6.9714,79.8681,98,Kosgama,6.8856,80.1681,44.91,60.32,night,weekday,0.85,44.58
+24,Hokandara,6.8494,79.9575,44,Minuwangoda,7.1667,79.9506,45.27,56.1,morning_peak,weekday,1.8,99.63
+28,Malabe,6.9061,79.9519,60,Bandaragama,6.7167,79.9833,25.88,29.56,midday,weekday,1.2,35.51
+20,Moratuwa,6.7731,79.8817,42,Gampaha,7.0878,79.9992,52.61,56.34,evening_peak,weekday,2,127.4
+14,Dematagoda,6.9261,79.88,91,Pannala,7.2956,80.0394,54.13,71.12,evening_peak,weekend,1.4,102
+54,Liyanagemulla,7.1378,79.8853,5,Cinnamon Gardens,6.9011,79.8601,36.05,35.36,morning_peak,weekday,1.8,66.43
+47,Nittambuwa,7.1497,80.18,71,Colombo Port,6.95,79.8378,56.23,77.63,evening_peak,weekday,2,166.56
+37,Kandana,7.0508,79.9058,86,Pittugala,6.9133,79.9694,23.74,30.5,morning_peak,weekday,1.8,59.02
+81,Heiyanthuduwa,6.9444,80.0431,42,Gampaha,7.0878,79.9992,22.3,33.24,midday,weekday,1.2,44.06
+8,Wellawatte,6.875,79.8617,23,Athurugiriya,6.8783,79.9917,17.04,26.6,night,weekday,0.85,22.94
+93,Gonawala,7.1539,79.9819,20,Moratuwa,6.7731,79.8817,61.48,68.14,night,weekday,0.85,58.31
+8,Wellawatte,6.875,79.8617,38,Ja-Ela,7.0733,79.8917,29.94,31.57,midday,weekday,1.2,40.7
+31,Thalawathugoda,6.8869,79.9331,44,Minuwangoda,7.1667,79.9506,43.97,52.63,morning_peak,weekday,1.8,84.09
+39,Seeduwa,7.1175,79.8928,42,Gampaha,7.0878,79.9992,14.8,22.58,night,weekend,0.807,19.52
+79,Weboda,7.0364,79.9869,96,Aluthgama,6.4333,79.9992,81.71,69.53,morning_peak,weekend,1.17,72.5
+98,Kosgama,6.8856,80.1681,54,Liyanagemulla,7.1378,79.8853,63.64,72.58,morning_peak,weekend,1.17,82.05
+89,Havelock Town,6.8856,79.8642,96,Aluthgama,6.4333,79.9992,70.2,66.59,midday,weekday,1.2,85.54
+10,Mount Lavinia,6.8311,79.865,56,Padukka,6.8361,80.0872,28.16,41.08,midday,weekday,1.2,51.04
+20,Moratuwa,6.7731,79.8817,5,Cinnamon Gardens,6.9011,79.8601,15.86,21.38,midday,weekend,1.02,24.26
+54,Liyanagemulla,7.1378,79.8853,46,Mirigama,7.2453,80.1217,33.49,50.85,evening_peak,weekday,2,106.48
+78,Kadawatha Junction,7.0028,79.9556,39,Seeduwa,7.1175,79.8928,20.69,26.11,morning_peak,weekend,1.17,31.67
+33,Kelaniya,7.0017,79.9219,31,Thalawathugoda,6.8869,79.9331,20.82,27.68,midday,weekday,1.2,28.73
+62,Ingiriya,6.7344,80.1058,23,Athurugiriya,6.8783,79.9917,32.68,34.74,night,weekday,0.85,30.55
+3,Maradana,6.92,79.8617,38,Ja-Ela,7.0733,79.8917,24.63,24.56,evening_peak,weekend,1.4,36.36
+30,Mulleriyawa,6.9317,79.9514,17,Maharagama,6.8467,79.9283,15.45,24.63,night,weekday,0.85,22.21
+45,Divulapitiya,7.2278,80.06,91,Pannala,7.2956,80.0394,10.81,18.78,morning_peak,weekend,1.17,23.73
+87,Gothatuwa,6.9217,79.9856,32,Biyagama,6.9753,80.0008,7.72,11.4,night,weekday,0.85,11.05
+62,Ingiriya,6.7344,80.1058,47,Nittambuwa,7.1497,80.18,82.2,89.82,night,weekday,0.85,67.58
+54,Liyanagemulla,7.1378,79.8853,76,Welisara,7.0097,79.8939,16.24,22.21,morning_peak,weekday,1.8,39.77
+64,Gangodawila,6.8567,79.8994,83,Attanagalla,7.175,80.0706,51.18,62.77,night,weekday,0.85,49.65
+52,Kiribathgoda,6.9822,79.9486,48,Dompe,7.065,80.0969,27.67,36.61,night,weekday,0.85,29.04
+10,Mount Lavinia,6.8311,79.865,71,Colombo Port,6.95,79.8378,15.17,25.24,midday,weekday,1.2,34.52
+37,Kandana,7.0508,79.9058,24,Hokandara,6.8494,79.9575,31.95,39.86,midday,weekday,1.2,48.18
+93,Gonawala,7.1539,79.9819,94,Welisara North,7.02,79.89,24.15,35.88,evening_peak,weekend,1.4,55.37
+73,Modara,6.9714,79.8681,12,Grandpass,6.9425,79.8706,4.36,8.52,evening_peak,weekday,2,17.34
+13,Mattakkuliya,6.9703,79.8778,23,Athurugiriya,6.8783,79.9917,22.69,28.27,midday,weekend,1.02,26.3
+97,Maththegoda,6.8103,80.0478,12,Grandpass,6.9425,79.8706,35.61,46.55,morning_peak,weekday,1.8,92.71
+62,Ingiriya,6.7344,80.1058,13,Mattakkuliya,6.9703,79.8778,49.56,55.71,evening_peak,weekday,2,112.66
+34,Peliyagoda,6.9711,79.8906,68,Sri Jayawardenepura,6.8886,79.9203,16,20.95,morning_peak,weekend,1.17,22.21
+77,Kerawalapitiya,6.9883,79.8658,37,Kandana,7.0508,79.9058,12.03,17.58,night,weekday,0.85,16.45
+8,Wellawatte,6.875,79.8617,77,Kerawalapitiya,6.9883,79.8658,15.75,22.21,night,weekday,0.85,16.7
+70,Koswatta,6.9194,79.9211,61,Panadura South,6.695,79.905,42.17,46.82,morning_peak,weekend,1.17,60.83
+29,Kaduwela,6.9358,79.9778,66,Pannipitiya,6.8308,79.9661,16.14,17.14,evening_peak,weekday,2,37.42
+37,Kandana,7.0508,79.9058,61,Panadura South,6.695,79.905,58.54,60.32,morning_peak,weekday,1.8,95.09
+65,Pepiliyana,6.8528,79.9183,6,Kollupitiya,6.8978,79.85,10.24,15.44,morning_peak,weekday,1.8,26.41
+77,Kerawalapitiya,6.9883,79.8658,84,Yakkala,7.1019,80.0767,33.73,41.03,midday,weekday,1.2,42.23
+31,Thalawathugoda,6.8869,79.9331,91,Pannala,7.2956,80.0394,61.94,80.53,evening_peak,weekday,2,150.59
+26,Rajagiriya,6.9111,79.8989,53,Mahara,7.0547,80.0153,28.85,36.14,evening_peak,weekday,2,70.18
+86,Pittugala,6.9133,79.9694,5,Cinnamon Gardens,6.9011,79.8601,15.64,20.48,morning_peak,weekend,1.17,21.21
+89,Havelock Town,6.8856,79.8642,26,Rajagiriya,6.9111,79.8989,6.34,9.69,evening_peak,weekday,2,16.93
+100,Colombo 02,6.9178,79.8464,81,Heiyanthuduwa,6.9444,80.0431,27.88,40.47,morning_peak,weekday,1.8,82.03
+84,Yakkala,7.1019,80.0767,29,Kaduwela,6.9358,79.9778,27.34,33.49,midday,weekday,1.2,44.79
+97,Maththegoda,6.8103,80.0478,66,Pannipitiya,6.8308,79.9661,14.67,23.76,evening_peak,weekday,2,49.93
+46,Mirigama,7.2453,80.1217,91,Pannala,7.2956,80.0394,13.6,25.21,evening_peak,weekday,2,46.64
+78,Kadawatha Junction,7.0028,79.9556,24,Hokandara,6.8494,79.9575,22.53,26.32,evening_peak,weekday,2,52.37
+99,Bulathsinhala,6.665,80.1825,48,Dompe,7.065,80.0969,83.31,90.05,night,weekday,0.85,82.72
+43,Veyangoda,7.1522,80.1128,17,Maharagama,6.8467,79.9283,52.31,55.21,midday,weekday,1.2,75.09
+64,Gangodawila,6.8567,79.8994,75,Baseline Road,6.9067,79.8869,8.46,12.54,evening_peak,weekday,2,23.26
+70,Koswatta,6.9194,79.9211,100,Colombo 02,6.9178,79.8464,9.9,15.88,night,weekday,0.85,14.99
+58,Avissawella,6.9472,80.2108,37,Kandana,7.0508,79.9058,52.23,64.44,morning_peak,weekday,1.8,123.94
+88,Thimbirigasyaya,6.8839,79.8778,25,Boralesgamuwa,6.8372,79.9111,7.93,13.26,midday,weekday,1.2,16.99
+48,Dompe,7.065,80.0969,70,Koswatta,6.9194,79.9211,37.71,45,midday,weekday,1.2,59.16
+36,Ragama,7.0261,79.9181,58,Avissawella,6.9472,80.2108,49.38,59.62,evening_peak,weekday,2,121.24
+39,Seeduwa,7.1175,79.8928,71,Colombo Port,6.95,79.8378,30.3,38.05,midday,weekday,1.2,47.93
+18,Piliyandala,6.8017,79.9247,41,Negombo,7.2089,79.8353,51.95,55.89,evening_peak,weekday,2,125.42
+55,Homagama,6.8444,80.0044,10,Mount Lavinia,6.8311,79.865,17.49,25.64,midday,weekend,1.02,28.46
+31,Thalawathugoda,6.8869,79.9331,70,Koswatta,6.9194,79.9211,5.17,9.64,night,weekday,0.85,7.97
+92,Ekala,7.0761,79.9283,10,Mount Lavinia,6.8311,79.865,39.6,48.76,morning_peak,weekend,1.17,55.87
+15,Narahenpita,6.8981,79.8742,18,Piliyandala,6.8017,79.9247,13.9,19.32,midday,weekday,1.2,22.69
+84,Yakkala,7.1019,80.0767,98,Kosgama,6.8856,80.1681,40.66,55.77,evening_peak,weekday,2,97
+5,Cinnamon Gardens,6.9011,79.8601,11,Kotahena,6.9531,79.8597,7.62,11.37,evening_peak,weekday,2,24.84
+85,Hendala,6.9894,79.9019,20,Moratuwa,6.7731,79.8817,27.72,34.89,evening_peak,weekday,2,60.84
+12,Grandpass,6.9425,79.8706,22,Kottawa,6.8244,79.9628,21.48,29.95,midday,weekend,1.02,28.52
+24,Hokandara,6.8494,79.9575,14,Dematagoda,6.9261,79.88,15.51,23.01,night,weekday,0.85,21.5
+55,Homagama,6.8444,80.0044,77,Kerawalapitiya,6.9883,79.8658,37.48,36.66,evening_peak,weekday,2,81.56
+66,Pannipitiya,6.8308,79.9661,80,Udugampola,7.0717,80.0239,34.72,34.87,morning_peak,weekend,1.17,43.89
+35,Wattala,6.9939,79.8781,43,Veyangoda,7.1522,80.1128,37.66,43.14,midday,weekday,1.2,50.23
+42,Gampaha,7.0878,79.9992,28,Malabe,6.9061,79.9519,29.19,35.46,evening_peak,weekday,2,77.28
+14,Dematagoda,6.9261,79.88,76,Welisara,7.0097,79.8939,10.74,15.05,evening_peak,weekend,1.4,21.46
+32,Biyagama,6.9753,80.0008,26,Rajagiriya,6.9111,79.8989,19.12,25.3,evening_peak,weekday,2,55.29
+2,Pettah,6.9354,79.8517,81,Heiyanthuduwa,6.9444,80.0431,24.86,36.57,evening_peak,weekend,1.4,49.34
+9,Dehiwala,6.8517,79.865,22,Kottawa,6.8244,79.9628,15.22,18.75,midday,weekend,1.02,21.59
+53,Mahara,7.0547,80.0153,83,Attanagalla,7.175,80.0706,17.28,23.89,evening_peak,weekend,1.4,29.42
+22,Kottawa,6.8244,79.9628,18,Piliyandala,6.8017,79.9247,6.21,7.73,night,weekend,0.807,6.08
+83,Attanagalla,7.175,80.0706,48,Dompe,7.065,80.0969,15.95,25.25,midday,weekday,1.2,28.4
+1,Colombo Fort,6.9344,79.8428,37,Kandana,7.0508,79.9058,17.81,24.75,night,weekend,0.807,17.2
+64,Gangodawila,6.8567,79.8994,90,Bloemendhal,6.96,79.8647,15.34,22.37,evening_peak,weekday,2,45.41
+66,Pannipitiya,6.8308,79.9661,30,Mulleriyawa,6.9317,79.9514,19.3,22.59,midday,weekday,1.2,23.13
+74,Orugodawatta,6.9486,79.8886,24,Hokandara,6.8494,79.9575,19.7,29.55,morning_peak,weekday,1.8,56.52
+77,Kerawalapitiya,6.9883,79.8658,18,Piliyandala,6.8017,79.9247,25.07,35.44,night,weekday,0.85,26.9
+58,Avissawella,6.9472,80.2108,83,Attanagalla,7.175,80.0706,39.08,52.98,evening_peak,weekday,2,117.2
+10,Mount Lavinia,6.8311,79.865,65,Pepiliyana,6.8528,79.9183,9.55,15.31,night,weekday,0.85,13.98
+99,Bulathsinhala,6.665,80.1825,57,Hanwella,6.9042,80.0842,40.39,63.25,evening_peak,weekday,2,127.2
+87,Gothatuwa,6.9217,79.9856,71,Colombo Port,6.95,79.8378,21.33,34.24,morning_peak,weekend,1.17,36.16
+6,Kollupitiya,6.8978,79.85,34,Peliyagoda,6.9711,79.8906,11.74,17.54,night,weekday,0.85,13.93
+51,Kadawatha,7.0072,79.9508,60,Bandaragama,6.7167,79.9833,37.48,37.08,morning_peak,weekday,1.8,72.61
+93,Gonawala,7.1539,79.9819,58,Avissawella,6.9472,80.2108,45.13,63.83,night,weekday,0.85,60.46
+26,Rajagiriya,6.9111,79.8989,36,Ragama,7.0261,79.9181,18.61,25.12,morning_peak,weekend,1.17,30.59
+86,Pittugala,6.9133,79.9694,76,Welisara,7.0097,79.8939,25.45,27.65,midday,weekday,1.2,35.54
+29,Kaduwela,6.9358,79.9778,82,Pasyala,7.0911,80.1394,35.95,42.96,evening_peak,weekday,2,84.02
+21,Ratmalana,6.82,79.8817,65,Pepiliyana,6.8528,79.9183,8.64,14,evening_peak,weekday,2,27.16
+87,Gothatuwa,6.9217,79.9856,34,Peliyagoda,6.9711,79.8906,18.54,25.9,evening_peak,weekend,1.4,36.81
+61,Panadura South,6.695,79.905,10,Mount Lavinia,6.8311,79.865,17.53,25.82,midday,weekday,1.2,29.28
+80,Udugampola,7.0717,80.0239,15,Narahenpita,6.8981,79.8742,29.29,36.28,midday,weekend,1.02,34.93
+17,Maharagama,6.8467,79.9283,98,Kosgama,6.8856,80.1681,35.48,53.07,morning_peak,weekday,1.8,87.48
+99,Bulathsinhala,6.665,80.1825,61,Panadura South,6.695,79.905,42.92,54.24,midday,weekend,1.02,59.3
+10,Mount Lavinia,6.8311,79.865,8,Wellawatte,6.875,79.8617,5.42,7.82,midday,weekday,1.2,10.16
+30,Mulleriyawa,6.9317,79.9514,95,Beruwala,6.4781,79.9833,69.96,65.39,morning_peak,weekend,1.17,75.98
+37,Kandana,7.0508,79.9058,1,Colombo Fort,6.9344,79.8428,17.46,23.33,morning_peak,weekend,1.17,30.24
+9,Dehiwala,6.8517,79.865,86,Pittugala,6.9133,79.9694,18.46,26.93,midday,weekday,1.2,36.92
+94,Welisara North,7.02,79.89,22,Kottawa,6.8244,79.9628,34.6,31.16,morning_peak,weekend,1.17,33.15
+16,Nugegoda,6.8689,79.8889,76,Welisara,7.0097,79.8939,17.69,24.4,night,weekday,0.85,22.94
+15,Narahenpita,6.8981,79.8742,53,Mahara,7.0547,80.0153,27.43,35.41,midday,weekend,1.02,34.64
+19,Panadura,6.7136,79.9042,38,Ja-Ela,7.0733,79.8917,49.29,58.55,evening_peak,weekday,2,133.54
+21,Ratmalana,6.82,79.8817,82,Pasyala,7.0911,80.1394,60.94,70.91,morning_peak,weekday,1.8,111.76
+73,Modara,6.9714,79.8681,31,Thalawathugoda,6.8869,79.9331,15.27,22.57,midday,weekday,1.2,27.89
+78,Kadawatha Junction,7.0028,79.9556,68,Sri Jayawardenepura,6.8886,79.9203,24.03,26.62,morning_peak,weekend,1.17,34.96
+51,Kadawatha,7.0072,79.9508,70,Koswatta,6.9194,79.9211,14.2,23.19,midday,weekday,1.2,25.95
+75,Baseline Road,6.9067,79.8869,71,Colombo Port,6.95,79.8378,10.09,19.41,morning_peak,weekend,1.17,25.83
+26,Rajagiriya,6.9111,79.8989,42,Gampaha,7.0878,79.9992,32.37,41.07,evening_peak,weekday,2,79.5
+66,Pannipitiya,6.8308,79.9661,16,Nugegoda,6.8689,79.8889,10.83,15.74,morning_peak,weekday,1.8,27.72
+31,Thalawathugoda,6.8869,79.9331,85,Hendala,6.9894,79.9019,15.89,26.99,midday,weekday,1.2,30.3
+66,Pannipitiya,6.8308,79.9661,96,Aluthgama,6.4333,79.9992,61.38,53.95,midday,weekday,1.2,55.61
+65,Pepiliyana,6.8528,79.9183,74,Orugodawatta,6.9486,79.8886,15.69,24.6,midday,weekday,1.2,33.44
+75,Baseline Road,6.9067,79.8869,14,Dematagoda,6.9261,79.88,3.29,5.27,morning_peak,weekday,1.8,8.49
+66,Pannipitiya,6.8308,79.9661,75,Baseline Road,6.9067,79.8869,15.09,20.95,midday,weekend,1.02,24.13
+14,Dematagoda,6.9261,79.88,34,Peliyagoda,6.9711,79.8906,6.45,9.94,midday,weekday,1.2,10.55
+58,Avissawella,6.9472,80.2108,82,Pasyala,7.0911,80.1394,23.91,31.58,midday,weekday,1.2,34.48
+92,Ekala,7.0761,79.9283,8,Wellawatte,6.875,79.8617,34.47,41.23,evening_peak,weekday,2,71.39
+81,Heiyanthuduwa,6.9444,80.0431,100,Colombo 02,6.9178,79.8464,27.91,40.51,evening_peak,weekend,1.4,56.43
+21,Ratmalana,6.82,79.8817,76,Welisara,7.0097,79.8939,23.92,34.42,night,weekday,0.85,26.76
+47,Nittambuwa,7.1497,80.18,75,Baseline Road,6.9067,79.8869,54.89,70.71,evening_peak,weekday,2,142.74
+47,Nittambuwa,7.1497,80.18,94,Welisara North,7.02,79.89,48.7,58.75,night,weekday,0.85,45.6
+84,Yakkala,7.1019,80.0767,68,Sri Jayawardenepura,6.8886,79.9203,41.05,48.48,evening_peak,weekday,2,93.53
+73,Modara,6.9714,79.8681,77,Kerawalapitiya,6.9883,79.8658,3.36,6.31,evening_peak,weekend,1.4,9.24
+39,Seeduwa,7.1175,79.8928,92,Ekala,7.0761,79.9283,9.6,17.22,morning_peak,weekday,1.8,30.49
+77,Kerawalapitiya,6.9883,79.8658,58,Avissawella,6.9472,80.2108,56.45,64.66,evening_peak,weekday,2,139.3
+77,Kerawalapitiya,6.9883,79.8658,58,Avissawella,6.9472,80.2108,56.45,64.66,evening_peak,weekday,2,110.1
+15,Narahenpita,6.8981,79.8742,96,Aluthgama,6.4333,79.9992,71.13,69.08,midday,weekend,1.02,63
+62,Ingiriya,6.7344,80.1058,47,Nittambuwa,7.1497,80.18,82.2,89.82,morning_peak,weekend,1.17,104.26
+8,Wellawatte,6.875,79.8617,3,Maradana,6.92,79.8617,6.88,9.09,midday,weekend,1.02,9.66
+59,Kalutara,6.5854,79.9608,49,Kirindiwela,6.9928,80.0944,62.13,74.08,evening_peak,weekend,1.4,104.69
+33,Kelaniya,7.0017,79.9219,30,Mulleriyawa,6.9317,79.9514,13.16,23.3,night,weekday,0.85,18.61
+23,Athurugiriya,6.8783,79.9917,78,Kadawatha Junction,7.0028,79.9556,17.2,16.02,night,weekend,0.807,12.6
+15,Narahenpita,6.8981,79.8742,46,Mirigama,7.2453,80.1217,55.01,66.26,evening_peak,weekday,2,146.43
+44,Minuwangoda,7.1667,79.9506,75,Baseline Road,6.9067,79.8869,37.79,44.35,morning_peak,weekday,1.8,76.32
+88,Thimbirigasyaya,6.8839,79.8778,57,Hanwella,6.9042,80.0842,31.26,38.58,evening_peak,weekday,2,82.28
+25,Boralesgamuwa,6.8372,79.9111,46,Mirigama,7.2453,80.1217,66.06,72.69,midday,weekday,1.2,97.1
+61,Panadura South,6.695,79.905,89,Havelock Town,6.8856,79.8642,24.53,35.16,evening_peak,weekday,2,77.8
+61,Panadura South,6.695,79.905,15,Narahenpita,6.8981,79.8742,26.48,38.03,midday,weekday,1.2,40.98
+36,Ragama,7.0261,79.9181,82,Pasyala,7.0911,80.1394,33.98,42.26,midday,weekday,1.2,53.84
+65,Pepiliyana,6.8528,79.9183,91,Pannala,7.2956,80.0394,68.74,84.51,evening_peak,weekday,2,162.36
+83,Attanagalla,7.175,80.0706,57,Hanwella,6.9042,80.0842,47.43,56.52,midday,weekday,1.2,74.66
+76,Welisara,7.0097,79.8939,30,Mulleriyawa,6.9317,79.9514,14.12,23.82,morning_peak,weekday,1.8,46.81
+39,Seeduwa,7.1175,79.8928,26,Rajagiriya,6.9111,79.8989,29.85,32.31,morning_peak,weekday,1.8,64.54
+9,Dehiwala,6.8517,79.865,13,Mattakkuliya,6.9703,79.8778,15.92,22.06,morning_peak,weekday,1.8,42.66
+38,Ja-Ela,7.0733,79.8917,100,Colombo 02,6.9178,79.8464,26.48,26.71,evening_peak,weekend,1.4,40.68
+40,Katunayake,7.1697,79.8847,55,Homagama,6.8444,80.0044,50.64,43.14,midday,weekday,1.2,59.29
+33,Kelaniya,7.0017,79.9219,24,Hokandara,6.8494,79.9575,27.88,34.77,morning_peak,weekday,1.8,58.54
+20,Moratuwa,6.7731,79.8817,75,Baseline Road,6.9067,79.8869,19.56,26.83,night,weekday,0.85,22.45
+63,Kirulapone,6.8742,79.8825,84,Yakkala,7.1019,80.0767,39.65,51.57,morning_peak,weekday,1.8,92.99
+73,Modara,6.9714,79.8681,50,Ganemulla,7.0922,80.0225,27.87,35.67,night,weekday,0.85,32.41
+49,Kirindiwela,6.9928,80.0944,14,Dematagoda,6.9261,79.88,29.96,48,morning_peak,weekday,1.8,96.2
+5,Cinnamon Gardens,6.9011,79.8601,99,Bulathsinhala,6.665,80.1825,57.81,71.14,midday,weekday,1.2,84.43
+16,Nugegoda,6.8689,79.8889,33,Kelaniya,7.0017,79.9219,18.72,26.78,midday,weekday,1.2,31.21
+89,Havelock Town,6.8856,79.8642,16,Nugegoda,6.8689,79.8889,3.94,6.45,morning_peak,weekday,1.8,11.39
+93,Gonawala,7.1539,79.9819,24,Hokandara,6.8494,79.9575,42.78,52.86,midday,weekday,1.2,61.3
+2,Pettah,6.9354,79.8517,27,Battaramulla,6.8994,79.9164,9.72,12.8,night,weekday,0.85,9.29
+23,Athurugiriya,6.8783,79.9917,68,Sri Jayawardenepura,6.8886,79.9203,9.58,14.48,night,weekday,0.85,13.44
+68,Sri Jayawardenepura,6.8886,79.9203,63,Kirulapone,6.8742,79.8825,8.47,12.47,evening_peak,weekday,2,26.72
+87,Gothatuwa,6.9217,79.9856,64,Gangodawila,6.8567,79.8994,17.11,25.04,evening_peak,weekday,2,49.84
+19,Panadura,6.7136,79.9042,24,Hokandara,6.8494,79.9575,23.44,35.29,evening_peak,weekday,2,65.99
+10,Mount Lavinia,6.8311,79.865,41,Negombo,7.2089,79.8353,47.94,50.64,night,weekday,0.85,46.35
+65,Pepiliyana,6.8528,79.9183,17,Maharagama,6.8467,79.9283,1.31,2.08,morning_peak,weekday,1.8,3.54
+93,Gonawala,7.1539,79.9819,82,Pasyala,7.0911,80.1394,23.48,35.75,evening_peak,weekday,2,81.53
+76,Welisara,7.0097,79.8939,53,Mahara,7.0547,80.0153,20.29,25.21,night,weekend,0.807,18.47
+79,Weboda,7.0364,79.9869,31,Thalawathugoda,6.8869,79.9331,26.76,30.28,midday,weekday,1.2,36.64
+39,Seeduwa,7.1175,79.8928,28,Malabe,6.9061,79.9519,36.49,40.17,evening_peak,weekend,1.4,54.69
+79,Weboda,7.0364,79.9869,85,Hendala,6.9894,79.9019,14.21,17.9,midday,weekend,1.02,19.93
+9,Dehiwala,6.8517,79.865,92,Ekala,7.0761,79.9283,36.58,44.3,morning_peak,weekend,1.17,51.7
+86,Pittugala,6.9133,79.9694,24,Hokandara,6.8494,79.9575,10.41,17.25,evening_peak,weekday,2,37.25
+22,Kottawa,6.8244,79.9628,57,Hanwella,6.9042,80.0842,21.36,30.51,midday,weekend,1.02,29.09
+90,Bloemendhal,6.96,79.8647,72,Mutwal,6.9617,79.8522,1.62,3.94,evening_peak,weekday,2,7.85
+57,Hanwella,6.9042,80.0842,9,Dehiwala,6.8517,79.865,30.97,43.67,night,weekend,0.807,38.16
+35,Wattala,6.9939,79.8781,97,Maththegoda,6.8103,80.0478,44.23,48.97,midday,weekday,1.2,50.77
+35,Wattala,6.9939,79.8781,15,Narahenpita,6.8981,79.8742,13.31,18.73,evening_peak,weekday,2,36.82
+97,Maththegoda,6.8103,80.0478,32,Biyagama,6.9753,80.0008,29.16,38.73,evening_peak,weekday,2,88.2
+98,Kosgama,6.8856,80.1681,64,Gangodawila,6.8567,79.8994,39.38,60.34,evening_peak,weekday,2,114.11
+6,Kollupitiya,6.8978,79.85,73,Modara,6.9714,79.8681,10.62,16.09,evening_peak,weekend,1.4,21.92
+92,Ekala,7.0761,79.9283,51,Kadawatha,7.0072,79.9508,11.76,20.94,evening_peak,weekday,2,46.4
+70,Koswatta,6.9194,79.9211,78,Kadawatha Junction,7.0028,79.9556,16.41,20.11,morning_peak,weekday,1.8,36.01
+76,Welisara,7.0097,79.8939,51,Kadawatha,7.0072,79.9508,10.57,13.8,midday,weekend,1.02,12.37
+26,Rajagiriya,6.9111,79.8989,45,Divulapitiya,7.2278,80.06,51.36,64.93,night,weekend,0.807,47.88
+29,Kaduwela,6.9358,79.9778,17,Maharagama,6.8467,79.9283,19.78,21.48,night,weekday,0.85,17.24
+68,Sri Jayawardenepura,6.8886,79.9203,74,Orugodawatta,6.9486,79.8886,11.82,17.72,midday,weekday,1.2,19.2
+89,Havelock Town,6.8856,79.8642,49,Kirindiwela,6.9928,80.0944,35.88,54.88,morning_peak,weekend,1.17,56.76
+18,Piliyandala,6.8017,79.9247,54,Liyanagemulla,7.1378,79.8853,44.61,51.41,evening_peak,weekend,1.4,80.32
+68,Sri Jayawardenepura,6.8886,79.9203,41,Negombo,7.2089,79.8353,43.28,42.92,morning_peak,weekday,1.8,71.81
+83,Attanagalla,7.175,80.0706,56,Padukka,6.8361,80.0872,53.94,64.54,evening_peak,weekend,1.4,79.05
+49,Kirindiwela,6.9928,80.0944,41,Negombo,7.2089,79.8353,55.56,66.48,midday,weekday,1.2,78.31
+83,Attanagalla,7.175,80.0706,31,Thalawathugoda,6.8869,79.9331,46.73,55.55,midday,weekend,1.02,63.5
+23,Athurugiriya,6.8783,79.9917,48,Dompe,7.065,80.0969,38.65,40.95,morning_peak,weekend,1.17,51.96
+27,Battaramulla,6.8994,79.9164,75,Baseline Road,6.9067,79.8869,4.04,5.31,morning_peak,weekday,1.8,8.16
+47,Nittambuwa,7.1497,80.18,79,Weboda,7.0364,79.9869,33.28,44.19,morning_peak,weekday,1.8,74.82
+86,Pittugala,6.9133,79.9694,92,Ekala,7.0761,79.9283,25.76,36.23,night,weekend,0.807,25.83
+46,Mirigama,7.2453,80.1217,18,Piliyandala,6.8017,79.9247,69.5,72.51,evening_peak,weekday,2,156.53
+10,Mount Lavinia,6.8311,79.865,73,Modara,6.9714,79.8681,18.34,25.77,night,weekday,0.85,19.56
+55,Homagama,6.8444,80.0044,14,Dematagoda,6.9261,79.88,20.95,28.55,evening_peak,weekday,2,62.57
+64,Gangodawila,6.8567,79.8994,71,Colombo Port,6.95,79.8378,15.68,26.73,evening_peak,weekday,2,58.68
+94,Welisara North,7.02,79.89,91,Pannala,7.2956,80.0394,41.77,63.58,midday,weekday,1.2,68.72
+4,Borella,6.9113,79.8778,29,Kaduwela,6.9358,79.9778,14.1,19.33,midday,weekend,1.02,22.26
+11,Kotahena,6.9531,79.8597,74,Orugodawatta,6.9486,79.8886,5.49,9.89,midday,weekday,1.2,13.58
+90,Bloemendhal,6.96,79.8647,21,Ratmalana,6.82,79.8817,18.58,26.57,midday,weekday,1.2,28.92
+70,Koswatta,6.9194,79.9211,77,Kerawalapitiya,6.9883,79.8658,15.01,23.03,midday,weekend,1.02,20.53
+91,Pannala,7.2956,80.0394,78,Kadawatha Junction,7.0028,79.9556,41.86,58.1,midday,weekend,1.02,52.62
+32,Biyagama,6.9753,80.0008,98,Kosgama,6.8856,80.1681,33.96,44.91,morning_peak,weekday,1.8,70.45
+81,Heiyanthuduwa,6.9444,80.0431,30,Mulleriyawa,6.9317,79.9514,14.28,24.79,midday,weekend,1.02,29.02
+33,Kelaniya,7.0017,79.9219,38,Ja-Ela,7.0733,79.8917,14.05,18.92,morning_peak,weekday,1.8,37.95
+41,Negombo,7.2089,79.8353,30,Mulleriyawa,6.9317,79.9514,42.41,44.13,night,weekend,0.807,40.44
+56,Padukka,6.8361,80.0872,65,Pepiliyana,6.8528,79.9183,20.82,29.23,midday,weekend,1.02,30.24
+65,Pepiliyana,6.8528,79.9183,25,Boralesgamuwa,6.8372,79.9111,2.7,5.73,evening_peak,weekday,2,12.82
+19,Panadura,6.7136,79.9042,60,Bandaragama,6.7167,79.9833,12.33,16.85,midday,weekend,1.02,18.74
+17,Maharagama,6.8467,79.9283,60,Bandaragama,6.7167,79.9833,20.96,25.48,midday,weekday,1.2,32.14
+60,Bandaragama,6.7167,79.9833,20,Moratuwa,6.7731,79.8817,19.47,26.8,morning_peak,weekend,1.17,31.17
+81,Heiyanthuduwa,6.9444,80.0431,50,Ganemulla,7.0922,80.0225,22.06,32.69,morning_peak,weekday,1.8,63.62
+11,Kotahena,6.9531,79.8597,20,Moratuwa,6.7731,79.8817,22.51,31.62,morning_peak,weekend,1.17,31.88
+94,Welisara North,7.02,79.89,98,Kosgama,6.8856,80.1681,48.13,55.33,midday,weekend,1.02,52.14
+17,Maharagama,6.8467,79.9283,89,Havelock Town,6.8856,79.8642,9.27,14.22,midday,weekday,1.2,18.67
+86,Pittugala,6.9133,79.9694,74,Orugodawatta,6.9486,79.8886,13.54,23.09,evening_peak,weekday,2,40.61
+31,Thalawathugoda,6.8869,79.9331,32,Biyagama,6.9753,80.0008,15.69,23.4,evening_peak,weekday,2,40.57
+61,Panadura South,6.695,79.905,46,Mirigama,7.2453,80.1217,84.22,87.42,night,weekend,0.807,79.53
+52,Kiribathgoda,6.9822,79.9486,89,Havelock Town,6.8856,79.8642,18.45,26.41,evening_peak,weekend,1.4,35.82
+54,Liyanagemulla,7.1378,79.8853,17,Maharagama,6.8467,79.9283,43.58,46.28,midday,weekday,1.2,54.79
+22,Kottawa,6.8244,79.9628,43,Veyangoda,7.1522,80.1128,49.93,51.53,evening_peak,weekday,2,107.57
+35,Wattala,6.9939,79.8781,4,Borella,6.9113,79.8778,11.18,15.6,morning_peak,weekend,1.17,15.93
+19,Panadura,6.7136,79.9042,81,Heiyanthuduwa,6.9444,80.0431,47.06,53.53,night,weekday,0.85,50.62
+28,Malabe,6.9061,79.9519,65,Pepiliyana,6.8528,79.9183,11.5,16.4,evening_peak,weekday,2,29.79
+40,Katunayake,7.1697,79.8847,38,Ja-Ela,7.0733,79.8917,13.74,12.99,morning_peak,weekend,1.17,15.27
+80,Udugampola,7.0717,80.0239,16,Nugegoda,6.8689,79.8889,32.87,41.21,evening_peak,weekday,2,77.43
+42,Gampaha,7.0878,79.9992,77,Kerawalapitiya,6.9883,79.8658,28.81,34.23,morning_peak,weekday,1.8,62.12
+13,Mattakkuliya,6.9703,79.8778,19,Panadura,6.7136,79.9042,32.27,46.39,evening_peak,weekday,2,92.83
+86,Pittugala,6.9133,79.9694,82,Pasyala,7.0911,80.1394,34.34,47.55,night,weekday,0.85,41.86
+31,Thalawathugoda,6.8869,79.9331,33,Kelaniya,7.0017,79.9219,16.99,28.8,night,weekday,0.85,23.37
+7,Bambalapitiya,6.8867,79.8567,31,Thalawathugoda,6.8869,79.9331,11.85,16.96,morning_peak,weekend,1.17,20.06
+92,Ekala,7.0761,79.9283,53,Mahara,7.0547,80.0153,13.31,23.05,morning_peak,weekday,1.8,46.41
+6,Kollupitiya,6.8978,79.85,49,Kirindiwela,6.9928,80.0944,35.95,55.14,midday,weekday,1.2,59.23
+54,Liyanagemulla,7.1378,79.8853,69,Pelawatte,6.8908,79.9311,39.82,39.65,evening_peak,weekday,2,79.2
+88,Thimbirigasyaya,6.8839,79.8778,55,Homagama,6.8444,80.0044,16.94,24.62,morning_peak,weekday,1.8,43.44
+45,Divulapitiya,7.2278,80.06,76,Welisara,7.0097,79.8939,36.06,52.06,midday,weekday,1.2,65.99
+43,Veyangoda,7.1522,80.1128,52,Kiribathgoda,6.9822,79.9486,31.43,40.71,midday,weekday,1.2,43.23
+64,Gangodawila,6.8567,79.8994,79,Weboda,7.0364,79.9869,31.21,37.48,evening_peak,weekday,2,73.07
+51,Kadawatha,7.0072,79.9508,53,Mahara,7.0547,80.0153,10.81,14.48,midday,weekday,1.2,16.38
+47,Nittambuwa,7.1497,80.18,56,Padukka,6.8361,80.0872,45.22,69.84,evening_peak,weekday,2,126.41
+58,Avissawella,6.9472,80.2108,95,Beruwala,6.4781,79.9833,98.54,99.45,evening_peak,weekend,1.4,140.08
+83,Attanagalla,7.175,80.0706,29,Kaduwela,6.9358,79.9778,33.77,41.07,morning_peak,weekday,1.8,83.06
+90,Bloemendhal,6.96,79.8647,4,Borella,6.9113,79.8778,6.85,9.75,midday,weekend,1.02,11.3
+48,Dompe,7.065,80.0969,3,Maradana,6.92,79.8617,38.17,46.73,night,weekend,0.807,33.98
+43,Veyangoda,7.1522,80.1128,95,Beruwala,6.4781,79.9833,99.34,93.85,evening_peak,weekday,2,174.63
+88,Thimbirigasyaya,6.8839,79.8778,11,Kotahena,6.9531,79.8597,9.63,14.49,night,weekend,0.807,12.08
+65,Pepiliyana,6.8528,79.9183,61,Panadura South,6.695,79.905,22.58,35.2,midday,weekend,1.02,39.63
+57,Hanwella,6.9042,80.0842,14,Dematagoda,6.9261,79.88,25.94,32.56,night,weekday,0.85,30.74
+12,Grandpass,6.9425,79.8706,55,Homagama,6.8444,80.0044,26.51,30.46,night,weekday,0.85,24.27
+69,Pelawatte,6.8908,79.9311,70,Koswatta,6.9194,79.9211,4.56,8,midday,weekday,1.2,9.84
+97,Maththegoda,6.8103,80.0478,77,Kerawalapitiya,6.9883,79.8658,46.02,51.54,night,weekday,0.85,44.39
+77,Kerawalapitiya,6.9883,79.8658,3,Maradana,6.92,79.8617,9.99,15.51,morning_peak,weekday,1.8,29.81
+83,Attanagalla,7.175,80.0706,87,Gothatuwa,6.9217,79.9856,36.57,45.27,evening_peak,weekday,2,100.8
+69,Pelawatte,6.8908,79.9311,67,Kahathuduwa,6.7981,80.0133,17.4,27.33,night,weekend,0.807,24.44
+61,Panadura South,6.695,79.905,23,Athurugiriya,6.8783,79.9917,35.28,37,evening_peak,weekend,1.4,45.25
+7,Bambalapitiya,6.8867,79.8567,97,Maththegoda,6.8103,80.0478,27.86,43.27,night,weekday,0.85,38.64
+52,Kiribathgoda,6.9822,79.9486,4,Borella,6.9113,79.8778,14.56,20.53,night,weekday,0.85,15.51
+98,Kosgama,6.8856,80.1681,26,Rajagiriya,6.9111,79.8989,41.29,55.27,evening_peak,weekday,2,123.27
+33,Kelaniya,7.0017,79.9219,72,Mutwal,6.9617,79.8522,12.68,18.7,night,weekend,0.807,12.94
+90,Bloemendhal,6.96,79.8647,87,Gothatuwa,6.9217,79.9856,18.02,24.92,midday,weekday,1.2,30.35
+65,Pepiliyana,6.8528,79.9183,73,Modara,6.9714,79.8681,17.9,26.14,morning_peak,weekday,1.8,47.13
+51,Kadawatha,7.0072,79.9508,16,Nugegoda,6.8689,79.8889,21.44,29.11,evening_peak,weekday,2,60.19
+97,Maththegoda,6.8103,80.0478,24,Hokandara,6.8494,79.9575,15.86,26.79,night,weekday,0.85,21.22
+21,Ratmalana,6.82,79.8817,19,Panadura,6.7136,79.9042,13.53,20.88,night,weekday,0.85,17.51
+64,Gangodawila,6.8567,79.8994,85,Hendala,6.9894,79.9019,20,29,evening_peak,weekday,2,56.34
+9,Dehiwala,6.8517,79.865,25,Boralesgamuwa,6.8372,79.9111,6.16,9.81,morning_peak,weekday,1.8,18.14
+93,Gonawala,7.1539,79.9819,70,Koswatta,6.9194,79.9211,37.93,48.66,midday,weekday,1.2,66.13
+84,Yakkala,7.1019,80.0767,3,Maradana,6.92,79.8617,35.17,45.72,morning_peak,weekday,1.8,82.31
+64,Gangodawila,6.8567,79.8994,8,Wellawatte,6.875,79.8617,6.03,9.44,evening_peak,weekday,2,19.87
+27,Battaramulla,6.8994,79.9164,45,Divulapitiya,7.2278,80.06,50.68,64.4,morning_peak,weekday,1.8,127.1
+99,Bulathsinhala,6.665,80.1825,37,Kandana,7.0508,79.9058,71.75,79.35,morning_peak,weekend,1.17,92.85
+12,Grandpass,6.9425,79.8706,11,Kotahena,6.9531,79.8597,2.48,5.22,night,weekday,0.85,4.86
+86,Pittugala,6.9133,79.9694,98,Kosgama,6.8856,80.1681,31.85,42.67,midday,weekday,1.2,45.8
+10,Mount Lavinia,6.8311,79.865,80,Udugampola,7.0717,80.0239,38.26,48.07,morning_peak,weekday,1.8,88.62
+43,Veyangoda,7.1522,80.1128,80,Udugampola,7.0717,80.0239,16.12,19.45,evening_peak,weekend,1.4,26.18
+22,Kottawa,6.8244,79.9628,9,Dehiwala,6.8517,79.865,15.21,18.72,evening_peak,weekday,2,37.32
+45,Divulapitiya,7.2278,80.06,8,Wellawatte,6.875,79.8617,53.58,69.08,morning_peak,weekend,1.17,83.45
+76,Welisara,7.0097,79.8939,6,Kollupitiya,6.8978,79.85,16.09,22.16,night,weekday,0.85,20.81
+49,Kirindiwela,6.9928,80.0944,82,Pasyala,7.0911,80.1394,16.2,25.83,night,weekend,0.807,20.07
+25,Boralesgamuwa,6.8372,79.9111,69,Pelawatte,6.8908,79.9311,11.51,17.68,midday,weekday,1.2,23.04
+95,Beruwala,6.4781,79.9833,33,Kelaniya,7.0017,79.9219,73.87,69.09,night,weekend,0.807,61.61
+80,Udugampola,7.0717,80.0239,38,Ja-Ela,7.0733,79.8917,19.29,26.86,evening_peak,weekday,2,50.43
+89,Havelock Town,6.8856,79.8642,32,Biyagama,6.9753,80.0008,24.33,31.85,midday,weekday,1.2,37.63
+16,Nugegoda,6.8689,79.8889,76,Welisara,7.0097,79.8939,17.69,24.4,evening_peak,weekend,1.4,33.52
+72,Mutwal,6.9617,79.8522,56,Padukka,6.8361,80.0872,36.01,48.03,evening_peak,weekday,2,101.55
+86,Pittugala,6.9133,79.9694,50,Ganemulla,7.0922,80.0225,26.04,31.49,midday,weekday,1.2,36.72
+29,Kaduwela,6.9358,79.9778,39,Seeduwa,7.1175,79.8928,32.39,32.67,evening_peak,weekday,2,65.88
+46,Mirigama,7.2453,80.1217,67,Kahathuduwa,6.7981,80.0133,67.27,72.54,night,weekend,0.807,65.99
+61,Panadura South,6.695,79.905,23,Athurugiriya,6.8783,79.9917,35.28,37,evening_peak,weekend,1.4,59.17
+41,Negombo,7.2089,79.8353,98,Kosgama,6.8856,80.1681,71.79,78.53,midday,weekday,1.2,101.47
+81,Heiyanthuduwa,6.9444,80.0431,87,Gothatuwa,6.9217,79.9856,11.08,19.93,morning_peak,weekday,1.8,37.87
+96,Aluthgama,6.4333,79.9992,50,Ganemulla,7.0922,80.0225,89.8,79.69,morning_peak,weekday,1.8,156.88
+59,Kalutara,6.5854,79.9608,65,Pepiliyana,6.8528,79.9183,39.05,44.37,evening_peak,weekend,1.4,65.27
+41,Negombo,7.2089,79.8353,7,Bambalapitiya,6.8867,79.8567,41.78,42.58,evening_peak,weekend,1.4,56.02
+30,Mulleriyawa,6.9317,79.9514,73,Modara,6.9714,79.8681,13.19,20.58,evening_peak,weekday,2,43.96
+10,Mount Lavinia,6.8311,79.865,16,Nugegoda,6.8689,79.8889,7.06,10.84,midday,weekend,1.02,9.98
+47,Nittambuwa,7.1497,80.18,72,Mutwal,6.9617,79.8522,52.81,69.61,evening_peak,weekday,2,142.47
+31,Thalawathugoda,6.8869,79.9331,97,Maththegoda,6.8103,80.0478,20.43,33.26,night,weekday,0.85,24.48
+3,Maradana,6.92,79.8617,67,Kahathuduwa,6.7981,80.0133,28.73,38.2,evening_peak,weekday,2,76
+93,Gonawala,7.1539,79.9819,30,Mulleriyawa,6.9317,79.9514,33.72,43.52,evening_peak,weekend,1.4,57.49
+40,Katunayake,7.1697,79.8847,65,Pepiliyana,6.8528,79.9183,41.72,41.34,evening_peak,weekend,1.4,51.65
+3,Maradana,6.92,79.8617,36,Ragama,7.0261,79.9181,16.69,22.31,evening_peak,weekday,2,44.11
+90,Bloemendhal,6.96,79.8647,80,Udugampola,7.0717,80.0239,25.12,30.97,midday,weekday,1.2,42.7
+78,Kadawatha Junction,7.0028,79.9556,91,Pannala,7.2956,80.0394,42.29,58.7,evening_peak,weekday,2,127.82
+83,Attanagalla,7.175,80.0706,47,Nittambuwa,7.1497,80.18,17.89,30.52,morning_peak,weekday,1.8,46.96
+9,Dehiwala,6.8517,79.865,53,Mahara,7.0547,80.0153,33.99,43.94,midday,weekday,1.2,49.24
+74,Orugodawatta,6.9486,79.8886,95,Beruwala,6.4781,79.9833,77.29,75.71,night,weekday,0.85,72.51
+61,Panadura South,6.695,79.905,77,Kerawalapitiya,6.9883,79.8658,37.46,52.74,morning_peak,weekday,1.8,85.74
+32,Biyagama,6.9753,80.0008,22,Kottawa,6.8244,79.9628,21.88,24.8,evening_peak,weekend,1.4,30.08
+55,Homagama,6.8444,80.0044,75,Baseline Road,6.9067,79.8869,18.41,25.25,evening_peak,weekday,2,55.14
+86,Pittugala,6.9133,79.9694,68,Sri Jayawardenepura,6.8886,79.9203,10.18,13.65,night,weekday,0.85,11.05
+95,Beruwala,6.4781,79.9833,70,Koswatta,6.9194,79.9211,61.77,61.43,evening_peak,weekday,2,131.23
+72,Mutwal,6.9617,79.8522,14,Dematagoda,6.9261,79.88,6.47,11.19,morning_peak,weekday,1.8,17.93
+95,Beruwala,6.4781,79.9833,51,Kadawatha,7.0072,79.9508,69.34,62.67,midday,weekday,1.2,67.79
+61,Panadura South,6.695,79.905,66,Pannipitiya,6.8308,79.9661,22.31,32.72,night,weekday,0.85,27.36
+36,Ragama,7.0261,79.9181,92,Ekala,7.0761,79.9283,7.74,16.9,midday,weekday,1.2,21.31
+89,Havelock Town,6.8856,79.8642,61,Panadura South,6.695,79.905,23.87,34.08,evening_peak,weekday,2,58.23
+48,Dompe,7.065,80.0969,72,Mutwal,6.9617,79.8522,36.93,46.44,evening_peak,weekend,1.4,72.17
+71,Colombo Port,6.95,79.8378,17,Maharagama,6.8467,79.9283,18.21,31.14,evening_peak,weekend,1.4,48.05
+13,Mattakkuliya,6.9703,79.8778,47,Nittambuwa,7.1497,80.18,51.94,65.69,midday,weekday,1.2,87.29
+29,Kaduwela,6.9358,79.9778,48,Dompe,7.065,80.0969,25.04,34.08,night,weekday,0.85,31.14
+71,Colombo Port,6.95,79.8378,46,Mirigama,7.2453,80.1217,55.89,72.88,night,weekday,0.85,61.12
+72,Mutwal,6.9617,79.8522,100,Colombo 02,6.9178,79.8464,7.61,12.5,night,weekday,0.85,12.04
+46,Mirigama,7.2453,80.1217,23,Athurugiriya,6.8783,79.9917,53.24,58.45,midday,weekend,1.02,51.11
+1,Colombo Fort,6.9344,79.8428,19,Panadura,6.7136,79.9042,27.32,37.87,morning_peak,weekend,1.17,45.68
+91,Pannala,7.2956,80.0394,52,Kiribathgoda,6.9822,79.9486,47.21,68.99,morning_peak,weekday,1.8,137.44
+57,Hanwella,6.9042,80.0842,87,Gothatuwa,6.9217,79.9856,14.08,19.07,morning_peak,weekday,1.8,30.44
+41,Negombo,7.2089,79.8353,77,Kerawalapitiya,6.9883,79.8658,35.48,35.94,midday,weekday,1.2,49.48
+92,Ekala,7.0761,79.9283,30,Mulleriyawa,6.9317,79.9514,25.38,37.18,midday,weekend,1.02,34.96
+60,Bandaragama,6.7167,79.9833,18,Piliyandala,6.8017,79.9247,14.19,16.79,midday,weekday,1.2,20.24
+2,Pettah,6.9354,79.8517,97,Maththegoda,6.8103,80.0478,31.61,47.23,evening_peak,weekday,2,98.17
+18,Piliyandala,6.8017,79.9247,17,Maharagama,6.8467,79.9283,7.31,10.32,evening_peak,weekend,1.4,14.69
+99,Bulathsinhala,6.665,80.1825,94,Welisara North,7.02,79.89,71.72,72.99,night,weekday,0.85,60.87
+68,Sri Jayawardenepura,6.8886,79.9203,25,Boralesgamuwa,6.8372,79.9111,9.72,15.77,midday,weekday,1.2,20.7
+38,Ja-Ela,7.0733,79.8917,63,Kirulapone,6.8742,79.8825,28,29.1,evening_peak,weekday,2,65.29
+64,Gangodawila,6.8567,79.8994,17,Maharagama,6.8467,79.9283,3.91,7.2,midday,weekday,1.2,7.96
+13,Mattakkuliya,6.9703,79.8778,35,Wattala,6.9939,79.8781,3.56,5.94,morning_peak,weekday,1.8,11.79
+51,Kadawatha,7.0072,79.9508,54,Liyanagemulla,7.1378,79.8853,23.16,29.67,midday,weekday,1.2,30.41
+94,Welisara North,7.02,79.89,42,Gampaha,7.0878,79.9992,23.75,27.15,evening_peak,weekend,1.4,35.68
+37,Kandana,7.0508,79.9058,66,Pannipitiya,6.8308,79.9661,34.27,37.54,evening_peak,weekday,2,78.72
+95,Beruwala,6.4781,79.9833,80,Udugampola,7.0717,80.0239,79.08,72.81,morning_peak,weekday,1.8,127.22
+92,Ekala,7.0761,79.9283,32,Biyagama,6.9753,80.0008,20.51,34.56,morning_peak,weekday,1.8,71.25
+73,Modara,6.9714,79.8681,7,Bambalapitiya,6.8867,79.8567,11.94,18.32,evening_peak,weekend,1.4,27.57
+40,Katunayake,7.1697,79.8847,3,Maradana,6.92,79.8617,32.19,28.76,evening_peak,weekend,1.4,34.41
+52,Kiribathgoda,6.9822,79.9486,22,Kottawa,6.8244,79.9628,23.59,29.11,evening_peak,weekday,2,50.43
+11,Kotahena,6.9531,79.8597,90,Bloemendhal,6.96,79.8647,2.25,4.07,evening_peak,weekend,1.4,5.02
+35,Wattala,6.9939,79.8781,16,Nugegoda,6.8689,79.8889,16.89,23.66,midday,weekend,1.02,24
+62,Ingiriya,6.7344,80.1058,27,Battaramulla,6.8994,79.9164,38.85,43.54,evening_peak,weekday,2,86.83
+28,Malabe,6.9061,79.9519,9,Dehiwala,6.8517,79.865,14.83,21.83,midday,weekday,1.2,25.47
+97,Maththegoda,6.8103,80.0478,51,Kadawatha,7.0072,79.9508,33.14,39.35,evening_peak,weekend,1.4,54.74
+65,Pepiliyana,6.8528,79.9183,93,Gonawala,7.1539,79.9819,49.39,55.68,morning_peak,weekend,1.17,63.09
+47,Nittambuwa,7.1497,80.18,80,Udugampola,7.0717,80.0239,28.22,38.63,night,weekday,0.85,33.2
+1,Colombo Fort,6.9344,79.8428,7,Bambalapitiya,6.8867,79.8567,6.27,8.32,morning_peak,weekday,1.8,15.79
+87,Gothatuwa,6.9217,79.9856,45,Divulapitiya,7.2278,80.06,43.63,54.57,morning_peak,weekday,1.8,102.58
+12,Grandpass,6.9425,79.8706,95,Beruwala,6.4781,79.9833,78.11,74.76,morning_peak,weekday,1.8,152.35
+36,Ragama,7.0261,79.9181,67,Kahathuduwa,6.7981,80.0133,37.83,38.89,night,weekend,0.807,33.97
+97,Maththegoda,6.8103,80.0478,84,Yakkala,7.1019,80.0767,50.29,60.79,night,weekend,0.807,50.51
+79,Weboda,7.0364,79.9869,6,Kollupitiya,6.8978,79.85,24.89,32.2,midday,weekday,1.2,36.92
+61,Panadura South,6.695,79.905,70,Koswatta,6.9194,79.9211,41.2,46.02,night,weekday,0.85,39.86
+54,Liyanagemulla,7.1378,79.8853,41,Negombo,7.2089,79.8353,11.31,15.69,morning_peak,weekday,1.8,25.2
+30,Mulleriyawa,6.9317,79.9514,44,Minuwangoda,7.1667,79.9506,36.73,47.4,evening_peak,weekend,1.4,61.96
+36,Ragama,7.0261,79.9181,19,Panadura,6.7136,79.9042,53.95,52.6,morning_peak,weekday,1.8,82.1
+3,Maradana,6.92,79.8617,80,Udugampola,7.0717,80.0239,28.18,34.65,evening_peak,weekend,1.4,43.42
+62,Ingiriya,6.7344,80.1058,71,Colombo Port,6.95,79.8378,47.34,61.56,evening_peak,weekday,2,140.92
+93,Gonawala,7.1539,79.9819,44,Minuwangoda,7.1667,79.9506,5.76,9.85,morning_peak,weekday,1.8,15.24
+26,Rajagiriya,6.9111,79.8989,83,Attanagalla,7.175,80.0706,44.55,55.93,night,weekend,0.807,47.02
+30,Mulleriyawa,6.9317,79.9514,3,Maradana,6.92,79.8617,12.21,19.07,night,weekday,0.85,14.53
+73,Modara,6.9714,79.8681,41,Negombo,7.2089,79.8353,35.48,35.62,evening_peak,weekday,2,64.84
+93,Gonawala,7.1539,79.9819,99,Bulathsinhala,6.665,80.1825,83.21,93.49,evening_peak,weekday,2,183.54
+10,Mount Lavinia,6.8311,79.865,13,Mattakkuliya,6.9703,79.8778,18.32,25.37,evening_peak,weekday,2,55.19
+29,Kaduwela,6.9358,79.9778,95,Beruwala,6.4781,79.9833,66.81,60.12,evening_peak,weekday,2,112.09
+2,Pettah,6.9354,79.8517,50,Ganemulla,7.0922,80.0225,28.85,37.24,morning_peak,weekday,1.8,61.19
+68,Sri Jayawardenepura,6.8886,79.9203,87,Gothatuwa,6.9217,79.9856,10.6,14.47,night,weekday,0.85,13.11
+11,Kotahena,6.9531,79.8597,93,Gonawala,7.1539,79.9819,36.89,44.7,night,weekday,0.85,36.91
+52,Kiribathgoda,6.9822,79.9486,48,Dompe,7.065,80.0969,27.67,36.61,night,weekday,0.85,32.74
+2,Pettah,6.9354,79.8517,78,Kadawatha Junction,7.0028,79.9556,15.68,21.07,midday,weekday,1.2,23.17
+72,Mutwal,6.9617,79.8522,66,Pannipitiya,6.8308,79.9661,23.29,33.59,evening_peak,weekday,2,71.67
+74,Orugodawatta,6.9486,79.8886,23,Athurugiriya,6.8783,79.9917,19.67,25.86,night,weekend,0.807,20.32
+52,Kiribathgoda,6.9822,79.9486,46,Mirigama,7.2453,80.1217,42.95,54.34,morning_peak,weekday,1.8,105.93
+71,Colombo Port,6.95,79.8378,70,Koswatta,6.9194,79.9211,14.34,27.06,morning_peak,weekday,1.8,46.93
+93,Gonawala,7.1539,79.9819,89,Havelock Town,6.8856,79.8642,41.53,50.49,evening_peak,weekday,2,94.05
+10,Mount Lavinia,6.8311,79.865,27,Battaramulla,6.8994,79.9164,13.07,19.94,night,weekend,0.807,14.98
+26,Rajagiriya,6.9111,79.8989,15,Narahenpita,6.8981,79.8742,4.69,7.04,morning_peak,weekend,1.17,8.99
+95,Beruwala,6.4781,79.9833,35,Wattala,6.9939,79.8781,81.15,73.76,midday,weekend,1.02,73.86
+83,Attanagalla,7.175,80.0706,25,Boralesgamuwa,6.8372,79.9111,54.11,61.5,evening_peak,weekend,1.4,90.04
+92,Ekala,7.0761,79.9283,1,Colombo Fort,6.9344,79.8428,22.46,32.92,midday,weekday,1.2,41.2
+86,Pittugala,6.9133,79.9694,92,Ekala,7.0761,79.9283,25.76,36.23,night,weekday,0.85,30.18
+47,Nittambuwa,7.1497,80.18,21,Ratmalana,6.82,79.8817,71.42,85.98,night,weekday,0.85,72.67
+49,Kirindiwela,6.9928,80.0944,16,Nugegoda,6.8689,79.8889,33.68,53.61,midday,weekday,1.2,63.09
+34,Peliyagoda,6.9711,79.8906,33,Kelaniya,7.0017,79.9219,6.23,10.68,evening_peak,weekday,2,23.5
+86,Pittugala,6.9133,79.9694,58,Avissawella,6.9472,80.2108,35.93,45.31,evening_peak,weekday,2,87.08
+93,Gonawala,7.1539,79.9819,57,Hanwella,6.9042,80.0842,44.23,53.62,midday,weekday,1.2,58.82
+36,Ragama,7.0261,79.9181,73,Modara,6.9714,79.8681,11.49,17.11,evening_peak,weekday,2,38.85
+95,Beruwala,6.4781,79.9833,70,Koswatta,6.9194,79.9211,61.77,61.43,morning_peak,weekend,1.17,79.69
+80,Udugampola,7.0717,80.0239,93,Gonawala,7.1539,79.9819,12.68,19.08,night,weekday,0.85,18.19
+52,Kiribathgoda,6.9822,79.9486,74,Orugodawatta,6.9486,79.8886,11.09,17.36,morning_peak,weekday,1.8,32.04
+90,Bloemendhal,6.96,79.8647,76,Welisara,7.0097,79.8939,8.59,12.62,midday,weekday,1.2,16.51
+71,Colombo Port,6.95,79.8378,10,Mount Lavinia,6.8311,79.865,15.73,27.08,morning_peak,weekday,1.8,52.29
+50,Ganemulla,7.0922,80.0225,14,Dematagoda,6.9261,79.88,27.52,35,morning_peak,weekend,1.17,35.03
+22,Kottawa,6.8244,79.9628,68,Sri Jayawardenepura,6.8886,79.9203,10.69,15.44,midday,weekend,1.02,14.53
+16,Nugegoda,6.8689,79.8889,54,Liyanagemulla,7.1378,79.8853,35.48,39.46,evening_peak,weekday,2,81.97
+11,Kotahena,6.9531,79.8597,39,Seeduwa,7.1175,79.8928,26.68,28.89,evening_peak,weekday,2,49.12
+45,Divulapitiya,7.2278,80.06,90,Bloemendhal,6.96,79.8647,45.59,58.94,night,weekday,0.85,50.4
+76,Welisara,7.0097,79.8939,2,Pettah,6.9354,79.8517,11.18,15.52,evening_peak,weekday,2,33.75
+86,Pittugala,6.9133,79.9694,5,Cinnamon Gardens,6.9011,79.8601,15.64,20.48,midday,weekday,1.2,25.98
+27,Battaramulla,6.8994,79.9164,10,Mount Lavinia,6.8311,79.865,12.97,19.89,night,weekday,0.85,16.41
+10,Mount Lavinia,6.8311,79.865,6,Kollupitiya,6.8978,79.85,8.16,11.27,evening_peak,weekday,2,19.93
+56,Padukka,6.8361,80.0872,59,Kalutara,6.5854,79.9608,48.35,55.14,midday,weekday,1.2,66.85
+4,Borella,6.9113,79.8778,48,Dompe,7.065,80.0969,38.3,46.39,morning_peak,weekday,1.8,83.49
+34,Peliyagoda,6.9711,79.8906,36,Ragama,7.0261,79.9181,9.35,13.31,morning_peak,weekday,1.8,24.48
+19,Panadura,6.7136,79.9042,98,Kosgama,6.8856,80.1681,46.77,68.84,midday,weekend,1.02,79.44
+94,Welisara North,7.02,79.89,54,Liyanagemulla,7.1378,79.8853,16.3,22.69,morning_peak,weekday,1.8,40.06
+59,Kalutara,6.5854,79.9608,65,Pepiliyana,6.8528,79.9183,39.05,44.37,evening_peak,weekend,1.4,61.86
+55,Homagama,6.8444,80.0044,57,Hanwella,6.9042,80.0842,15.06,23.21,midday,weekday,1.2,29.78
+85,Hendala,6.9894,79.9019,88,Thimbirigasyaya,6.8839,79.8778,12.85,15,morning_peak,weekday,1.8,24.19
+83,Attanagalla,7.175,80.0706,93,Gonawala,7.1539,79.9819,13.39,22.09,night,weekday,0.85,16.8
+71,Colombo Port,6.95,79.8378,17,Maharagama,6.8467,79.9283,18.21,31.14,night,weekday,0.85,25.4
+60,Bandaragama,6.7167,79.9833,70,Koswatta,6.9194,79.9211,31.24,34.05,midday,weekday,1.2,37.27
+80,Udugampola,7.0717,80.0239,72,Mutwal,6.9617,79.8522,26.5,34.21,evening_peak,weekday,2,70
+11,Kotahena,6.9531,79.8597,96,Aluthgama,6.4333,79.9992,82.71,76.07,morning_peak,weekday,1.8,154.87
+13,Mattakkuliya,6.9703,79.8778,74,Orugodawatta,6.9486,79.8886,3.42,7.25,evening_peak,weekday,2,12.88
+63,Kirulapone,6.8742,79.8825,89,Havelock Town,6.8856,79.8642,2.89,4.92,midday,weekday,1.2,5.33
+56,Padukka,6.8361,80.0872,80,Udugampola,7.0717,80.0239,40.82,46.62,morning_peak,weekday,1.8,80.88
+84,Yakkala,7.1019,80.0767,26,Rajagiriya,6.9111,79.8989,36.89,47.7,evening_peak,weekday,2,89.54
+42,Gampaha,7.0878,79.9992,61,Panadura South,6.695,79.905,60.84,61.49,night,weekday,0.85,45.96
+35,Wattala,6.9939,79.8781,15,Narahenpita,6.8981,79.8742,13.31,18.73,midday,weekday,1.2,21.53
+79,Weboda,7.0364,79.9869,86,Pittugala,6.9133,79.9694,17.8,21.13,midday,weekday,1.2,23.94
+71,Colombo Port,6.95,79.8378,93,Gonawala,7.1539,79.9819,40.52,54.44,morning_peak,weekday,1.8,90.74
+69,Pelawatte,6.8908,79.9311,62,Ingiriya,6.7344,80.1058,37.03,40.9,evening_peak,weekday,2,86.96
+56,Padukka,6.8361,80.0872,24,Hokandara,6.8494,79.9575,17.73,26.89,evening_peak,weekday,2,56.75
+3,Maradana,6.92,79.8617,37,Kandana,7.0508,79.9058,17.95,24.37,evening_peak,weekday,2,47.14
+87,Gothatuwa,6.9217,79.9856,28,Malabe,6.9061,79.9519,6.12,9.5,night,weekday,0.85,8.37
+33,Kelaniya,7.0017,79.9219,64,Gangodawila,6.8567,79.8994,21.48,29.39,night,weekday,0.85,28.59
+57,Hanwella,6.9042,80.0842,8,Wellawatte,6.875,79.8617,33.7,41.86,evening_peak,weekday,2,75.77
+58,Avissawella,6.9472,80.2108,12,Grandpass,6.9425,79.8706,46.07,58.26,morning_peak,weekend,1.17,58.22
+39,Seeduwa,7.1175,79.8928,76,Welisara,7.0097,79.8939,14.06,19.92,midday,weekday,1.2,25.31
+54,Liyanagemulla,7.1378,79.8853,78,Kadawatha Junction,7.0028,79.9556,23.35,29.26,midday,weekday,1.2,39.17
+100,Colombo 02,6.9178,79.8464,48,Dompe,7.065,80.0969,40.43,49.96,morning_peak,weekday,1.8,80.25
+97,Maththegoda,6.8103,80.0478,34,Peliyagoda,6.9711,79.8906,41.62,50.3,midday,weekend,1.02,57.06
+6,Kollupitiya,6.8978,79.85,11,Kotahena,6.9531,79.8597,7.64,11.38,morning_peak,weekend,1.17,14
+12,Grandpass,6.9425,79.8706,85,Hendala,6.9894,79.9019,8.96,13.87,night,weekday,0.85,10.27
+69,Pelawatte,6.8908,79.9311,37,Kandana,7.0508,79.9058,24.31,32.1,evening_peak,weekend,1.4,46.53
+40,Katunayake,7.1697,79.8847,54,Liyanagemulla,7.1378,79.8853,3.81,5.98,morning_peak,weekend,1.17,7.6
+9,Dehiwala,6.8517,79.865,62,Ingiriya,6.7344,80.1058,35.36,41.45,evening_peak,weekday,2,71.47
+44,Minuwangoda,7.1667,79.9506,22,Kottawa,6.8244,79.9628,49.01,55.7,morning_peak,weekday,1.8,97.81
+67,Kahathuduwa,6.7981,80.0133,87,Gothatuwa,6.9217,79.9856,22.14,24.39,midday,weekday,1.2,25.13
+18,Piliyandala,6.8017,79.9247,67,Kahathuduwa,6.7981,80.0133,11.84,16.75,midday,weekday,1.2,22.31
+91,Pannala,7.2956,80.0394,58,Avissawella,6.9472,80.2108,53.24,76.58,night,weekday,0.85,57.89
+24,Hokandara,6.8494,79.9575,72,Mutwal,6.9617,79.8522,21.28,32.27,evening_peak,weekend,1.4,41.26
+53,Mahara,7.0547,80.0153,80,Udugampola,7.0717,80.0239,3.46,4.92,evening_peak,weekday,2,11.03
+62,Ingiriya,6.7344,80.1058,70,Koswatta,6.9194,79.9211,38.6,43.76,midday,weekday,1.2,53.56
+61,Panadura South,6.695,79.905,4,Borella,6.9113,79.8778,27.89,39.22,night,weekday,0.85,32.96
+57,Hanwella,6.9042,80.0842,90,Bloemendhal,6.96,79.8647,28.94,36.4,night,weekday,0.85,27.97
+90,Bloemendhal,6.96,79.8647,33,Kelaniya,7.0017,79.9219,9.62,15,evening_peak,weekend,1.4,18.06
+71,Colombo Port,6.95,79.8378,34,Peliyagoda,6.9711,79.8906,10.44,20.77,evening_peak,weekend,1.4,25.15
+73,Modara,6.9714,79.8681,74,Orugodawatta,6.9486,79.8886,4.31,8.92,evening_peak,weekday,2,16.86
+41,Negombo,7.2089,79.8353,53,Mahara,7.0547,80.0153,43.88,45.42,midday,weekday,1.2,62.67
+24,Hokandara,6.8494,79.9575,89,Havelock Town,6.8856,79.8642,12.48,20.3,midday,weekday,1.2,25.28
+4,Borella,6.9113,79.8778,98,Kosgama,6.8856,80.1681,43.5,55.91,evening_peak,weekend,1.4,86.8
+71,Colombo Port,6.95,79.8378,86,Pittugala,6.9133,79.9694,21.31,33.69,morning_peak,weekday,1.8,64.08
+57,Hanwella,6.9042,80.0842,79,Weboda,7.0364,79.9869,27.72,31.63,evening_peak,weekday,2,59.35
+11,Kotahena,6.9531,79.8597,27,Battaramulla,6.8994,79.9164,10.5,14.44,midday,weekday,1.2,16.5
+77,Kerawalapitiya,6.9883,79.8658,45,Divulapitiya,7.2278,80.06,46.96,57.7,evening_peak,weekday,2,126.81
+31,Thalawathugoda,6.8869,79.9331,92,Ekala,7.0761,79.9283,35.63,43.21,evening_peak,weekday,2,81.01
+51,Kadawatha,7.0072,79.9508,7,Bambalapitiya,6.8867,79.8567,20.24,27.45,evening_peak,weekend,1.4,41.27
+9,Dehiwala,6.8517,79.865,36,Ragama,7.0261,79.9181,24.57,32.8,evening_peak,weekday,2,72.65
+63,Kirulapone,6.8742,79.8825,69,Pelawatte,6.8908,79.9311,9.47,14.53,midday,weekend,1.02,15.19
+90,Bloemendhal,6.96,79.8647,14,Dematagoda,6.9261,79.88,5.84,8.96,midday,weekday,1.2,9.15
+53,Mahara,7.0547,80.0153,18,Piliyandala,6.8017,79.9247,41.91,41.02,midday,weekday,1.2,48.46
+44,Minuwangoda,7.1667,79.9506,47,Nittambuwa,7.1497,80.18,32,50.6,evening_peak,weekend,1.4,80.51
+8,Wellawatte,6.875,79.8617,80,Udugampola,7.0717,80.0239,33.48,41.66,evening_peak,weekday,2,82.65
+96,Aluthgama,6.4333,79.9992,26,Rajagiriya,6.9111,79.8989,73.71,67.55,morning_peak,weekday,1.8,114.63
+51,Kadawatha,7.0072,79.9508,5,Cinnamon Gardens,6.9011,79.8601,18.78,25.29,morning_peak,weekend,1.17,25.42
+54,Liyanagemulla,7.1378,79.8853,11,Kotahena,6.9531,79.8597,32.1,30.94,morning_peak,weekday,1.8,55.65
+28,Malabe,6.9061,79.9519,78,Kadawatha Junction,7.0028,79.9556,16.33,19.05,morning_peak,weekday,1.8,36.63
+84,Yakkala,7.1019,80.0767,79,Weboda,7.0364,79.9869,14.39,20.01,morning_peak,weekday,1.8,37.68
+25,Boralesgamuwa,6.8372,79.9111,61,Panadura South,6.695,79.905,19.43,31.23,evening_peak,weekday,2,71.55
+48,Dompe,7.065,80.0969,14,Dematagoda,6.9261,79.88,36.06,43.71,morning_peak,weekday,1.8,88.04
+49,Kirindiwela,6.9928,80.0944,55,Homagama,6.8444,80.0044,27.23,43.05,night,weekend,0.807,37.25
+58,Avissawella,6.9472,80.2108,35,Wattala,6.9939,79.8781,55.42,63.78,night,weekday,0.85,58.16
+45,Divulapitiya,7.2278,80.06,95,Beruwala,6.4781,79.9833,105.79,105.52,evening_peak,weekday,2,219.82
+94,Welisara North,7.02,79.89,53,Mahara,7.0547,80.0153,20.23,22.22,midday,weekday,1.2,25.02
+6,Kollupitiya,6.8978,79.85,55,Homagama,6.8444,80.0044,20.45,29.57,morning_peak,weekday,1.8,52.33
+45,Divulapitiya,7.2278,80.06,64,Gangodawila,6.8567,79.8994,58.37,72.53,night,weekday,0.85,53.98
+97,Maththegoda,6.8103,80.0478,47,Nittambuwa,7.1497,80.18,69.17,84.17,midday,weekday,1.2,89.2
+24,Hokandara,6.8494,79.9575,15,Narahenpita,6.8981,79.8742,13.29,21.18,midday,weekday,1.2,22.65
+72,Mutwal,6.9617,79.8522,78,Kadawatha Junction,7.0028,79.9556,15.1,21.56,night,weekday,0.85,19.97
+81,Heiyanthuduwa,6.9444,80.0431,40,Katunayake,7.1697,79.8847,45.57,47.17,night,weekend,0.807,35.66
+34,Peliyagoda,6.9711,79.8906,68,Sri Jayawardenepura,6.8886,79.9203,16,20.95,midday,weekday,1.2,21.54
+3,Maradana,6.92,79.8617,51,Kadawatha,7.0072,79.9508,16.72,22.66,midday,weekday,1.2,31.04
+93,Gonawala,7.1539,79.9819,59,Kalutara,6.5854,79.9608,75.41,78.37,evening_peak,weekday,2,150.16
+24,Hokandara,6.8494,79.9575,81,Heiyanthuduwa,6.9444,80.0431,21.42,33.75,morning_peak,weekday,1.8,64.62
+42,Gampaha,7.0878,79.9992,39,Seeduwa,7.1175,79.8928,14.81,22.45,midday,weekday,1.2,30.62
+82,Pasyala,7.0911,80.1394,99,Bulathsinhala,6.665,80.1825,88.31,97.98,midday,weekend,1.02,98.51
+62,Ingiriya,6.7344,80.1058,85,Hendala,6.9894,79.9019,53.35,53.29,evening_peak,weekday,2,106.18
+8,Wellawatte,6.875,79.8617,73,Modara,6.9714,79.8681,13.57,19.37,evening_peak,weekday,2,40.16
+25,Boralesgamuwa,6.8372,79.9111,15,Narahenpita,6.8981,79.8742,9.72,14.99,morning_peak,weekday,1.8,29.31
+57,Hanwella,6.9042,80.0842,42,Gampaha,7.0878,79.9992,35.52,42.07,midday,weekday,1.2,56.35
+84,Yakkala,7.1019,80.0767,34,Peliyagoda,6.9711,79.8906,29.04,38.26,night,weekday,0.85,34.22
+30,Mulleriyawa,6.9317,79.9514,88,Thimbirigasyaya,6.8839,79.8778,14.34,21.15,evening_peak,weekday,2,42.47
+52,Kiribathgoda,6.9822,79.9486,15,Narahenpita,6.8981,79.8742,16.68,23.66,midday,weekday,1.2,24.95
+15,Narahenpita,6.8981,79.8742,93,Gonawala,7.1539,79.9819,39.65,47.82,morning_peak,weekday,1.8,83.83
