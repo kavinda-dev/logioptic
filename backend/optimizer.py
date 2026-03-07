@@ -4,10 +4,6 @@ from ortools.constraint_solver import pywrapcp
 from predictor import predict_travel_time
 from typing import List, Dict
 
-# ============================================================
-# STEP 1 - FETCH REAL ROAD DISTANCES FROM OSRM
-# Same approach used in dataset generation
-# ============================================================
 
 def get_osrm_matrix(locations: List[Dict]) -> tuple:
     """
@@ -30,11 +26,6 @@ def get_osrm_matrix(locations: List[Dict]) -> tuple:
 
     return data["durations"], data["distances"]
 
-
-# ============================================================
-# STEP 1b - FETCH REAL ROAD GEOMETRY + DIRECTIONS FROM OSRM
-# Called after OR-Tools determines the optimal stop order
-# ============================================================
 
 def get_osrm_route(ordered_locations):
     """
@@ -61,7 +52,6 @@ def get_osrm_route(ordered_locations):
         for pt in route["geometry"]["coordinates"]
     ]
 
-    # build human-readable steps from each leg
     steps = []
     for leg in route["legs"]:
         for step in leg["steps"]:
@@ -100,12 +90,6 @@ def get_osrm_route(ordered_locations):
     }
 
 
-# ============================================================
-# STEP 2 - BUILD TRAVEL TIME MATRIX USING XGBOOST
-# For each origin-destination pair, the XGBoost model predicts
-# the actual travel time given traffic conditions
-# ============================================================
-
 def build_time_matrix(locations: List[Dict], time_of_day: str, day_type: str):
     """
     Builds an NxN travel time matrix (in seconds) using:
@@ -128,12 +112,10 @@ def build_time_matrix(locations: List[Dict], time_of_day: str, day_type: str):
             base_sec = durations_matrix[i][j]
             dist_m   = distances_matrix[i][j]
 
-            # handle cases where OSRM could not find a route
             if base_sec is None or dist_m is None:
                 row.append(999999)
                 continue
 
-            # use XGBoost to predict traffic-adjusted travel time
             predicted_minutes = predict_travel_time(
                 distance_km            = dist_m / 1000,
                 osrm_base_duration_min = base_sec / 60,
@@ -145,19 +127,13 @@ def build_time_matrix(locations: List[Dict], time_of_day: str, day_type: str):
                 day_type               = day_type
             )
 
-            # OR-Tools works in integer seconds
+            # OR-Tools requires integer weights; convert predicted minutes to seconds
             row.append(int(predicted_minutes * 60))
 
         time_matrix.append(row)
 
     return time_matrix, distances_matrix
 
-
-# ============================================================
-# STEP 3 - SOLVE VRP USING OR-TOOLS
-# Finds the optimal delivery sequence that minimises total
-# travel time across all vehicles
-# ============================================================
 
 def solve_vrp(
     locations: List[Dict],
@@ -173,13 +149,12 @@ def solve_vrp(
     """
 
     n = len(locations)
+    effective_vehicles = min(num_vehicles, n - 1)  # can't have more vehicles than stops
     time_matrix, distances_matrix = build_time_matrix(locations, time_of_day, day_type)
 
-    # create the OR-Tools routing index manager
-    manager = pywrapcp.RoutingIndexManager(n, num_vehicles, depot_index)
+    manager = pywrapcp.RoutingIndexManager(n, effective_vehicles, depot_index)
     routing = pywrapcp.RoutingModel(manager)
 
-    # define the travel time callback
     def time_callback(from_index, to_index):
         from_node = manager.IndexToNode(from_index)
         to_node   = manager.IndexToNode(to_index)
@@ -188,7 +163,22 @@ def solve_vrp(
     transit_callback_index = routing.RegisterTransitCallback(time_callback)
     routing.SetArcCostEvaluatorOfAllVehicles(transit_callback_index)
 
-    # set search parameters
+    # Force stops to be distributed across vehicles
+    max_stops = -(-(n - 1) // effective_vehicles)  # ceiling division
+
+    def visit_callback(from_index):
+        node = manager.IndexToNode(from_index)
+        return 0 if node == depot_index else 1
+
+    visit_cb_idx = routing.RegisterUnaryTransitCallback(visit_callback)
+    routing.AddDimensionWithVehicleCapacity(
+        visit_cb_idx,
+        0,
+        [max_stops] * effective_vehicles,
+        True,
+        'Visits'
+    )
+
     search_params = pywrapcp.DefaultRoutingSearchParameters()
     search_params.first_solution_strategy = (
         routing_enums_pb2.FirstSolutionStrategy.PATH_CHEAPEST_ARC
@@ -198,17 +188,15 @@ def solve_vrp(
     )
     search_params.time_limit.seconds = 10
 
-    # solve the VRP
     solution = routing.SolveWithParameters(search_params)
 
     if not solution:
         raise Exception("OR-Tools could not find a solution")
 
-    # extract routes from the solution
     routes = []
     total_time_seconds = 0
 
-    for vehicle_id in range(num_vehicles):
+    for vehicle_id in range(effective_vehicles):
         index = routing.Start(vehicle_id)
         route_stops = []
         cumulative_seconds = 0
@@ -229,7 +217,7 @@ def solve_vrp(
             cumulative_seconds += routing.GetArcCostForVehicle(index, next_index, vehicle_id)
             index = next_index
 
-        # add the final depot stop
+        # add the return-to-depot stop
         node = manager.IndexToNode(index)
         loc  = locations[node]
         route_stops.append({
@@ -240,10 +228,8 @@ def solve_vrp(
             "eta_minutes":  round(cumulative_seconds / 60, 1)
         })
 
-        route_time = solution.ObjectiveValue() // num_vehicles
-        total_time_seconds += route_time
+        total_time_seconds += cumulative_seconds
 
-        # fetch real road geometry and directions for the ordered stop sequence
         ordered_locs = [{"lat": s["lat"], "lng": s["lng"]} for s in route_stops]
         road_data = get_osrm_route(ordered_locs)
 

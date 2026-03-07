@@ -199,6 +199,20 @@ body {
   background: rgba(255,255,255,0.25);
 }
 
+.btn-history {
+  padding: 6px 14px;
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.83rem;
+  transition: background 0.15s;
+}
+.btn-history:hover {
+  background: rgba(255, 255, 255, 0.28);
+}
+
 /* ============================================================
    TWO-COLUMN LAYOUT
    ============================================================ */
@@ -792,6 +806,234 @@ body {
   font-size: 0.95rem;
   border: 2px dashed var(--border);
   border-radius: 10px;
+}
+
+/* ============================================================
+   HISTORY MODAL
+   ============================================================ */
+
+.history-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.history-modal {
+  background: white;
+  border-radius: 12px;
+  width: 540px;
+  max-height: 70vh;
+  overflow-y: auto;
+  padding: 24px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+}
+.history-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.history-modal-header h2 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #0f2c4a;
+}
+.btn-close-history {
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  cursor: pointer;
+  color: #64748b;
+}
+.btn-close-history:hover { color: #0f2c4a; }
+.history-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 12px 14px;
+  margin-bottom: 10px;
+}
+.history-card-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+  flex-wrap: wrap;
+}
+.history-date {
+  font-size: 0.78rem;
+  color: #64748b;
+  flex: 1;
+}
+.history-badge {
+  font-size: 0.72rem;
+  background: #f1f5f9;
+  color: #334155;
+  padding: 2px 8px;
+  border-radius: 20px;
+}
+.history-card-stats {
+  display: flex;
+  gap: 16px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #0f2c4a;
+}
+.history-loading, .history-empty {
+  text-align: center;
+  color: #64748b;
+  padding: 24px 0;
+}
+
+/* ============================================================
+   BUTTON ROW (Optimize + Compare side-by-side)
+   ============================================================ */
+
+.btn-row {
+  display: flex;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.btn-row .btn-optimize {
+  flex: 1;
+  margin-top: 0;
+}
+
+.compare-btn {
+  flex: 1;
+  padding: 13px;
+  background: linear-gradient(135deg, #7c3aed 0%, #5b21b6 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.92rem;
+  font-weight: 700;
+  cursor: pointer;
+  letter-spacing: 0.3px;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.compare-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(124, 58, 237, 0.35);
+}
+
+.compare-btn:disabled {
+  background: #94a3b8;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+/* ============================================================
+   TIME BADGE
+   ============================================================ */
+
+.results-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 6px;
+}
+
+.results-header h2 {
+  margin-bottom: 0;
+}
+
+.time-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+
+.time-badge--morning_peak { background: #fef3c7; color: #92400e; }
+.time-badge--evening_peak { background: #fee2e2; color: #991b1b; }
+.time-badge--midday        { background: #d1fae5; color: #065f46; }
+.time-badge--night         { background: #e0e7ff; color: #3730a3; }
+
+/* ============================================================
+   COMPARE PANEL
+   ============================================================ */
+
+.compare-panel {
+  background: var(--card);
+  border: 1.5px solid #ddd6fe;
+  border-left: 4px solid #7c3aed;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.compare-panel h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 4px;
+}
+
+.compare-subtitle {
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin-bottom: 14px;
+}
+
+.compare-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+.compare-table th {
+  background: #5b21b6;
+  color: white;
+  padding: 9px 12px;
+  text-align: left;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.compare-table th:first-child { border-radius: 6px 0 0 0; }
+.compare-table th:last-child  { border-radius: 0 6px 0 0; }
+
+.compare-table td {
+  padding: 9px 12px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: middle;
+}
+
+.compare-table tr:last-child td { border-bottom: none; }
+
+.compare-table tr.active-row td {
+  background: #f5f3ff;
+  font-weight: 600;
+}
+
+.compare-table tr.active-row td:first-child {
+  border-left: 3px solid #7c3aed;
+}
+
+.period-cell {
+  text-transform: capitalize;
+  white-space: nowrap;
+}
+
+.stop-order-cell {
+  color: var(--muted);
+  font-size: 0.8rem;
+  word-break: break-word;
+}
+
+.compare-note {
+  margin-top: 12px;
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-style: italic;
 }
 
 /* ============================================================

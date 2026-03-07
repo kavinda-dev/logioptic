@@ -6,10 +6,6 @@ import CSVUpload from './components/CSVUpload';
 import AnalyticsPanel from './components/AnalyticsPanel';
 import './App.css';
 
-// ============================================================
-// MAIN APP COMPONENT
-// ============================================================
-
 function formatTime(minutes) {
   const m = Math.round(minutes);
   if (m < 60) return `${m} min`;
@@ -169,8 +165,27 @@ function App() {
   const [loading, setLoading]               = useState(false);
   const [error, setError]                   = useState('');
   const [openDirections, setOpenDirections] = useState({});
+  const [comparing, setComparing]           = useState(false);
+  const [compareResults, setCompareResults] = useState(null);
   const toggleDirections = (vehicleId) => {
     setOpenDirections(prev => ({ ...prev, [vehicleId]: !prev[vehicleId] }));
+  };
+
+  const [showHistory, setShowHistory] = useState(false);
+  const [history, setHistory]         = useState([]);
+  const [historyLoading, setHistoryLoading] = useState(false);
+
+  const fetchHistory = async () => {
+    setHistoryLoading(true);
+    try {
+      const res = await axios.get(`http://127.0.0.1:8000/api/routes/history?username=${loggedInUser}`);
+      setHistory(res.data);
+    } catch (_) {
+      setHistory([]);
+    } finally {
+      setHistoryLoading(false);
+      setShowHistory(true);
+    }
   };
 
   // ---- Login gate ----
@@ -307,6 +322,33 @@ function App() {
     }
   };
 
+  const handleCompare = async () => {
+    const resolved = locations.filter(l => l.resolved);
+    if (resolved.length < 2) {
+      setError('Please resolve at least 2 locations before comparing.');
+      return;
+    }
+    setError('');
+    setComparing(true);
+    try {
+      const payload = {
+        locations: locations
+          .filter(l => l.resolved)
+          .map((loc, idx) => ({ id: idx, name: loc.name, lat: loc.lat, lng: loc.lng })),
+        day_type:     dayType,
+        num_vehicles: parseInt(numVehicles),
+        depot_index:  0,
+      };
+      const res = await axios.post('http://127.0.0.1:8000/api/compare', payload);
+      setCompareResults(res.data);
+    } catch (err) {
+      setError('Compare failed. Make sure the backend is running.');
+      console.error(err);
+    } finally {
+      setComparing(false);
+    }
+  };
+
   return (
     <div className="app-container">
 
@@ -318,6 +360,7 @@ function App() {
         </div>
         <div className="header-user">
           <span>Logged in as <strong>{loggedInUser}</strong></span>
+          <button className="btn-history" onClick={fetchHistory}>History</button>
           <button className="btn-logout" onClick={handleLogout}>Logout</button>
         </div>
       </header>
@@ -417,9 +460,14 @@ function App() {
             </div>
           </div>
 
-          <button className="btn-optimize" onClick={handleOptimize} disabled={loading}>
-            {loading ? 'Optimizing...' : 'Optimize Route'}
-          </button>
+          <div className="btn-row">
+            <button className="btn-optimize" onClick={handleOptimize} disabled={loading}>
+              {loading ? 'Optimizing...' : 'Optimize Route'}
+            </button>
+            <button className="compare-btn" onClick={handleCompare} disabled={comparing}>
+              {comparing ? 'Comparing...' : 'Compare Times'}
+            </button>
+          </div>
 
           {error && <div className="error-box">{error}</div>}
         </div>
@@ -431,7 +479,12 @@ function App() {
 
           {result && (
             <div className="results-section">
-              <h2>Optimized Route</h2>
+              <div className="results-header">
+                <h2>Optimized Route</h2>
+                <span className={`time-badge time-badge--${timeOfDay}`}>
+                  {timeOfDay.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}
+                </span>
+              </div>
               <p className="summary">
                 Total travel time: <strong>{formatTime(result.total_time_minutes)}</strong>
                 &nbsp;|&nbsp; Total road distance: <strong>{result.total_distance_km} km</strong>
@@ -504,8 +557,76 @@ function App() {
             </div>
           )}
 
+          {compareResults && (
+            <div className="compare-panel">
+              <h3>Time Period Comparison</h3>
+              <p className="compare-subtitle">
+                Same stops, different traffic multipliers — OR-Tools minimises time, not distance.
+              </p>
+              <table className="compare-table">
+                <thead>
+                  <tr>
+                    <th>Time Period</th>
+                    <th>Total Time</th>
+                    <th>Distance</th>
+                    <th>Stop Order</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {['morning_peak', 'midday', 'evening_peak', 'night'].map(period => {
+                    const r = compareResults[period];
+                    return (
+                      <tr key={period} className={period === timeOfDay ? 'active-row' : ''}>
+                        <td className="period-cell">{period.replace(/_/g, ' ')}</td>
+                        <td>{r.error ? '—' : `${r.total_time_minutes} min`}</td>
+                        <td>{r.error ? '—' : `${r.total_distance_km} km`}</td>
+                        <td className="stop-order-cell">
+                          {r.error ? r.error : r.stop_order.join(' → ')}
+                        </td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </table>
+              <p className="compare-note">
+                Highlighted row = currently selected time period.
+                Differing stop orders show traffic-aware rerouting.
+              </p>
+            </div>
+          )}
+
         </div>
       </div>
+
+      {showHistory && (
+        <div className="history-overlay" onClick={() => setShowHistory(false)}>
+          <div className="history-modal" onClick={e => e.stopPropagation()}>
+            <div className="history-modal-header">
+              <h2>Route History</h2>
+              <button className="btn-close-history" onClick={() => setShowHistory(false)}>✕</button>
+            </div>
+            {historyLoading && <p className="history-loading">Loading...</p>}
+            {!historyLoading && history.length === 0 && (
+              <p className="history-empty">No routes saved yet.</p>
+            )}
+            {!historyLoading && history.map(r => (
+              <div className="history-card" key={r.id}>
+                <div className="history-card-meta">
+                  <span className="history-date">{new Date(r.created_at).toLocaleString()}</span>
+                  <span className="history-badge">{r.time_of_day.replace(/_/g, ' ')}</span>
+                  <span className="history-badge">{r.day_type}</span>
+                </div>
+                <div className="history-card-stats">
+                  <span>{r.num_stops} stops</span>
+                  <span>{r.num_vehicles} vehicle{r.num_vehicles > 1 ? 's' : ''}</span>
+                  <span>{formatTime(r.total_time_minutes)}</span>
+                  <span>{r.total_distance_km} km</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }

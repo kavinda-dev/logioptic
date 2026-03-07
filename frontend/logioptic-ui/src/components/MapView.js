@@ -3,9 +3,7 @@ import { MapContainer, TileLayer, Marker, Popup, Polyline, useMap } from 'react-
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 
-// ============================================================
-// FIX: default marker icons broken in react-leaflet
-// ============================================================
+// react-leaflet v4 strips Leaflet's default icon paths at build time; restore them manually
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({
   iconRetinaUrl: require('leaflet/dist/images/marker-icon-2x.png'),
@@ -13,7 +11,6 @@ L.Icon.Default.mergeOptions({
   shadowUrl:     require('leaflet/dist/images/marker-shadow.png'),
 });
 
-// custom depot icon (blue) and stop icon (red)
 const depotIcon = new L.Icon({
   iconUrl:       require('leaflet/dist/images/marker-icon.png'),
   iconRetinaUrl: require('leaflet/dist/images/marker-icon-2x.png'),
@@ -23,9 +20,6 @@ const depotIcon = new L.Icon({
   popupAnchor:   [1, -34],
 });
 
-// ============================================================
-// AUTO-FIT: re-centres the map when markers change
-// ============================================================
 function FitBounds({ points }) {
   const map = useMap();
 
@@ -44,12 +38,8 @@ function FitBounds({ points }) {
   return null;
 }
 
-// ============================================================
-// MAIN MAP COMPONENT
-// ============================================================
 function MapView({ locations, result }) {
 
-  // collect all valid lat/lng from the input form
   const inputPoints = locations
     .map(loc => {
       const lat = parseFloat(loc.lat);
@@ -58,12 +48,11 @@ function MapView({ locations, result }) {
     })
     .filter(Boolean);
 
-  // use real road geometry from OSRM Route API (falls back to empty if unavailable)
+  // prefer OSRM road geometry for auto-fit; fall back to raw input coordinates
   const routeLines = result
     ? result.routes.map(route => route.geometry || [])
     : [];
 
-  // colours for multiple vehicles
   const lineColors = ['#e74c3c', '#3498db', '#2ecc71', '#f39c12', '#9b59b6'];
 
   return (
@@ -78,14 +67,12 @@ function MapView({ locations, result }) {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
 
-        {/* auto-fit to road geometry when available, else fall back to input markers */}
         <FitBounds points={
           (result && result.routes[0]?.geometry?.length > 0)
             ? result.routes[0].geometry
             : inputPoints
         } />
 
-        {/* place a marker for each location entered in the form */}
         {locations.map((loc, idx) => {
           const lat = parseFloat(loc.lat);
           const lng = parseFloat(loc.lng);
@@ -101,7 +88,6 @@ function MapView({ locations, result }) {
           );
         })}
 
-        {/* draw optimized route lines after solving */}
         {routeLines.map((line, idx) => (
           <Polyline
             key={idx}
